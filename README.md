@@ -4,15 +4,37 @@ This repository holds the various files and source code related to the Basingsto
 ## Hosting
 The web site is nominally hosted at https://genesis-sf.org.uk.
 
-## Branches
-Historically, the web site was designed by Antony Walls, then later modified by Matthew Greet. A current snapshot of that
-original site will be stored in a separate branch called `orig`. Changes can be made there for inclusion in the web page
-until the revamping is completed.
+## A Little History
+The Basingstoke Genesis Sci-fi club originally had a web site designed by Antony Walls. Management of the web site was later taken
+over by Matthew Greet. It was designed and deployed in the early 2010's, and it hasn't really had much of a face-lift since then.
+It doesn't look good on mobile devices. Also, it uses design choices that were cool and possibly even cutting-edge originally, but
+now make the whole thing look stodgy and out of date.
 
-In the meantime, a `jekyll` branch will be used to hold changes related to the revamping of the web site. This will be done
-using the static web site generate Jekyll. No specific time frame for this has been set, but it's where we'd like to go
-moving forward. When the `jekyll` branch gets to a stable point, it will be applied to the `main` branch, and the hosted
-web site will be updated to follow.
+To that end, a redesign has been in order for a while. A number of different people have looked at a number of different means
+toward doing this. These include continuing a dynamic type of site with something like Wordpress, to a static type of site. For
+the types of things that tend to be posted to the web site, it seems like a static site makes more sense. But rather than
+try to reinvent the wheel and hand-tool all of it, a static site generator should take a lot of the sting out of building
+the site.
+
+To that end, a few different generators have been considered. For a while, [Hugo](https://gohugo.io/) was considered, but it
+seemed to have a few problems with its generation, and it felt like it was a bit more complicated than it needed to be with
+fewer customisation abilities. The current thinking is to go with [Jekyll](https://jekyllrb.com/). There is a `jekyll` branch
+for those experiements.
+
+If anybody wants to try a different technology (or give Hugo another try), please get in touch with the administrator about
+setting up a different branch for you to experiment with.
+
+## Branches
+A snapshot of the current web site will be stored in a branch called `orig`. Any changes to the web site should be made there,
+and once approved and merged, those will be manually published to the official web site.
+
+In the meantime, a `jekyll` branch will hold changes related to the revamping of the web site. This will be done
+using the static web site generator [Jekyll](https://jekyllrb.com/). No specific time frame for completing this work this has
+been set, but it's where we'd like to go moving forward. When the `jekyll` branch gets to a stable point<sup>1</sup>, it will be applied
+to the `main` branch, and the hosted web site will be updated to follow.
 
 If you wish to contribute, please create your own personal branch off the appropriate `orig` or `jekyll` or `main` branches.
 You will then need to generate a Pull Request and get approval before merging into one of those other branches.
+
+---
+<sup>1</sup> The definition of _stable point_ for any particular branch will be decided by the Genesis committee.
