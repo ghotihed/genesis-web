@@ -19,22 +19,33 @@ the site.
 To that end, a few different generators have been considered. For a while, [Hugo](https://gohugo.io/) was considered, but it
 seemed to have a few problems with its generation, and it felt like it was a bit more complicated than it needed to be with
 fewer customisation abilities. The current thinking is to go with [Jekyll](https://jekyllrb.com/). There is a `jekyll` branch
-for those experiements.
+for those experiments.
 
 If anybody wants to try a different technology (or give Hugo another try), please get in touch with the administrator about
 setting up a different branch for you to experiment with.
 
 ## Branches
-A snapshot of the current web site will be stored in a branch called `orig`. Any changes to the web site should be made there,
-and once approved and merged, those will be manually published to the official web site.
+There are three official branches. Each of these require a pull request to be made in order to merge with them.
 
-In the meantime, a `jekyll` branch will hold changes related to the revamping of the web site. This will be done
+### `main`
+This will eventually hold the primary, official version of the web site. This will happen once a completed _new world order_ version
+is completed and ready for publishing.
+
+### `orig`
+A snapshot of the original, old-style version of the web site is stored in the `orig` branch. While the newer version of the
+web site is being developed, any changes to the existing site should be made here. These will then be manually published to
+the official web site.
+
+### `jekyll`
+The `jekyll` branch holds the changes related to the revamping of the web site. This will be done
 using the static web site generator [Jekyll](https://jekyllrb.com/). No specific time frame for completing this work this has
-been set, but it's where we'd like to go moving forward. When the `jekyll` branch gets to a stable point<sup>1</sup>, it will be applied
-to the `main` branch, and the hosted web site will be updated to follow.
+been set, but it's where we'd like to go moving forward. If and when the `jekyll` branch gets to a stable point<sup>1</sup>,
+it will be applied to the `main` branch, and the hosted web site will be updated to follow.
 
-If you wish to contribute, please create your own personal branch off the appropriate `orig` or `jekyll` or `main` branches.
-You will then need to generate a Pull Request and get approval before merging into one of those other branches.
+## Contributions
+If you wish to contribute, please create your personal branch off the appropriate `orig` or `jekyll` or `main` branches.
+When you have completed your changes, you will need to generate a Pull Request and get approval before merging into one
+of those other branches.
 
 ---
 <sup>1</sup> The definition of _stable point_ for any particular branch will be decided by the Genesis committee.
