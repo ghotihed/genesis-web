@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+    <META charset="utf-8">
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <TITLE>Genesis Sci-Fi Club - Archive - News 2017</TITLE>
+    <META NAME="description" CONTENT="Genesis Sci-Fi Club, the Basingstoke science fiction club - Archive - News 2014">
+    <META NAME="robots" CONTENT="all">
+    <META NAME="robots" CONTENT="index,follow">
+    <META NAME="google-bot" CONTENT="all">
+    <META NAME="google-bot" CONTENT="index,follow">
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('archiveNews2017Menu');">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody"> 
+      <H1 CLASS="title">Welcome to Genesis Sci-fi Club</H1>
+      <H2 CLASS="titletagline">The Basingstoke science fiction club</H2>
+      
+      <A HREF="https://hampshireculturaltrust.org.uk/milestones-museum" TARGET="_blank">
+        <IMG SRC="/archive/images/milestonesMuseum.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Milestones Museum"></A>
+      <H2 CLASS="textboxtitle">Milestones Museum - Saturday 4<sup>th</sup> February 2017</H2>
+      <DIV CLASS="textboxshrunken" ID="nextBookClub">
+        <P>At <A HREF="https://hampshireculturaltrust.org.uk/milestones-museum" TARGET="_blank">Milestones Museum</A>, 13:30am.  </p>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="nextBookClubControl">more</A>
+
+      <IMG SRC="images/barbecue.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Barbecue">
+      <H2 CLASS="textboxtitle">Barbecue - Sunday 30<sup>th</sup> July 2017</H2>
+      <DIV CLASS="textboxshrunken" ID="barbecue">
+        <P>Thanks to the Arnush family.  If you've lost your copy of the club magazine, email <A HREF="mailto:info@genesis-sf.org.uk">info@genesis-sf.org.uk</A> for the location.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="barbecueControl">more</A>
+
+      <A HREF="https://live.newscientist.com/" TARGET="_blank">
+        <IMG SRC="images/NewScientistLive2017.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="New Scientist Live"></A>
+      <H2 CLASS="textboxtitle">New Scientist - Saturday 30<sup>th</sup> September 2017</H2>
+      <DIV CLASS="textboxshrunken" ID="newScientistLive">
+        <P>Because we love science lectures and interactive exhibits.  Meet up at <A HREF="https://live.newscientist.com/" TARGET="_blank">New Scientist Live</A> in Excel London.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="newScientistLiveControl">more</A>
+
+      <A HREF="http://www.twyrusdrama.org.uk/" TARGET="_blank">
+        <IMG SRC="images/TwyfordRuscombeTheatre.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Mort"></A>
+      <H2 CLASS="textboxtitle">Mort - Saturday 7<sup>th</sup> October 2017.</H2>
+      <DIV CLASS="textboxshrunken" ID="mort">
+        <P>Mort, a Terry Pratchett classic, adapted to stage.  Susan has already booked tickets but there some left.  Performed by the <A HREF="http://www.twyrusdrama.org.uk/" TARGET="_blank">Twyford & Ruscombe Theatre Group</A> at 8pm.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="mortControl">more</A>
+
+      <A HREF="http://queenscollegearms.co.uk/" TARGET="_blank">
+        <IMG SRC="/images/QueensCollegeArmsDead.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Queen&#39;s College Arms pub"></A>
+      <H2 CLASS="textboxtitle">No More Pub Meetings</H2>
+      <DIV CLASS="textboxshrunken" ID="nextPubMeeting">
+        <P>Pub meetings are defunct.  However, various ad-hoc meetings, such as film watching, often happen.  Email <A HREF="mailto:info@genesis-sf.org.uk">info@genesis-sf.org.uk</A> for more details.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="nextPubMeetingControl">more</A>
+
+      <A HREF="https://www.myvue.com/cinema/basingstoke-festival-place" TARGET="_blank">
+        <IMG SRC="images/Star_Wars_The_Last_Jedi.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Star Wars The Last Jedi"></A>
+      <H2 CLASS="textboxtitle">Cinema + Christmas Dinner - Sunday 17<sup>th</sup> December 2017</H2>
+      <DIV CLASS="textboxshrunken" ID="starWarsLastJedi">
+        <P>Genesis goes to the cinema because it's Star Wars, then to the Red Lion Hotel for Christmas dinner.  Craig has tickets and the show starts at 3:30pm but turn up earlier.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="starWarsLastJediControl">more</A>
+
+      
+  </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

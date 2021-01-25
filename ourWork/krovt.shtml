@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+    <META charset="utf-8"> 
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <META NAME="description" CONTENT="Art by Louise Stanley">
+    <TITLE>Genesis - Krovt</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/highslide/highslide.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/highslide/highslide-with-gallery.js" TYPE="text/javascript"></SCRIPT>
+	<SCRIPT SRC="/scripts/highslide.cfg.js" TYPE="text/javascript"></SCRIPT>
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('ourWorkKrovtMenu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody"> 
+      <H1 CLASS="title">Krovt</H1> 
+      <DIV>
+        <p><I>Michal Piech has survived a revolution and a war, and travels to see his   uncle, the governor of the city of Krovt. When an attempt at kindness goes   wrong, he is finally able to confront his uncle and bring a personal struggle to   a close...</I></p>
+        <p>15th May 2011</p>
+      </DIV>
+     
+      
+     
+      <BR><A
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'chapter1' })"
+        CLASS="highslide"
+        HREF="https://lh3.googleusercontent.com/_JAIL5e40NsU/Tc_MQYtWzRI/AAAAAAAAAqk/CtKs2wbYQD0/s800/krovtpage1.jpg"><IMG
+        SRC="krovtImages/krovtpage1_thumbnail.png" TITLE="Click to expand"
+        HEIGHT="180" ALT="Krovt"></A><A
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'chapter1' })"
+        CLASS="highslide"
+        HREF="https://lh5.googleusercontent.com/_JAIL5e40NsU/Tc_MOb8QLfI/AAAAAAAAAqg/7ChQQKvY1xc/s800/krovtpage2.jpg"><IMG
+        SRC="krovtImages/krovtpage2_thumbnail.png" TITLE="Click to expand"
+        HEIGHT="180" ALT="Krovt"></A><A
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'chapter1' })"
+        CLASS="highslide"
+        HREF="https://lh4.googleusercontent.com/_JAIL5e40NsU/Tc_MY04ZhvI/AAAAAAAAAqs/f7AKXk3UaxE/s800/krovtpage3.jpg"><IMG
+        SRC="krovtImages/krovtpage3_thumbnail.png" TITLE="Click to expand"
+        HEIGHT="180" ALT="Krovt"></A><A
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'chapter1' })"
+        CLASS="highslide"
+        HREF="https://lh6.googleusercontent.com/_JAIL5e40NsU/Tc_MXbqtjII/AAAAAAAAAqo/Lgt7CumDpIc/s800/krovtpage4.jpg"><IMG
+        SRC="krovtImages/krovtpage4_thumbnail.png" TITLE="Click to expand"
+        HEIGHT="180" ALT="Krovt"></A><A
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'chapter1' })"
+        CLASS="highslide"
+        HREF="https://lh3.googleusercontent.com/_JAIL5e40NsU/Tc_MfhkNeII/AAAAAAAAAqw/67HjvRikmjg/s800/krovtpage5.jpg"><IMG
+        SRC="krovtImages/krovtpage5_thumbnail.png" TITLE="Click to expand"
+        HEIGHT="180" ALT="Krovt"></A><A
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'chapter1' })"
+        CLASS="highslide"
+        HREF="https://lh6.googleusercontent.com/_JAIL5e40NsU/Tc_MhYHNVqI/AAAAAAAAAq0/XQ6Zqw18bks/s800/krovtpage6.jpg"><IMG
+        SRC="krovtImages/krovtpage6_thumbnail.png" TITLE="Click to expand"
+        HEIGHT="180" ALT="Krovt"></A><A
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'chapter1' })"
+        CLASS="highslide"
+        HREF="https://lh4.googleusercontent.com/_JAIL5e40NsU/Tc_Moq1mfnI/AAAAAAAAAq4/xQGJaFpUpAA/s800/krovtpage7.jpg"><IMG
+        SRC="krovtImages/krovtpage7_thumbnail.png" TITLE="Click to expand"
+        HEIGHT="180" ALT="Krovt"></A><A
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'chapter1' })"
+        CLASS="highslide"
+        HREF="https://lh5.googleusercontent.com/_JAIL5e40NsU/Tc_Mpg4jtCI/AAAAAAAAAq8/EOU6JU2tdxY/s800/krovtpage8.jpg"><IMG
+        SRC="krovtImages/krovtpage8_thumbnail.png" TITLE="Click to expand"
+        HEIGHT="180" ALT="Krovt"></A><A
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'chapter1' })"
+        CLASS="highslide"
+        HREF="https://lh5.googleusercontent.com/_JAIL5e40NsU/Tc_MvzjevHI/AAAAAAAAArA/s_5drGWUlHk/s800/krovtpage9.jpg"><IMG
+        SRC="krovtImages/krovtpage9_thumbnail.png" TITLE="Click to expand"
+        HEIGHT="180" ALT="Krovt"></A><A
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'chapter1' })"
+        CLASS="highslide"
+        HREF="https://lh4.googleusercontent.com/_JAIL5e40NsU/Tc_MyFuAWtI/AAAAAAAAArE/5xCH42-I4VY/s800/krovtpage10.jpg"><IMG
+        SRC="krovtImages/krovtpage10_thumbnail.png" TITLE="Click to expand"
+        HEIGHT="180" ALT="Krovt"></A>
+    </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

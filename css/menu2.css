@@ -1,0 +1,102 @@
+IMG.logo {
+	border: none;
+}
+
+A.menu {
+    background-color: #82CAFA;
+    border: solid silver 1px;
+    color: navy;
+    display: block;
+    text-decoration: none;
+    font-family: Verdana;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: normal;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    text-align: center;
+    width: 150px;
+}
+
+a.menu:hover {
+    background-color: #1589FF;
+    color: white;
+    border: solid white 1px;
+}
+a.menu:visited {
+    border: solid silver 1px;
+}
+
+DIV.menuGroup {
+    margin: 0px;
+    padding: 0px;
+    border: solid black 0px;
+}
+
+a.submenu {
+    background-color: #82CAFA;
+    border: solid silver 1px;
+    color: navy;
+    display: block;
+    text-decoration: none;
+    font-family: Verdana;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: normal;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 20px;
+    text-align: center;
+    width: 130px;
+}
+
+a.submenu:hover {
+    background-color: #1589FF;
+    color: white;
+    border: solid white 1px;
+}
+a.submenu:visited {
+    border: solid silver 1px;
+}
+
+a.subsubmenu {
+    background-color: #82CAFA;
+    border: solid silver 1px;
+    color: navy;
+    display: block;
+    text-decoration: none;
+    font-family: Verdana;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: normal;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 40px;
+    text-align: center;
+    width: 110px;
+}
+
+a.subsubmenu:hover {
+    background-color: #1589FF;
+    color: white;
+    border: solid white 1px;
+}
+a.subsubmenu:visited {
+    border: solid silver 1px;
+}
+
+a.here {
+    background-color: #FDD017;
+    color: navy;
+    border: solid yellow 1px;
+}
+a.here:hover {
+    background-color: #FDD017;
+    color: navy;
+    border: solid yellow 1px;
+}
+a.here:visited {
+    background-color: #FDD017;
+    color: navy;
+    border: solid yellow 1px;
+}

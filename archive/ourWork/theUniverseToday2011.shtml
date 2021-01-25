@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD> 
+	 <META charset="utf-8"> 
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+     <META NAME="description" CONTENT="Brief summaries of 2011 copies of Genesis sci-fi's house magazine: The Universe Today">
+	 <TITLE>Genesis - The Universe Today 2011 Archive</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+	 <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('archiveOurWorkTheUniverseToday2011Menu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+	 <DIV CLASS="mainbody"> 
+		<H1 CLASS="title">The Universe Today 2011</H1> 
+		<P>Our long running in-house magazine, published for every club meeting. Now editied by Theresa Forster.</P> 
+		<P>Back issues aren't kept online due to limited disk space and some are missing.  Email the <a href="mailto:webmaster@genesis-sf.org.uk">webmaster</a> instead.</P>
+          
+        <IMG SRC="utimages/2011_January.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Universe Today">
+		<H2 CLASS="textboxtitle">9th January 2011</H2> 
+		<DIV CLASS="textboxshrunken" ID="January2011"> 
+		  <P>Special edition by the Reduced Rassilon Company, including 10 reasons why you should go to Redemption.</P>
+        </DIV>
+             
+        <IMG SRC="utimages/2011_February.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Universe Today">
+		<H2 CLASS="textboxtitle">6th February 2011</H2> 
+		<DIV CLASS="textboxshrunken" ID="Februrary2011"> 
+		  <P>What did happen to the Enterprise A? Plus upcoming films such as Thor and Riddick.<BR></P>
+        </DIV>
+        
+        <IMG SRC="utimages/2011_March.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Universe Today">
+		<H2 CLASS="textboxtitle">13th March 2011</H2> 
+		<DIV CLASS="textboxshrunken" ID="March2011"> 
+		  <P>Debuting Krovt, by Loiuse Stanley.</P>
+        </DIV>
+        
+        <IMG SRC="utimages/2011_April.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Universe Today">
+		<H2 CLASS="textboxtitle">3rd April 2011</H2> 
+		<DIV CLASS="textboxshrunken" ID="April2011"> 
+		  <P>Featuring Jeremy Ogden's review of Star Trek: TNG season 3.</P>
+		</DIV>
+        
+        <IMG SRC="utimages/2011_May_Early.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Universe Today"> 
+		<H2 CLASS="textboxtitle">1st May 2011</H2> 
+		<DIV CLASS="textboxshrunken" ID="MayEarly2011"> 
+		  <P>Featuring a tribute to Elizabeth Sladen RIP.</P>
+        </DIV>
+        
+        <IMG SRC="utimages/2011_May_Late.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Universe Today"> 
+		<H2 CLASS="textboxtitle">29th May 2011</H2> 
+		<DIV CLASS="textboxshrunken" ID="MayLate2011"> 
+		  <P>Review of the Corsham Sci Fi Family Funday, how close reality is to <i>The Terminator</i> and tribute to the <i>Discovery</i> shuttle and Jeff Conaway RIP.</P>
+        </DIV>
+        
+        <IMG SRC="utimages/2011_August.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Universe Today"> 
+		<H2 CLASS="textboxtitle">21st August 2011</H2> 
+		<DIV CLASS="textboxshrunken" ID="August2011"> 
+		  <P>15th anniversary edition</P>
+        </DIV>
+        
+        <IMG SRC="utimages/2011_December.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Universe Today"> 
+		<H2 CLASS="textboxtitle">11th December 2011</H2> 
+		<DIV CLASS="textboxshrunken" ID="December2011"> 
+		  <P>All you ever wanted to know about Aramdacon.  Guest edited by Jeremy Ogden.</P>
+        </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

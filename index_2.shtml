@@ -1,0 +1,177 @@
+<!DOCTYPE HTML>
+<html>
+  <HEAD>
+    <META charset="utf-8">
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <TITLE>Genesis Sci-Fi Club - News</TITLE>
+    <META NAME="description" CONTENT="Home and news page of Genesis Sci-Fi Club, the Basingstoke science fiction club">
+    <META NAME="keyword" CONTENT="Genesis Sci-Fi, Basingstoke, Sci-Fi, science-fiction, Buffy, Star Wars, Star Trek, Farscape">
+    <META NAME="robots" CONTENT="all">
+    <META NAME="robots" CONTENT="index,follow">
+    <META NAME="google-bot" CONTENT="all">
+    <META NAME="google-bot" CONTENT="index,follow">
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT>
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT>
+  </HEAD>
+  <BODY ONLOAD="selectMenu('newsMenu');">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody">
+      <H1 CLASS="title"> Welcome to Genesis Sci-fi Club </H1>
+      <H2 CLASS="titletagline">The Basingstoke science fiction club</H2>
+
+      <p>This web site is in the process of being revamped completely. Yes, we know it looks
+      dated. This will be remedied soon-ish (heavy on the -ish). Until then, you can consider
+      what you see here as a sort of archive. Go ahead and click the links on the side bar,
+      but keep in mind that much of the non-fictional information is woefully out of date.
+      As the site gets updated, a subset of that information will be copied over.</p>
+
+      <p>The next meetings are listed below. For now, they're all planned to be held online
+      using the Zoom platform. Connection information will be posted here, and on social media
+      (hopefully) no later than an hour before the meeting starts.</p>
+
+      <p>The next scheduled meetings are as follows:</p>
+      <ul>
+          <li>
+              <b>Movie Night</b>: Tuesday, 27<sup>th</sup> October, 2020 at 19:00 BST
+              <!--
+              <ul>
+                  <li>Join meeting: <a href="https://zoom.us/j/92536439416?pwd=N1VleEcwVUV4Ynh5cDVra053dUJmUT09">Click here</a></li>
+                  <li>Meeting ID: 925 3643 9416</li>
+                  <li>Password: 268557</li>
+              </ul>
+              -->
+          </li>
+          <li>
+              <b>Book Club Meeting</b>: Saturday, 10<sup>th</sup> October, 2020 at 10:00 BST
+              <!--
+              <ul>
+                  <li>Join meeting: <a href="https://zoom.us/j/97394366523?pwd=bGFvSWJjSkJSU052T3Jqd0txSURLdz09">Click here</a></li>
+                  <li>Meeting ID: 973 9436 6523</li>
+                  <li>Password: 677399</li>
+              </ul>
+              -->
+          </li>
+          <li>
+              <b>General Club Meeting</b>: Sunday, 18<sup>th</sup> October, 2020 at 15:00 BST
+              <!--
+              <ul>
+                  <li>Join meeting: <a href="https://zoom.us/j/91780949234?pwd=VU1rcWc4bCtnMHcrTGdIbUlSTGFNQT09">Click here</a></li>
+                  <li>Meeting ID: 917 8094 9234</li>
+                  <li>Password: 095599</li>
+              </ul>
+              -->
+          </li>
+      </ul>
+      
+      <p>In the meantime, we all hope everybody is doing as well as they can be, and that they're all coping with
+      whatever forms of isolation they may be forced to endure. When things have calmed down
+      again, and various venues have re-opened, regular in-person meetings will resume. Until then, everybody
+      stay safe!</p>
+
+      <b>Find us on social media!</b>
+
+      <table>
+          <tr>
+              <td><a href="https://www.facebook.com/groups/212265598812722">
+                  <svg viewBox="0 0 36 36" class="circle" fill="url(#circle-gradient)" height="40" width="40">
+                      <defs>
+                          <linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="circle-gradient">
+                              <stop offset="0%" stop-color="#0062E0"></stop>
+                              <stop offset="100%" stop-color="#19AFFF"></stop>
+                          </linearGradient>
+                          <style type="text/css"><![CDATA[
+                              .circle {
+                                  display: block;
+                                  transition-duration: var(--fds-fast);
+                                  transition-property: fill,stroke;
+                                  transition-timing-function: var(--fds-soft);
+                              }
+                              .letter-f {
+                                  stroke: white;
+                                  fill: white;
+                              }
+                          ]]></style>
+                      </defs>
+                      <path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path>
+                      <path class="letter-f" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path>
+                  </svg>
+              </a></td>
+              <td><a href="https://twitter.com/Genesis_SciFi"><img src="images/twitter-logo-250x250.png" width="40" height="40"/></a></td>
+              <td><a href="https://instagram.com/Genesis_SciFi"><img src="images/instagram-logo-250x250.png" width="40" height="40"/></a></td>
+          </tr>
+      </table>
+
+      <!--
+
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel">
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 20<sup>th</sup> October 2019</H2>
+      <DIV CLASS="textboxshrunken" ID="goldChannelOctober">
+        <H3><font color="goldenrod">GOLD CHANNEL</font></H3>
+        <P>Hi everybody from your chair René! Well, the weather has finally decided that summer is well and truly over, and is trying to make up for any lack of rain this summer with a vengeance. Myself and a group of Genesis-ites went to see Little Sho…</P>
+        <P>...t the Haymar...</P>
+        <P>Quail, minions!</P>
+        <P>Do not adjust your piece of paper. I've hijacked both the Genesis program and the Gold Channel this month, and there's nothing any of you can do about it!</P>
+        <P>I've decided to abuse this new power, and celebrate my staggering old age, by bringing you a selection of science fiction episodes and movies from the very year I was born: 1979. In fact, wherever possible I've chosen the episode closest to the day I was born. Let's have a blast from the past.</P>
+        <P>I've no doubt there are some absolute stinkers in the mix, and I don't care. Mwa-ha-ha-ha-ha!,</P>
+        <P>Your new overlord,</P>
+        <P>Marcus Downing</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlOctober">more</A>
+
+      <A HREF="http://www3.hants.gov.uk/library/south-ham-library.htm" TARGET="_blank">
+        <IMG SRC="/images/BookClub2.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Book Club"></A>
+      <H2 CLASS="textboxtitle">Next Book Club - 28<SUP>th</SUP> March</H2>
+      <DIV CLASS="textboxshrunken" ID="nextBookClub">
+        <P>At <A HREF="http://www3.hants.gov.uk/library/south-ham-library.htm" TARGET="_blank">South Ham library</A>, 10:00am till 12:00pm (1000 - 1200). (<A HREF="https://maps.google.co.uk/maps?q=south+ham+library&hl=en&ll=51.257591,-1.118374&spn=0.006123,0.027423&hq=south+ham+library&hnear=Reading,+United+Kingdom&t=m&z=15&layer=c&cbll=51.257612,-1.118405&panoid=CxkUWgdz3OGEbhR-gRB5JQ&cbp=11,61.98,,0,8.45"
+          TARGET="_blank">map</A>).  Discuss what books and graphic novels are new and what's worth reading.</P>
+        <P>Later Saturday meetings:</P>
+        <UL CLASS="datelist">
+          <LI>25<SUP>th</SUP> April</LI>
+          <LI>23<SUP>rd</SUP> May</LI>
+          <LI>20<SUP>th</SUP> June</LI>
+          <LI>18<SUP>th</SUP> July</LI>
+          <LI>15<SUP>th</SUP> August</LI>
+          <LI>12<SUP>th</SUP> September</LI>
+          <LI>10<SUP>th</SUP> October</LI>
+          <LI>7<SUP>th</SUP> November</LI>
+          <LI>5<SUP>th</SUP> December</LI>
+        </UL>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="nextBookClubControl">more</A>
+
+      <A HREF="http://redlionhotelbasingstoke.com/" TARGET="_blank">
+        <IMG SRC="images/RedLion.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Red Lion Hotel"></A>
+      <H2 CLASS="textboxtitle">Next Club Meeting - 5<SUP>th</SUP> April</H2>
+      <DIV CLASS="textboxshrunken" ID="nextClubMeeting">
+        <P>At <A HREF="http://redlionhotelbasingstoke.com/" TARGET="_blank">Red Lion Hotel</A> in Basingstoke, 3:00pm till 9:30pm (1500 - 2130). (<A HREF="https://www.google.co.uk/maps/place/The+Red+Lion+Hotel,+Red+Lion+Ln,+Basingstoke,+Hampshire+RG21/@51.2684613,-1.0459393,12z/data=!4m2!3m1!1s0x487421816de3fd77:0x21fba295fb84c855?hl=en-GB"
+          TARGET="_blank">map</A>).</P>
+        <P>Later Sunday meetings:</P>
+        <UL CLASS="datelist">
+          <LI>3<SUP>th</SUP> May</LI>
+          <LI>26<SUP>th</SUP> July</LI>
+          <LI>23<SUP>th</SUP> August</LI>
+          <LI>20<SUP>th</SUP> September</LI>
+          <LI>18<SUP>th</SUP> October</LI>
+          <LI>15<SUP>th</SUP> November</LI>
+        </UL>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="nextClubMeetingControl">more</A>
+
+      -->
+
+    </DIV>
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+    <P CLASS="lastModified">
+      <!--#config timefmt="%A, %d %B %Y %H:%M" -->
+      Page Last Modifed: <!--#echo var="LAST_MODIFIED" -->
+    </P>
+</BODY>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD> 
+	 <META charset="utf-8"> 
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+     <META NAME="description" CONTENT="Film reviews written by Genesis sci-fi members">
+	 <TITLE>Genesis - Cinema Reviews</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+	 <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('reviewBooksMenu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+	<DIV CLASS="mainbody"> 
+	  <H1 CLASS="title">Reviews - Books</H1> 
+       
+      <IMG SRC="/review/images/waroftheworlds.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The War of the Worlds"><H2 CLASS="textboxtitle"><A ID="waroftheworldsSubtitle">The War of the Worlds by H G Wells - 12th January 2014</A></H2> 
+      <DIV CLASS="textboxshrunken" ID="waroftheworlds">
+        <P>So the latest offering bestowed unto the members of our Book Club, is the classis sci-fi tale of death and destruction that is <i>The War of the Worlds</i>, by H G Wells.</P>
+        <P>This was originally intended to be a title read much earlier in the year; however events conspired against us, and in a strange mix up we found ourselves reading <i>The Time Machine</i> instead. No complaints about that of course, but it did mean that we pledged to get to <i>The War of the Worlds</i> again at some point. And so it transpired that this was to be the title which we took away to ingest during the Christmas break. This has turned out to be most fortunate, as with life being so ridiculously busy during this time of year, I am pleased to have been given such a slim volume.</P>
+        <P>Now despite the small size of the book, the ideas contained therein are of truly epic proportions. The book doesn’t fall into the trap of getting bogged down in these ideas, but instead seamlessly sows them into the readers mind without giving them a second thought. The book itself is quite dark. It’s written almost totally in the first person and, as such reads very much as if one was reading a journal. This is Wells’ intent, and the style is reminiscent of the time at which it was written. However the style does throw up some annoyances that irritate after a time. The reader is never given names, or any real insight into the character of any of the main protagonists. The only characters that seem to warrant a name are those that don’t last to long. It’s almost like Wells is writing his own personal account, and is afraid to let anyone see anything of himself between the pages of text for fear that it might get trapped there.</P>
+        <P>The story is well know to all, and there are times, when reading the original text (which was the purpose of the book club requesting it) that parts of sentences (the ones cherry picked by Jeff Wayne) cried out in Richard Burton’s voice. The story itself barrels along quite quickly, and that, along with very short chapters results in a quick read that is very hard to put down. (Although one of the copies that we were given had the most ridiculously small text, that had me thinking that I should book an eye exam. And which proved to be an unnecessary hurdle that Susan could have done without. (We ended up swapping copies).</P>
+        <P>The book follows the fortunes of a learned and socially well placed yet unknown individual, as he struggles to survive through the horrors of a Martian invasion. During this time he has to come to terms with his own actions as well as those of others, and as the story unfolds, he turns into more of an anti hero. Whilst the content of the book is compelling in the extreme, the reader is left wanting more. This might well not have been possible at the time of writing, as social acceptance demanded a different approach to writing novels in the 1890s. The fact is however, that whilst the book transfers just as well to a modern audience, the reader is now left slightly unsatisfied. Just a scrap of characterisation, a touch of emotion or empathy. But all we have is a dry narrative fixed grimly in the past tense. On the plus side however, this book will one day make an absolutely brilliant film.</P>
+        <P>I know what you’re thinking, but this tale really never has been told on the big screen. Also, as Wells goes out of his way to never describe the main characters in the story, this opens up a lot of possibilities! Sherlock Holmes anyone………………………..</P>
+        <P>In conclusion, this is a brilliant read that I would recommend to anyone. Yes there are shortcomings, as I have described.</P>
+        <P>However all I can say is that my world is better for having read it, than if I’d remained ignorant (or at least any more ignorant than I already am).</P>
+        <P><b>Vice ChairGerkin</b> (David Offen-James)</P>
+        <P>“The chances of anything coming from Mars are a million to one…….. Oh Bugger!!!!”</P>
+        <P></P>
+        <P></P>
+        <P></P>
+        <P></P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="waroftheworldsControl">more</A><BR>
+
+      
+    </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

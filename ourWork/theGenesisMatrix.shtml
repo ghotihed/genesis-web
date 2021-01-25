@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD> 
+	 <META charset="utf-8"> 
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+     <META NAME="description" CONTENT="Genesis Sci-fi's house magazine: The Genesis Matrix">
+	 <TITLE>Genesis - The Universe Today</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+	 <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('ourWorkTheGenesisMatrixMenu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+	 <DIV CLASS="mainbody"> 
+		<H1 CLASS="title">The Genesis Matrix</H1> 
+		<P>Our long running in-house magazine, published for every club meeting..</P> 
+		<P>If you do not have a PDF reader, try Adobe Reader.
+		  <A HREF="http://www.adobe.com/go/getreader" TARGET="_blank"><IMG
+		  SRC="utimages/get_adobe_reader.gif" WIDTH="112" HEIGHT="33" STYLE="vertical-align: text-top" ALT="The Genesis Matrix"></A></P>
+          
+        <A HREF="/ourWork/utpdf/2018_February.pdf">
+          <IMG SRC="/ourWork/utimages/2018_February.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix "></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2018_February.pdf">13th February 2018</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="January2014"> 
+		  <P>Book Review: <i>The Iron Druid Chronicles</i>.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2018_August.pdf">
+          <IMG SRC="/ourWork/utimages/2018_August.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix "></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2018_August.pdf">26th August 2018</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="January2014"> 
+		  <P>Aragorn's Pants by Marcus Downing.  The Parker Solar Probe.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2018_September.pdf">
+          <IMG SRC="/ourWork/utimages/2018_September.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix "></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2018_September.pdf">30th September 2018</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="January2014"> 
+		  <P>Hayabusa - 2 Reaches Ryugu</P>
+        </DIV>
+        
+    </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD> 
+	 <META charset="utf-8"> 
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+     <META NAME="description" CONTENT="Brief summaries of 2010 copies of Genesis sci-fi's house magazine: The Universe Today">
+	 <TITLE>Genesis - The Universe Today 2010 Archive</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+	 <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('archiveOurWorkTheUniverseToday2010Menu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+	 <DIV CLASS="mainbody"> 
+		<H1 CLASS="title">The Universe Today 2010</H1> 
+		<P>Our long running in-house magazine, published for every club meeting. Now editied by Theresa Forster.</P> 
+		<P>Back issues aren't kept online due to limited disk space and some are missing.  Email the <a href="mailto:webmaster@genesis-sf.org.uk">webmaster</a> instead.</P>
+          
+        <IMG SRC="/archive/ourWork/utimages/2010_May_Late.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Universe Today">
+		<H2 CLASS="textboxtitle">30th May 2010</H2> 
+		<DIV CLASS="textboxshrunken" ID="MayLate2010"> 
+		  <P>News about Caprica, Flash Forward and Matt Smith talks about his
+			 role as Doctor Who.<BR></P> </DIV><BR>
+
+        <IMG SRC="utimages/2010_July.png" CLASS="subtitle" WIDTH="70"
+		HEIGHT="70" ALT="The Universe Today"> 
+		<H2 CLASS="textboxtitle">25th July 2010</H2> 
+		<DIV CLASS="textboxshrunken" ID="August2010"> 
+		  <P>News about the Green Lantern, 14 things you didn't know about Star
+			 Trek and Robert Green vents his spleen about comedy vs. sci fi.<BR></P>
+		</DIV>
+        
+        <IMG SRC="utimages/2010_September.png"
+		CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Universe Today"> 
+		<H2 CLASS="textboxtitle">19th September 2010</H2> 
+		<DIV CLASS="textboxshrunken" ID="September2010"> 
+		  <P>News about Torchwood, Matt Smith and Glastonbury and Going
+			 Postal.<BR></P>
+        </DIV>
+        
+        <IMG SRC="utimages/2010_October.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Universe Today"> 
+		<H2 CLASS="textboxtitle">17th October 2010</H2> 
+		<DIV CLASS="textboxshrunken" ID="October2010"> 
+		  <P>Our trip to the Science Museum and LOTNA.<BR></P>
+        </DIV>
+        
+        <IMG SRC="utimages/2010_November.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Universe Today"> 
+		<H2 CLASS="textboxtitle">21st November 2010</H2> 
+		<DIV CLASS="textboxshrunken" ID="November2010"> 
+		  <P>What's wrong with the science of <I>Lost in Space</I>. Has CERN made
+			 the Vatican anti-matter bomb for real?<BR></P>
+        </DIV>
+        
+        <IMG SRC="utimages/2010_December.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Universe Today"> 
+		<H2 CLASS="textboxtitle">12th December 2010</H2> 
+		<DIV CLASS="textboxshrunken" ID="December2010"> 
+		  <P>ArmadaCon 2010 and what's on TV this Christmas.<BR></P>
+        </DIV>
+        
+    </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+    <META charset="utf-8">
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <TITLE>Genesis Sci-Fi Club - Archive - News 2014</TITLE>
+    <META NAME="description" CONTENT="Genesis Sci-Fi Club, the Basingstoke science fiction club - Archive - News 2014">
+    <META NAME="robots" CONTENT="all">
+    <META NAME="robots" CONTENT="index,follow">
+    <META NAME="google-bot" CONTENT="all">
+    <META NAME="google-bot" CONTENT="index,follow">
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('archiveNews2014Menu');">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody"> 
+      <H1 CLASS="title">Welcome to Genesis Sci-fi Club</H1>
+      <H2 CLASS="titletagline">The Basingstoke science fiction club</H2>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 12th January</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelMarch"> 
+        <P STYLE="color: purple; font-family: 'Comic Sans MS', cursive; font-variant: small-caps;">Now it’s time for me to write a Gold Channel – well, so I have been told! As I am sat in the Longbridge Mill waiting for my Genesis Christmas meal to arrive I thought I would write something in pink highlighter (we didn’t have a BIG PURPLE CRAYON – Ed).</P>
+        <p STYLE="color: purple; font-family: 'Comic Sans MS', cursive; font-variant: small-caps;">(Sorry, was interrupted by arrival of new people. But not by my food, otherwise all you would be getting from me this month would be the first paragraph!)</p>
+        <p STYLE="color: purple; font-family: 'Comic Sans MS', cursive; font-variant: small-caps;">So how was Christmas and New Year? I have to ask in case I had not seen you before this. Mine was good, thank you for asking.</p>
+        <p STYLE="color: purple; font-family: 'Comic Sans MS', cursive; font-variant: small-caps;">Now a timely reminder. It is time to start thinking about joining the committee, as it is AGM time again next month.</p>
+        <p>(We interrupt this Gold Channel to bring you….FOOD!! As a result you’re stuck with me for the rest of this page – Ed).
+Yes…right, the AGM. To Obi-Wan you listen. Actually don’t worry about him, he’s not the Chair Perkin you’re looking for. There will be vacancies on the Committee as Paul is standing down, as is David. And on a similar but related note, I’m also looking to hand the magazine on to someone, in some way, shape or form. I’m sure you’re all sick to death of me by now and would love to have a go at the magazine (please….anyone??) So please give some serious thought to the standing for the Committee.</p>
+        <p>Thank you to Rob for his timetable and quiz last month, which had us all hanging around for seconds (so to speak).</p>
+        <p>This month’s timetable is courtesy of Louise (and Tony), and has a loosely political theme to it. Being the best VHS purchase I ever made at a science fiction convention was not deemed a sufficient reason for showing House of Cards when I suggested it (you might also say that. I on the other hand, could not possibly comment), and instead we have, among other things, the opening episode of Blake’s 7 which I recall watching in the Bass House many years ago, and which got me hooked on the series and wanting to see more. It is 50 minutes of compelling drama, some of Terry Nation’s very best writing, and works on it’s own as a stand-alone story.</p>
+        <p>Anyway, on with the meeting. <SPAN STYLE="color: purple; font-family: 'Comic Sans MS', cursive; font-variant: small-caps;">Chair Perkin</SPAN> (and The Ed)</p>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlMarch">more</A>
+      
+      
+  </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

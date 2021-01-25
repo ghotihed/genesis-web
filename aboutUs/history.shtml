@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+	 <META charset="utf-8"> 
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+     <META NAME="description" CONTENT="History of the Genesis Sci-fi club">
+	 <TITLE>Genesis - History</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+	 <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('aboutUsHistoryMenu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+	 <DIV CLASS="mainbody"> 
+		<H1 CLASS="title">History</H1> 
+		<P>The initial idea of Genesis, as the name suggests, was a new
+		  beginning. Now it is just to provide a place for like-minded fans to gather and
+		  talk all things Science Fiction. <BR><BR>The main aim of
+		  <A CLASS="inline" HREF="aboutUs.shtml">Genesis</A> is to hold group meetings in a
+		  friendly atmosphere where you can talk SF, to watch and discuss movies and
+		  television series, eat good food, and participate in a variety of quizzes run
+		  by our members, to play games and participate in discussions. We also organise
+		  events external to the Public Meetings, such as trips to the cinema, ten pin
+		  bowling, paintballing and conventions. <BR><BR>We are not tied down to only one
+		  format, such as Star Trek or Star Wars, as we believe that anybody who is
+		  interested in SF has a wider horizon of interests. We also do not believe in,
+		  and do not have any kind of rank or points system nor exams.</P>
+    </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

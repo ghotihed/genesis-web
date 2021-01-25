@@ -1,0 +1,239 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+    <META charset="utf-8">
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <TITLE>Genesis Sci-Fi Club - Archive - News 2013</TITLE>
+    <META NAME="description" CONTENT="Genesis Sci-Fi Club, the Basingstoke science fiction club - Archive - News 2013">
+    <META NAME="robots" CONTENT="all">
+    <META NAME="robots" CONTENT="index,follow">
+    <META NAME="google-bot" CONTENT="all">
+    <META NAME="google-bot" CONTENT="index,follow">
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('archiveNews2013Menu');">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody"> 
+      <H1 CLASS="title">Welcome to Genesis Sci-fi Club</H1>
+      <H2 CLASS="titletagline">The Basingstoke science fiction club</H2>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 13th January</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelJanuary"> 
+        <P>Good  afternoon everyone, and welcome to 2013 at Genesis. I trust you all had a good  Christmas and New Year, and managed to survive the End Of The World (As We Know  It) on 21st December.  I managed to do so, and now I feel fine….</P>
+        <p>Last  month&rsquo;s program was brought to you by the Committee, and included the often  talked about, but seldom seen film <i>Mystery science Theatre 3000.</i>  This is a film Matt wanted to get onto the  Film Vote several times but until now has been thwarted by one slight problem –  we couldn&rsquo;t find a copy.  But I&rsquo;m glad he  eventually did as I really enjoyed the concept of people sitting around  watching and commenting on bad science fiction. I wonder if it will catch on?  And <i>Primeval</i> – well, what can you  say?  Always good fun and very watchable.</p>
+        <p>Now,  dates for 2013.  Last month it became  apparent that dates for the meetings at the end of the year had become slightly  muddled. What happened was that in 2012, ArmadaCon was put back a week due to a  problem with the hotel. When we worked out the meeting dates for 2013,  ArmadaCon was going to be moving back to it&rsquo;s usual weekend in November, ie,  Remembrance Weekend.  Due to this and the  pushing back by one week of 2013&rsquo;s   meetings, the 50th Anniversary of <i> Doctor Who </i> and the accompanying hare-&rsquo;brained plan&rsquo;<i>, </i>plus  Hogswatch, there are a few potential clashes of dates around this time, so  there will be a three -week gap between the October and November meetings,  followed by a five week gap between November and December. The pub meeting date  in October will be shifted accordingly but the Book Club meetings will remain  at four-week intervals.  Sorry for any  confusion, the correct set of dates, subject to final confirmation from the  pub, is on the page opposite, and will be on this year&rsquo;s membership cards when  they are dished out, which will actually be March, with memberships payable <i>next</i> month.  Which brings me neatly to a  reminder about next month, which will be the club&rsquo;s AGM.</p>
+        <p>Next,  I have to mention a couple of very sad items of news, the recent passing of Sir  Patrick Moore and Gerry Anderson.  Sir  Patrick was a giant in modern science, and made astronomy accessible to  millions through his five and a half decades presenting <i>The Sky At Night. </i> Not only that, his work in mapping the Moon was  vital to the Soviet Union when they were planning their un-manned moon missions  in the early 1960s and later to NASA when they were selecting landing sites for  the Apollo program.  He was also a keen  musician and, until a surprisingly small number of years ago, a handy cricketer  – in fact I&rsquo;m sure he&rsquo;s somewhere up there now, sending some testing leggies  and googlies down at the likes of Len Hutton and Jack Hobbs, and discussing the  state of the modern game with Tony Greig and Christopher Martin-Jenkins.  Sadly in later years, his body was failing  him even though his mind and sense of humour was still razor sharp right to the  end.  I feel very privileged to have met  him on a couple of occasions and he will be sorely missed.</p>
+        <p>Now,  Gerry Anderson.  His pioneering  film-making techniques and story-telling were a huge part of a lot of  childhoods, including those of many people sat in this room at the moment, and  the likes of <i>Thunderbirds</i>, <i>Captain Scarlett</i> and <i>Stingray</i> continue to be enjoyed by millions to this day. Not only that but his legacy  includes some fantastic live-action material such as <i>UFO,</i> and  ever-popular series such as <i>Space: 1999</i>, which at the time was the most  expensive TV series ever made, boasting a star cast including Martin  Landau.  In later years <i>Captain  Scarlett</i> returned as a CGI series and <i>Thunderbirds </i>finally made it  to the big screen as a live-action blockbuster, with <i>Star Trek</i>&rsquo;s  Jonathan Frakes pulling the strings (pun very much intended) from the  director&rsquo;s chair.  Although Anderson was  not involved and the film was not very well received, as of just under a year  ago, a new CGI version was in development, with Anderson&rsquo;s full backing and  involvement, and although the status of the project is currently uncertain, the  popularity of his most famous creation and his many others is secure.</p>
+        <p>Finally,  many thanks to Tony for organising tickets to <i>The Hobbit – Part 1</i> just  before Christmas.  No doubt we&rsquo;ll be  repeating the experience when Part 2 comes out next December, but in the  meantime, if you haven&rsquo;t seen the film, all I&rsquo;ll say is &ldquo;IGNORE THE FILM  CRITICS AND GO AND SEE IT, IT&rsquo;S GREAT!&rdquo;</p>
+        <p>That&rsquo;s  all from me, enjoy the meeting.<br>
+          <b><i>Jeremy   </i></b></p>
+        <p><b></b><i>&ldquo;I always work on the  premise of….ooh! Mini stollen!&rdquo;</i></p>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlJanuary">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 10th February</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelFebruary"> 
+        <P>Good  afternoon and welcome to Genesis, and once again, it&rsquo;s AGM month.  (More of that later).</P>
+        <p>Firstly  this month a reminder that it&rsquo;s AGM and membership renewal time.  Annual membership is £5 and entitles you to  entrance to the monthly meetings for just £2, as opposed to £3. So please seek  out the Minister for Money (Matt) and form an orderly queue if necessary.  If any of your contact details have changed  please fill in a new membership form, which will be available at the front  desk, and hand back to Matt.  Membership  cards will be prepared and handed out next month, if you would like the picture  changed on your card please let me know, but if there is a specific one you  want you will need to find it and provide it to me by e-mail and make sure it  is suitable for putting on a card.  (The  final decision of what can and can&rsquo;t go a membership card will rest with me and  the secretary).</p>
+        <p>The  AGM will also be today, where you will be able to elect the committee for the  coming year, or volunteer for the committee yourself.  Matt and David will be standing again but I  will be stepping down, so I&rsquo;d just like to say thank you to David and Matt for  their help and all their efforts in the last two years and also thank everyone  who has sold and folded raffle tickets, donated raffle prizes, help set up and  break down the meetings, sort out the sound system or the screen, presented  quizzes and meeting programs, sourced program items, organised events between  meetings, or anything else that I&rsquo;ve forgotten.</p>
+        <p>We&rsquo;ve  had a pretty successful year one way or other, with several club events  happening throughout the year and the launch of the Book Club, which has proved  a big success. So thanks for coming to Genesis in the last twelve months and  making it a good twelve months.</p>
+        <p>Thanks  to Louise for last month&rsquo;s timetable, traditional episode malfunction included.  The final episode of <i>Life On Mars </i>was good to see, and re-acquainting  with <i>The X-Files</i> and <i>I, Robot</i> was also good.  <i>The Big Bang Theory</i>, having watched <i>The  Wrath of Khan </i>the night before, was, shall we say, deliberately good  timing!</p>
+        <p>This  month we have more <i>Big Bang</i>, and some new and recent stuff for your  enjoyment, plus a Film Vote which has a &lsquo;let&rsquo;s not take things entirely  seriously&rsquo; thread running through it.</p>
+        <p>Anyway,  enough wittering from me - enjoy the meeting.</p>
+        <p>This  is me, swanning off....</p>
+        <p>Jeremy</p>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlFebruary">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 10th March</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelMarch"> 
+        <P>Hello,  I cannot believe it, but just yesterday I got a text message from Jeremy, one I  am sure he was really looking forward to. Apart from the idle chatter contained  within there was a short note asking for me for a Gold Channel. </P>
+        <p>As  I say Jeremy I am sure loved writing that sentence as it meant he was no longer  chairperkin <i>(insert pause for wild celebrations and applause, not only from  me but also, probably everyone else – Ed) </i>and had passed the baton <i>(poisoned  chalice? – Ed) </i>to me.</p>
+        <p>So  here we go, I would like to say thank you for your confidence in me and to once  again have me as your puppet master (insert evil laughter). I shall hold true  to me former agenda, that of attempting to bankrupt the club and if not  bankrupt it at least spend all the surplus monies Matt has industriously salted  away. So it is with good humour that I speak of the New Committee.</p>
+        <p><b>Chairperkin</b>—   that would be me then .<br>
+          <b>Vice-Perkin</b>—    David O-J (re-elected to the post, someone  you can almost rely on to keep me in check).<br>
+          <b>Treasurer</b>-  Matt Greet ( the longest continuously standing member and we all should be glad  for that).<br>
+          <b>Membership  Secretary</b>- Louise Stanley - I would like to officially welcome  her to the committee.<br>
+          <b>Event  Secretary</b>— Paul Belsey - another new member to the committee,  again welcome Paul</p>
+        <p>And  of course, thank you to Jeremy for continuing to research and write <i>The  Genesis Matrix</i> each and every month <i>(apart from next month, when you can  blame Ross.  But thank you anyway – Ed).</i></p>
+        <p>Now  a quick look back over Jeremy&rsquo;s leadership.  <i>(Uh-oh – Ed). </i>First and most importantly a fixed location - I  lost count of the number of venues we tried last time I had the helm! New members,  yes we have a few new members which can only add to the overall mix of the club  (also the possibility of new members and this being a very short tenure at the  helm – and not another 5 years like last time).</p>
+        <p>I  hope to continue with these successes and add to the wealth of talent within  the club. So here is to another term of honest toil and another 15 years of  Genesis Sci-Fi Club. </p>
+        <p><b><i>Chairperkin  Prus</i></b></p>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlMarch">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 7th April</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelApril"> 
+        <P>Greetings all, and welcome to another Genesis.</P>
+          <P>As Paul is away, I have been asked to step into the breach and say a few words on his behalf. So, as stand-in, understudy, substitute, second-string, backup, vice-flunky, I’ll do my level best, but apologies in advance for anything that I get wrong (that could be an awful lot!)</P>
+          <P>Firstly, a big thank you to the people here at the pub for allowing us to extend our meetings and start at 3:00. Next up thanks must go to Rob for last month’s programme and quiz. Also thanks to Paul for organising the theatre trip last month. Remember to see Paul Belsey if you’re interested in the up-and-coming Corsham Sci-Fi event (a good day guaranteed), or anything else you see in the events listing later in the magazine.</P>
+          <P>This month’s programme is brought to you by Yours Truly and please note that I’ve already apologised! It is all derived from my personal DVD collection so you have been warned.</P>
+          <P>This month Ross has kindly volunteered to give Jeremy a well earned rest from doing the magazine. Cheers mate. Please remember that we are always looking for articles or original features to include in The Matrix, believe me anything is welcome.</P>
+          <P>Still, that’s far too much from me, so on with the show……………………</P>
+        <P>Vice Chair-Gerkin.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlApril">more</A>
+      
+      <A HREF="http://www.corshamscifi.co.uk/" TARGET="_blank">
+        <IMG SRC="/images/corsham.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Corsham Sci-fi Family Funday"></A> 
+      <H2 CLASS="textboxtitle"><a href="http://www.corshamscifi.co.uk/" target="_new">Corsham Sci-fi Family Funday</a> - Saturday 27th April</H2> 
+      <DIV CLASS="textboxshrunken" ID="corsham"> 
+        <P>At The Corsham School 10:30am.  Many members go and is the reason the book club was moved a week.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="corshamControl">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 5th May</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelMay"> 
+        <P>The trouble with being semi-retired is you lose track of the passing of days. One day you are in the Lake District, the next you’re attending a wedding in Missouri, and the editor of this illustrious magazine has to write your Gold Channel for you. Then, once you do it make it home, you are bombarded with new information and the need to attend meetings and stuff. To all this you then add events such the Genesis Book Club and last week’s Corsham Sci-Fi Family Fun Day (more on that next month—Ed), and you get a pleasant mix. Plus, training for my new career and a 5 to 6 week contract of work. As of time of writing I have now completed a whole 6 days of work THIS YEAR.</P>
+          <P>Okies, back to Genesis, as we are all aware the new Star Trek film is released into cinemas on the 9th May, and being a somewhat slow-witted (at times) ChairPerkin I only spotted this because I caught a trailer while watching Live TV last night (I usually only watch recorded stuff, and therefore whizz through adverts at 30-times speed) and so I thought, “Coolio, hope whoever is doing this month’s programme does something to mark it. Oh hang on that would be me. Coolio, 6 hours of ST:TOS. Sorted!”.</P>
+          <P>Then reality hit (I hate it when it does that). Okay, not just ST:TOS start to finish but Space Opera; ships, explosions (yes, Matt, going BANG!) and dodgy, tacky music. Could I get away with an episode from each of the five Star Trek series? You bet I could, “by the power of Greyskull make it sew!”</P>
+          <P>So without any further misdirection and hoax program build-up, it’s time to Boldly Go!</P>
+        <P><b>Chairperkin Prus</b></P>
+        <P>“I’ve not idea why my mini-bar was stocked with pies...”</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlMay">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 2nd June</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelJuneEarly"> 
+        <P>Has it really been a month already? Or are we still playing put and take through the months? Do not ask me I am only the Chairperkin so how would I know? So I would like to say thank you for last month’s quiz and programme but since it was I who was running the meeting (badly) I shall not.</P>
+          <P>Now I mentioned I am kind of semi-retired last month and how I had a six week contract of work. I would like to say that driving a road-sweeper is fun, but I cannot, it is as boring as hell and you turn left A LOT! So I’m happy to have loads of audio sci-fi to listen to all day. Currently, I’m hearing The Company War books by C J Cherryh. I shall with hold judgement until I have heard two or three of them.</P>
+          <P>We have, after a few hick- ups, seemed to sort out the audio problems we have been experiencing these last few meetings. A long cable and some borrowed leads did the trick.</P>
+          <P>I’m sorry to have to report that after much (four and a half hours worth) listening to the ‘engaged’ tone and pressing of ‘redial’, getting hold of tickets to the Doctor Who Prom was not possible. These things are always difficult to get tickets for to say the least, and that was the reason we did not make any promises. Disappointing, but if I happen to invent time travel any time soon, the Albert Hall box office at 9.00 in the morning on 11th May will be on the list of destinations….</P>
+          <P>Well now to this meeting and it is Ross McNaughton’s turn to do the honours, so this probably involves a complete break from space opera and some new ideas.</P>
+          <P>Speaking of people who are doing quizzes and timetables, please see the table on the opposite page and if your name is on the list, please note the date in your diary (and “don’t tell him, Pike!”)</P>
+          <P>As for last month’s quote at the end of my ramble, usually added by Jeremy, I have been told the reason my mini- bar was stocked with pies had more to do with the quantity of alcohol I had consumed rather then that they were free.</P>
+          <P><b>Charperkin Prus</b></P>
+        <P>“Are you looking where you’re going, or are you using The Force?”</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlJuneEarly">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 30th June</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelJuneLate"> 
+        <P>Thank you to Ross for last months programme and quiz, it was great to see the return of Universally Challenged, even better since I seemed to have been on fire <i>(wouldn’t that have been a little dangerous?! – Ed)</i> and Tony and I stormed the quiz with our team mates Ann and Susan. This month sees Tony doing the programme, and I know there will be some cool stuff on there.</P>
+          <P>As a club we do like to help people out whenever possible, so if you’re thinking of doing a programme and a quiz for a meeting, but don’t wish to stand up in front of the rowdy people out there, we can organise someone to read it out for you, (me usually) and we can normally source anything and everything when it comes to video. So do not be afraid to ask for help with anything club related, I know I won’t if I wish to delegate stuff to you.</P>
+          <P>It’s June <i>(or at least it has been - Ed)</i> and therefore time for me to go away, (it has been 12 weeks since I last had a holiday), well OK, I just got back yesterday. This is one of the advantages of semi-retirement. Popped over to Sweden to see those people who were Genesis’s second wedding, that’s right, my sister Ruth, and hubby Richard. (Due to publishing deadlines, I am writing this weeks in advance so I can’t say how they are doing. But speaking to them before I went they seem to be living the life out there).</P>
+          <P>So anyway, on with the meeting, bring on the cool stuff.</P>
+        <P>Chairperkin</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlJuneLate">more</A>
+      
+      <A HREF="http://www.rmg.co.uk/royal-observatory/" TARGET="_blank">
+        <IMG SRC="/images/royalObservatory.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Royal Observatory"></A> 
+      <H2 CLASS="textboxtitle">Royal Observatory + LOTNA - Cancelled</H2> 
+      <DIV CLASS="textboxshrunken" ID="royalObservatory"> 
+        <P><SPAN STYLE="color: red;">Cancelled.</SPAN></P>
+        <P>This summer, Genesis is attending alien season at the <A HREF="http://www.rmg.co.uk/royal-observatory/" TARGET="_blank">Royal Observatory</A>.  And there's still the Planetarium shows, National Maritime Museum and the <i>Cutty Sark</i>.  Afterwards, we'll visit <a href="http://www.lotna.org.uk/" target="_blank">LOTNA</a> in a pub that serves good beer and pies. Be at Basingstoke rail station at 10am.</P> 
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="royalObservatoryControl">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 28th July</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelJuly"> 
+        <P>Summer is finally here it would appear, hope everyone was caught as much or as little sun as they desired. Hoping it’s not too hot here today for everyone.</P>
+      <P>Extending a big thank you to Tony for last month’s programme, many new and interesting fan programmes - where does he find them ? And a difference to the quiz as well, that’s two different styles of quizzes in as many months!</P>
+      <P>This weeks programme shall be brought to you by Steve, which has a 1970s theme.</P>
+      <P>Due to unforeseen circumstances the Genesis trip to The Royal Observatory at Greenwich had to be postponed until later in the year. Details will follow when we get them (ie, when we’ve figured them out).</P>
+      <P>I do not believe we have any future slots requiring filling as far the programme person is concerned, however now we are more than half way through the year we will soon be badgering people to put their name down for next year. So let the badgering commence.</P>
+      <P>As always we are looking for articles to fill these august pages <i>(and September, and October, and Nov—- Oh, right, see what you mean. Carry On—Ed)</i>, also looking for suggestions on what if any events members would like to see or go to. Remember this is your club and as a card-carrying member we really on your input to help point us in a vaguely right(ish) direction.</P>
+      <P>As always.</P>
+      <P>Prus</P>
+      <P>Chairperkin</P></DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlJuly">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 25th August</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelAugust"> 
+        <P>Good afternoon folk, welcome back to Genesis.</P>
+          <P>With the final bank holiday of the year apart from Christmas bearing down on us (it’s tomorrow), it occurs that a scarily large proportion of 2013 has now flown past and is heading for Essex. This being the case it is now time to do some trumpeting for the cause of ArmadaCon, as is obligatory from time to time in this oily rag of a newsletter.</P>
+          <P>This year is ArmadaCon’s 25th anniversary, so it’s a big year for this small, friendly, fan-run event. ArmadaCon is a relaxed and above all fun weekend, with only a hint of actual organisation rearing it’s head from time to time and I urge you to give it a go. It runs in Plymouth on 15th, 16th and 17th November; more details at their website, www.armadacon.org.</P>
+          <P>On the subject of conventions, and looking a bit further ahead, next August sees the return to Britain of WorldCon, which is being held at the ExCel in London on 14th to 18th August 2014. This is a world-wide event which doesn’t often take place on these shores, and as it’s in relatively easy distance for a day trip or possibly an extended stay, depending on your preference, so now would be a good time to at least start thinking about if you want to go, and on what day(s). More details about the event at www.loncon3.org .</P>
+          <P>Next, thank you to Steve for last month’s timetable, with it’s 1970s theme, and quiz; this month the timetable is brought to you by Mark Sinclair and the quiz by your esteemed Chairperkin.</P>
+          <P>A reminder that our discussion board on the website is open for business; please direct any questions you may have towards Matt, our web-master.</P>
+          <P>Finally I would like to extend my congratulations to a Mr P Capaldi on his recently gained new employment, which was revealed to the nation amongst much (ahem) Who-hah and cheering a few weeks ago, and wish the gentleman he is replacing in the role, a Mr M Smith, all the next for his future career.</P>
+          <P>That’s all for now; enjoy the meeting.</P>
+          <P><b>Prus</b></P>
+        <P><b>(As relayed by The Ghost Writer In The Sky)</b></P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlAugust">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 22nd September</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelSeptember"> 
+        <P>Hello all, welcome to September at Genesis.</P>
+          <P>Another month another front piece, first I would like to thank Jeremy for writing last month’s front piece, (Oh, no, you’ve given it away! – Ghost Writing Ed) and secondly to thank Mark for a very enjoyable space-opera-ey programme, myself for the quiz and OJ for the video vote. The idea of a vote for one of a trilogy was novel and the winning vote for Tremors 2 (I had seen the first film and my casting vote was for 2) went over as a great success, we only lost two people for the film but then gained Jeremy and Louise.</P>
+          <P>This month sees Paul Belsey writing the programme and so far I have not seen the list but know it is going to be an awesome one.</P>
+          <P>Being semi-retired as I am seems to mean I have to work longer and harder than before, not only do I work to pay bills but I also have to work hard at my new career. This meant that on Wednesday last week I had to take two pupils on mock driving tests!! Yes, me, judging noobie drivers to see if they are good enough to be allowed on the road by themselves. I will say I would have passed them both and after I debriefed them my instructor sat in the back explained all the points I had missed and why I had missed them. A good learning experience for me and a chance for them to see what it is like to have a stranger who barely speaks sitting next to them marking their driving.</P>
+          <P>We hopefully now have a list of meeting dates for next year which may or may not be in the magazine today, and if not they will be circulating on a list somewhere in the room (it’s a fairly safe bet it will be somewhere in the vicinity of Matt). So now we need you to volunteer to pick the programs and run the quizzes. So over to you, folk, I have a pen with me today and the last thing you want is me in possession of a piece of paper with blank spaces in one hand and a pen in the other!</P>
+          <P>That’s all for now, so to infinity and beyond….</P>
+        <P><b>PRus</b></P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlSeptember">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 20th October</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelOctober"> 
+        <P>Hello, one and all, welcome back to Genesis.</P>
+          <P>First of all, I would like to thank Paul Belsey for last month’s programme, and it was so good to see some old favourites not seen in a long time. This month sees the return of Matt as programme editor and quiz master. Now, this month I have already seen a copy of the programme; unlike last month; and know it is up to Matt’s usual high standard of illustrious innovation (We’re also showing the original Star Trek episode Spock’s Brain - Ed). The choices for the film vote are somewhat different, but what else would we expect from Matt?</P>
+          <P>Now I am “semi” retired, and by this I mean working longer and harder than I ever did when in full time employment, it was with some surprise that I looked at my calendar and noticed it was already October! Now of cause this is probably not news to you, but I thought ‘oh my goodness, where has the year gone to?’ The drawing of the evenings, the fact that I am now going to work in the dark (often returning in the dark as well) could, of course been construed as clues, but as I have often remarked before I can sometimes be ‘not the sharpest tool in the box’. Now, dear reader, I know by now you have either given up on this Gold Channel (not looking at you Rob honest), or your wondering where is my life heading , or even where the Futurama is this tale going? Well, so am I! I began this ramble and lost the plot myself. Oh yes now I remember, October, season of mists and mellow fruitfulness, of hunters moon and time to consider another holiday. Also it is heading towards Armadacon, and my annual trip down to Plymouth to this small book-heavy sci-fi convention.</P>
+          <P>At said Con, there will be a first showing of a small, little (in more ways than one – Ed) filmette. Something that a few of us have thrown together involving knitted puppets, and a really bad pun, this is I believe taking the place of the usual reading of a Janet &amp; John skit which I have had the pleasure (you didn’t use the word ‘pleasure’ last year! – Ed) of participating in for the last two years. A great honour for which I am truly grateful, and if you ever get the chance to see the recordings of this show you will understand why. (If you were here at the start of today’s meeting you would have got a chance to see last year’s recording as I have used it for the sound check). (Thanks for the warning! – Ed)</P>
+        <P><b>Prus (Chairperkin)</b></P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlOctober">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 10th November</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelNovember"> 
+        <P>Greetings all, and welcome to a very special Genesis meeting. Our Lord and Master is away at the time of writing this, so you’ll just have to put up with my useless ramblings this time. But have no fear “normality” will be resumed next month.</P>
+          <P>Today we have a unique opportunity to celebrate a glorious 50 years of <i>Doctor Who</i>. Yes, its 50 years ago this month that the world first witnessed a mad old man travelling through both time and space. The programme today is obviously heavily influenced by our favourite Time Lord, and we make no apologies for it. This includes a chance to se the very first episode, so if you weren’t here at the start to see it, then let that be a lesson learned.</P>
+          <P>Also we will be having a world premier of a <i>Doctor Who</i> Special unseen by anyone else. (We hope you enjoy). Antony “Cool” Walls will be running a special interactive session later so do get involved, and make yourselves heard.</P>
+          <P>On to other matters—please don’t forget that we have a 5 week gap until the next meeting, due To many of us being at ArmadaCon. If you can, I heartily recommend this gathering to anyone.</P>
+          <P>Many thanks must go to Jeremy, who has slaved long and hard to deliver what I’m sure you’ll agree is a bumper issue, with its special Whovian Sunday supplement.</P>
+          <P>As this will be the last one of these I write before the end of the year, I’d like to take the opportunity to thank everybody that has helped, volunteered, and contributed throughout the year, both at club and the reading group. Also a huge thank you, to all the staff at South Ham Library, especially Zac, for get me into reading again. <i>(I agree, getting there is a nightmare, especially past the stadium on match days, although you could take the train, that’s almost civilised, but....Oh, I see, reading. Right. Sorry, it’s been a long, short month.—Frazzled Ed)</i>.</P>
+          <P>Finally, thanks to everyone who came to our screening of the <i>Doctor Who</i> story <i>The Enemy of the World</i> the day before the last meeting. It was great to see a lost classic story back on screen where it belongs. A good time was had by all and we raised £50 for Children In Need—thanks for all your donations.</P>
+          <P>This is the point where Jeremy puts in a reminder to you all to keep those articles coming.</P>
+          <P>Still, that’s already far too much from me………</P>
+        <P><b>Stand in, Understudy, Reserve, Second rate, Underdog, Side kick, Subordinate, Vice ChairGerkinPerkin)</b></P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlNovember">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 15th December</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelDecember"> 
+        <P>Well, that’s another year gone by, and what can I say? Well, for one this being semi-retired is a lot harder work then I had planned it to be! But then I did have the choice of working or not working and I choice unwisely these last couple of months, but as I write things are settled down and I am <b><U><i>RELAXED</i></U></b>, honest. So, now on to the club, and first off a huge thank you to the rest of the C<i>ommitted</i> for last months quiz and programme and congratulations to the winners of said quiz.</P>
+          <P>This month we have Rob choosing the programme, and setting the quiz, so expect some anime, and some weird stuff as well.</P>
+          <P>One thing that I know Jeremy is always asking for is articles for this magazine, well can I go further (unusual for me I know to push it) but Jeremy is looking to take a break for a while from editing said magazine so please send him lots of bits and pieces, or even volunteer to take over for a month, maybe when your doing the programme and quiz?? I know how much fun it can be after doing just the one (Mrs Wembley) last year, so I am looking forward to doing the same in the new year a couple of times.</P>
+          <P>Just a thought, if your themeing your programme, which helps, then try to mix it up a little. Yes, we all love the classics, and not all of us have access to huge amounts of data-sharing but throw something new into the mix if you can, Google, Tweet, Facebook, which ever floats your boat, find something new to fit the bill. Remember, the “committed” can normally find almost anything, <i>(usually by asking Paul – Ed)</i>, so name it and we shall endeavour to get a hold of it for you if you can’t.</P>
+          <P>This is me swanning off</P>
+          <P><b>Prus</b></P>
+        <P><b>Chairperkin</b></P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlDecember">more</A>
+      
+      <A HREF="http://www.vintageinn.co.uk/thelongbridgemillsherfieldonloddon/" TARGET="_blank">
+        <IMG SRC="/archive/images/christmasMeal.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Christmas Meal"></A> 
+      <H2 CLASS="textboxtitle">Christmas Meal - The Longbridge Mill, Friday 27th December</H2> 
+      <DIV CLASS="textboxshrunken" ID="christmasMeal"> 
+        <P>At <A HREF="http://www.vintageinn.co.uk/thelongbridgemillsherfieldonloddon/" TARGET="_blank">The Longbridge Mill</A> in Basingstoke, 3:00pm till 6:30pm-ish (NOT 1:00pm, though Paul will be there).</P>
+      </DIV>
+      
+  </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

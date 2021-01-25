@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+	 <META charset="utf-8"> 
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+     <META NAME="description" CONTENT="Paul Russel's thoughts about sci fi">
+	 <TITLE>Genesis - Devil's Advocate</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+	 <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('ourWorkDevilsAdvocateMenu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+	 <DIV CLASS="mainbody"> 
+		<H1 CLASS="title">Devil's Advocate</H1> 
+		<P>A random collection of irreverent articles by Paul Russel, who writes under the pseudonym <i>Prus</i>.</P>
+
+      <IMG SRC="/ourWork/images/tribbles.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Danger: Tribbles"> 
+      <H2 CLASS="textboxtitle">In Search Of Food & Tribbles - August 2004</H2> 
+      <DIV CLASS="textboxshrunken" ID="tribbles"> 
+        <P>Sitting here in a pub in Devon, with several other Genesis members the idea of writing this article came up. (Actually it was Jeremy who insisted I wrote something). So after a second pint of Hicks I set out to write a <i>Devil's Advocate</i> on a serviette. This is quite hard for several reasons, 1), The pen is finding it hard to work on this surface and 2), Mr Metcalfe is peering over my shoulder as I write which is very irritating! I could of course dictate it and get him to write it down and then everybody would know what is being said.  (This has just been met by mutterings of "I think not!")</P>
+        <P>Anyway back to the reason for this article. Today’s ramblings started both physically and meta-physically at 8 am when we set off on the hunt for food and Tribbles. Crossing Dartmoor we espied a public house and thought it would be spiffing to stop for refreshment. <i>(What really happened is someone saw the pub, pointed and cried out “COFFEE!!!”-Ed)</i> Crossing the crowded floor to the bar it came as quite a surprise to see Helen Gay, former committed member of this club standing behind it.  Cool! (The reason we were in Devon was her house warming).</P>
+        <P>Food, why is it that in most Sci-Fi series people don’t eat real food? Usually all the props department do is get some Kiwi or Star fruit and a can of spray paint and call it something exotic. Now when we see this on screen we all recognise it for what it is-a purple Kiwi or star fruit, so why do they do it? I for one don’t know, do you?  Obviously  not all programmes do this,  <i>Stargate</i> cops out by only eating on Earth or by using Ration bars, <i>Enterprise</i> has its own chef cooking Earth food which even the aliens aboard eat. The extra power needed to transport the ham and eggs required by 89 people on a five-year mission must be colossal. <i>Babylon 5</i> of course did foreign food ("it tastes of chicken") and even had an episode with a sub plot in which Garibaldi tries to get Earth food aboard. <i>Voyager</i> of course had Neelix, an alien chef cooking alien foods, which looked Earthbound. No surprise there. However they did all drink coffee which I can understand (Caffeine being a particular addiction of mine). </P>
+        <P>So are the writers saying that humans will only eat human food unless forced to eat more exotic fare? I say no, I believe the reason that Sci-Fi food is so familiar is because the writers are American. Yes that’s right; the reason that Earthmen only eat Earth-based foods on TV is because of the McDonalds/CocaCola culture of the yanks. We’ve all seen them, Americans abroad crowded into world-wide chains of what they have at home, an American couldn’t possibly eat anything foreign they might like it and realise that not everything un-American is bad. Oh yes, before I forget early <i>Star Trek</i> gave this article its name. In <i>The Trouble with Tribbles</i> Kirk orders a coffee and a chicken sandwich and gets a cup of Tribble  and a Tribble sandwich, proof that Shatner will eat anything (he’s Canadian after all).</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="tribblesControl">more</A>
+      
+      <IMG SRC="/ourWork/images/spaceTravel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Blank"> 
+      <H2 CLASS="textboxtitle">TRAVELLING BETWIXT THE STARS - February 2004</H2> 
+      <DIV CLASS="textboxshrunken" ID="spaceTravel"> 
+        <P><b><i>In this essay I will be dealing with many of the ways Sci Fi writers have dealt with travelling between the stars.</i></b></P>
+        <P>E E Doc Smith wrote that if you accelerated at a good steady pace you could gain unimaginable speeds. He was writing in the 1920’s and 30’s and so was living in the Newtonian age. This meant relativity was not a problem, light speed was not as fast as you could go and all was fine and dandy in the World, Galaxy and Universe-except for the bad guys of course. So his books, <i>The Skylark</i> and <i>Lensman</i> series and the spy thrillers based around the family D’Amberge are endurable reads if good old fashioned ripping yarns for boys are your bag. </P>
+        <P>Then, along came Einstein and ruined it all. Now you had to deal with the consequences of your mode of transport. Einstein did however write a theory and at present it’s the best idea going, but many authors have written about aliens knowing better and laughing at our stupidity. A book called <i>The Forever War</i> dealt with relativity in that every time the hero returned to Earth many years had passed here while only weeks had passed for him. The close of the book is a news item saying the two eldest people on Earth, born some 300 years ago but having the physical age of about mid-thirties were having a baby together. The books whole premise is how long would a war take against a foe at those distances. <i>Star Command</i>-that’s a film title that you will not find in many serous discussions on Sci-Fi. A film about how great it is to be young and hyper-intelligent like all Americans. But I digress, Wogan’s waffling again. In this film they fold Space, and to demonstrate it they fold a piece of paper so that the two corners meet and say all you have to do is fly between the corners thus skipping the area in between. As your speed never approaches that of light, you are only travelling a short way, therefore relativity is not a problem.</P>
+        <P>Another system used is the <i>Star Trek</i> space 'warping' technique. These engines distort space. I mean, man they physically distort it by generating a warp field and altering the characteristics of space in front of the ship. This, of course is utter bollocks, because if this system was used in reality then everything including the crew in front of the engines would warp as well and that would be somewhat messy and not very nice frankly. So we can discount this.</P>
+        <P>'Wormholes', I hear you cry, 'what about wormholes?'  Yes another great idea is wormhole technology. <i>Farscape</i> and <i>Stargate</i> feature wormholes, as does <i>DS9</i>. Brightly coloured kaleidoscopes of a thing, wormholes are a viable method of traversing massive distances. No time dilation and fairly fast, although personally I believe you would have to travel them using up time. Unlike ‘Two LLs’ O’Neill who just steps in one end and out the other. Talking of <i>Stargate</i> the Go’auld and the Asgard both also use hyper-speed ships, although the Asgard do intergalactic spanning journeys in hours and the Go’auld take days to cross their own Galaxy. They appear to use the same principles. You could compare them to a McLaren F1 and a Model T Ford both using internal combustion but one is so much better at it than the other. These ships enter a Hyperspacial corridor and transverse this-which brings me nicely on to Hyperspace.</P>
+        <P>Hyperspace. Appearing in many books, films and TV series. Hyperspace, the fifth dimension. The idea of Hyperspace answers many questions; as you are not travelling huge distances but are using an alternative route to your destination you don’t need to go fast and the journey time of two days is still two days to all observers. Also if you have a communication network in Hyperspace then signals won’t take years to get to where they’re supposed to be going. The only problem you have is how to enter Hyperspace. So...how do you enter Hyperspace? Good old George Lucas thought just going fast <i>(to Light speed, in fact - they obviously haven’t heard of Einstein in a Galaxy far, far away- Ed)</i> could jump you into hyperspace. This is preposterous like so much of George’s work. <i>Babylon 5</i> concedes that if you’re entering an alternative dimension then technology must be used and brought Jump Gates out of the TV retirement they had been in since <i>Buck Rogers in the 25th Century</i>. Allowing ships over a certain mass to create their own jump point means that Jump Gates are not always needed but doesn’t answer the question of how to navigate between two variable points in a different dimension.</P>
+        <P>There is one book/short story/novella/magazine article I can think of-but unfortunately I have no recollection of the name-that dealt with the question of interstellar travel in a semi-practical way. In this story an alien race has developed replication technology to its fullest. They then sent out probes loaded with this stuff in all directions. Once they had reached a set distance, no matter how long it took they replicated themselves and sent these new probes in all directions. This exponentially increases the area of space covered until they meet other aliens with the know how to meet them. Why don’t we try this? I have no idea?</P>
+        <P>Thinking of faster-than-light travel has given me a very strange thought. Earth’s nearest neighbour Alpha Proxima is 4 light years away (No, Richard don’t correct this just because you’ve done astrophysics). So if you built a telescope that could get a clear view all the way there and an instantaneous communication device and ask for assistance from the technologically advanced aliens living there, and they had a drive that propelled their vessel to light speed in a nano-second without killing them, and then you looked in your telescope, all you would see for four years is their ship coming to your aid. That is unless you took one step to the left. Yes, the left, not the right, I’m always biased to the left. </P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="spaceTravelControl">more</A>
+
+      <IMG SRC="/ourWork/images/timeTravel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Blank"> 
+      <H2 CLASS="textboxtitle">TIME TRAVEL (and the inevitable road to madness…) - January 2004</H2> 
+      <DIV CLASS="textboxshrunken" ID="timeTravel"> 
+        <P>Yes, that old chestnut. This subject often crops up in Sci-Fi,but will we ever achieve it? I say yes and no. No, that isn't a cop-out, dear reader(s) so sit back, and allow me to explain why.</P>
+        <P>If in some distant future someone does build a time machine capable of bringing him or her back to the present day then there would be a time machine available to study now. We would therefore have time travel already. So the simple conclusion to be drawn is that time travel is and will remain impossible. However if the device remained in its own time and just sent things through time, as in the Terminator films,  or just consciousness as with <i>Quantum Leap</i> and the <i>Trancers</i> films then you wouldn't have this problem; just a bunch of stiffs in your own time.</P>
+        <P>Now I know you're all saying if the machine travelled with the crononaut we wouldn't necessarily have access to the machine.  I beg to differ. It's human nature that anyone with this technology would just sell it and live the life of Riley.</P>
+        <P>In some books and short stories time travel is one way-forward. Now this would work, in fact it works better. Any one building such a machine could then move forward in time to have a look around and return. However it would be tempting to try and change things to bring about the future you wish. But then you run into the fact that the past is fixed and any interference with it changes things in unpredictable ways. <i>(Cough, cough – Back To the Future Part II – cough cough – Former Ed)</i> And of course if you believe in time travel you must believe that there are multiple yous out there all existing simultaneously, so which one is the "real" you ? Then of course if all times do still exist, past, present and future then you also believe in destiny and the futility of free will and that way leads to madness.</P>
+        <P>So in conclusion. If time travel is possible then life is even more pointless then we all thought yesterday. Or was that tomorrow...?</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="timeTravelControl">more</A>
+
+      <!--
+      <IMG SRC="/ourWork/images/blank.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Blank"> 
+      <H2 CLASS="textboxtitle">Blank - August 2004</H2> 
+      <DIV CLASS="textboxshrunken" ID="blank"> 
+        <P></P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="blankControl">more</A>
+      -->
+      
+     </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

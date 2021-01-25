@@ -1,0 +1,112 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+    <META charset="utf-8">
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <TITLE>Genesis Sci-Fi Club - Archive - News 2016</TITLE>
+    <META NAME="description" CONTENT="Genesis Sci-Fi Club, the Basingstoke science fiction club - Archive - News 2014">
+    <META NAME="robots" CONTENT="all">
+    <META NAME="robots" CONTENT="index,follow">
+    <META NAME="google-bot" CONTENT="all">
+    <META NAME="google-bot" CONTENT="index,follow">
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('archiveNews2016Menu');">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody"> 
+      <H1 CLASS="title">Welcome to Genesis Sci-fi Club</H1>
+      <H2 CLASS="titletagline">The Basingstoke science fiction club</H2>
+      
+      <A HREF="http://www.whitehartinn.net/" TARGET="_blank">
+        <IMG SRC="/archive/images/PopleyFields.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Popley Fields Community Centre"></A>
+      <H2 CLASS="textboxtitle">Next Club Meeting - AGM - Sunday 13th March</H2>
+      <DIV CLASS="textboxshrunken" ID="nextClubMeeting">
+        <P>At <A HREF="http://www.popleyfields.org/" TARGET="_blank">Popley Fields Community Centre</A> in Basingstoke, 3:00pm till 9:30pm. (<A HREF="https://www.google.co.uk/maps/place/Popley+Fields+Community+Centre/@51.2864479,-1.075675,15z/data=!4m2!3m1!1s0x4874210e50b6c4c1:0x912fd18343cb5fd2?hl=en"
+          TARGET="_blank">map</A>).</P>
+       <p>Later Sunday meetings:<BR />10th April, 8th May, 5th June, 3rd July, 31st July, 28th August, 25th September, 23rd October, 20th November &amp; 18th December</p>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="nextClubMeetingControl">more</A>
+
+      <IMG SRC="/archive/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel">
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 14<sup>th</sup> February 2016</H2>
+      <DIV CLASS="textboxshrunken" ID="goldChannelMarch">
+        <H3><font color="goldenrod">GOLD CHANNEL</font></H3>
+        <P>So, things are a little up in the air these days.  It&#39;s not a <i>complete</i> surprise that the White Hart weren&#39;t interested in letting us meet there anymore, what with the change of owners and all, but it would have been nice if they&#39;d at least talked to us about it...Never mind, we&#39;ll come up with something.  Probably even better - like have food available!!<br />
+        <br />
+        Sadly, it&#39;s almost certainly going to cost more but we&#39;ve been paying so little for the last few years we have to expect that.<br />
+        <br />
+        Since this meeting is going to be...well...a real meeting, with real issues to discuss, we will be having a very flexible People&#39;s Choice sort of program to watch as we have time.  This courtesy of Paul with is kind (lazy&#63;) enough to work around us.<br />
+        <br />
+        Aside from needing to choose our future meeting place, Games Day is almost here!!  Well, not as almost as the original date of the 20<sup>th</sup> - Firestorm Cards, who has kindly agreed to serve as a venue, had a conflict so it will now be held on the 27<sup>th</sup> of February (in 2 weeks!)  It&#39;s a nice place, with lots of room for different kinds of games, and a kitchen for snacks.  Just like last time, the cost is &pound;2 OR a food donation (cakes or biscuits are particularly good choices!).  Bring your favourite game and have a great time!<br />
+        <br />
+        <h2><p style="text-align: right; font-size: medium">Ren&eacute;</p></h2>
+        <br />
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlMarch">more</A>
+
+      <IMG SRC="/archive/images/GamesDay.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Games Day">
+      <H2 CLASS="textboxtitle">Games Day - Saturday <STRIKE>20th</STRIKE> 27th February</H2>
+      <DIV CLASS="textboxshrunken" ID="gamesDay">
+        <P>Board games, card games, tabletop wargaming, computer games, raffle, at <A HREF="http://www.firestormcards.co.uk/" TARGET="_blank">Firestorm Cards</A> (<A HREF="https://goo.gl/maps/YPQFFxnSHkQ2" TARGET="_blank">map</A>) 11:00am.   Entrance &pound;2 members, &pound;3 non-members, free if you cook or bake something to share.  Plenty of games will be available, but if there's something you'd like to play or run, mention it ahead of time.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="gamesDayControl">more</A>
+
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel">
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 5<sup>th</sup> June 2016</H2>
+      <DIV CLASS="textboxshrunken" ID="goldChannelMarch">
+        <H3><font color="goldenrod">GOLD CHANNEL</font></H3>
+        <P>It&#39;s June&#33;  Summer at last, not that you can tell at the moment.  A big thanks to Tony for arranging last month&#39;s program on short notice &mdash; and an interesting program it was&#33;  Not a bad way of doing things&#59; I liked being able to pick from a short list to fit my mood.<br/>
+        <br/>
+        Paul is doing the program this month, and I&#39;d love to say something properly pithy or even, dare I say,. amusing about it...but I have absolutely no idea what he has planned, so everyone will just have to provide their commentary.<br/>
+        <br/>
+        I don&#39;t have much else to say except that I&#39;ve had a gruelling week (or two.  Or was that three&#63;) and so am skiving off this month and leaving things in the capable hands of my other half; if anyone has any concerns, comments or (better yet) praise for anything pass it along&#33;<br/>
+        <br/>
+        <h2><p style="text-align: right; font-size: medium">Ren&eacute;</p></h2>
+        <br />
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlMarch">more</A>
+
+      <IMG SRC="images/barbecue.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Barbecue">
+      <H2 CLASS="textboxtitle">Barbecue - Sunday 28<sup>th</sup> August 2016</H2>
+      <DIV CLASS="textboxshrunken" ID="barbecue">
+        <P>Celebrate the 20<SUP>th</SUP> anniversary of Genesis Sci-fi with a summer barbecue.  Grilled burgers, chicken, sausages etc. and soft drinks will be provided but bring your own snacks and/or alcoholic drinks.  If you've lost your copy of the club magazine, email <A HREF="mailto:info@genesis-sf.org.uk">info@genesis-sf.org.uk</A> for the location.</P></P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="barbecueControl">more</A>
+
+      <A HREF="http://www.bletchleypark.org.uk/" TARGET="_blank">
+        <IMG SRC="/images/bletchleyPark.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Bletchley Park"></A>
+      <H2 CLASS="textboxtitle">Bletchley Park - Saturday 8<sup>th</sup> October 2016</H2>
+      <DIV CLASS="textboxshrunken" ID="bletchleyPark">
+        <P><A HREF="http://www.bletchleypark.org.uk/" TARGET="_blank">Bletchley Park</A>.  Contact Rene for details.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="bletchleyParkControl">more</A>
+
+      <IMG SRC="images/StarWarsRogueOne.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Star Wars Rogue One">
+      <H2 CLASS="textboxtitle">Star Wars: Rogue One - Saturday 17<sup>th</sup> December 2016</H2>
+      <DIV CLASS="textboxshrunken" ID="cinemaMeeting">
+        <P>At <A HREF="https://www.myvue.com/cinema/basingstoke-festival-place" TARGET="_blank">Basingstoke VUE cinema</A>, 15:40pm till 18:20pm.  Probably go to a restaurant afterwards.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="cinemaMeetingControl">more</A>
+
+      <A HREF="http://www.vintageinn.co.uk/thelongbridgemillsherfieldonloddon/" TARGET="_blank">
+        <IMG SRC="/archive/images/christmasMeal.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Christmas Meal"></A> 
+      <H2 CLASS="textboxtitle">Christmas Meal - Toby Carvery, Tuesday 27<sup>th</sup> December 2016</H2> 
+      <DIV CLASS="textboxshrunken" ID="christmasMeal"> 
+        <P>At <A HREF="http://www.tobycarvery.co.uk/restaurants/south-east/basingstokehampshire" TARGET="_blank">Toby Carvery</A> in Basingstoke, 18:00pm.</P>
+      </DIV>
+      
+      
+  </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+    <META charset="utf-8"> 
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <META NAME="description" CONTENT="TV reviews written by Genesis sci-fi members">
+    <TITLE>Genesis - TV Reviews</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('reviewTVMenu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody"> 
+      <H1 CLASS="title">Reviews - TV</H1>
+      
+      <IMG SRC="images/primeval.png"
+      CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Primeval"><H2 CLASS="textboxtitle"><A ID="primevalSubtitle">Primeval season 4 - 9th
+        January 2011</A></H2> 
+      <DIV CLASS="textboxshrunken" ID="primeval"> 
+        <P>I&#39;m currently sitting here watching the first of the new series
+          run of Primeval and my jaw is on the floor (actually, it&#39;s the last
+          commercial break, so I&#39;ll be stopping in a minute as soon as the programme
+          comes back!)</P> 
+        <P>I never realised just how much I had missed this humdinger of a
+          series. It&#39;s always been a brilliant excuse to leave your brain on the ...
+          (Yep, you&#39;ve guessed it, the programme just came back for it&#39;s last
+          bit).</P> 
+        <P>WOOOOOOOOOOOOOOOOOOOOOOOO OOOOOOOOOWWWWWWWWWWWWW WWWWW!!!!</P> 
+        <P>Where was I, oh yes. Leave your brain on the side board and just
+          enjoy the mayhem, allowing the insanity to just wash over you in a glorious
+          flood. We&#39;ve just put on The Making of Primeval, that was actually
+          broadcast just prior to the main programme that we recorded just in case it has
+          any spoilers in, and even that&#39;s really cool.</P> 
+        <P>So what&#39;s it all about, well Professor Nick Cutter is a genius
+          plagued continually by his psychotic &quot;ex&quot; wife. Your never really
+          sure of her motivations or true intentions, you just know she&#39;s trouble
+          with a capital T. Instead of stalking his girlfriends and shredding his
+          clothes, she disrupts the Earths entire time stream and evolutionary processes
+          just in order to mess with his head (well, I did say she was psychotic).</P> 
+        <P>Cutter leads a rag tag bunch of amateurs that work to track down
+          anomalies (event horizons that allow ancient creatures to cross over into
+          modern day, to create havoc).</P> 
+        <P>Abby is the reptile expert, Cutter may know all about ancient
+          fossils and history, but Abby understands the way animals live and breathe.
+          Connor is a complete idiot, an academic that stumbles into a world that he
+          could never have imagined, and yet somehow becomes invaluable to the team, by
+          his design of a mechanism for detecting and sealing these dangerous
+          anomalies.</P> 
+        <P>Steven is Cutter&#39;s right hand man, and the only really action
+          man type of hero in the cast.</P> 
+        <P>Lastly there&#39;s Claudia Brown, she soon becomes an intrinsic, if
+          reluctant member of the team. Her job is that of providing cover stories for
+          the bizarre events unfolding in the story, and to keep such things out of the
+          public eye. She soon becomes Cutter&#39;s love interest and forms the basis of
+          the cliff hanger ending to season one.</P> 
+        <P>So where are we now? Wel l the information above details the team as
+          they evolved in season one. I&#39;ve just finished watching the first part of
+          season four.</P> 
+        <P>By now, Cutter, Steven, Helen (Nick&#39;s ex) and Claudia are all
+          dead or have moved on, and Conner and Abby have spent the last year trapped in
+          the Cretaceous period. Confused, then you&#39;d better just get watching. Just
+          remember where you left your brain!</P> 
+        <P>David Offen-James</P> </DIV><A CLASS="textboxcontrol"
+      ONCLICK="toggleTextBoxByControl(this);" ID="primevalControl">more</A><BR>
+    </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

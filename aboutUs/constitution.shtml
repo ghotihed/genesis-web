@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<html>
+  <HEAD>
+	 <META charset="utf-8">
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+     <META NAME="description" CONTENT="Constitution of the Genesis Sci-fi club">
+	 <TITLE>Genesis - Constitution</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+	 <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT>
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT>
+  </HEAD>
+  <BODY ONLOAD="selectMenu('aboutUsConstitutionMenu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+	 <DIV CLASS="mainbody">
+		<H1 CLASS="title">Genesis Constitution</H1>
+		<H2 CLASS="subtitle">1. Club Ownership</H2>
+		<P>1.1 The club is a non-profit making organisation owned by all members
+		  equally with no members having greater or lesser rights due to their position
+		  within the club.</P>
+		<H2 CLASS="subtitle">2. Club Members</H2>
+		<P>2.1 Anyone is entitled to apply for membership, and membership is
+		  conferred upon payment of the membership fee. The membership fee is
+		  non-refundable.<BR> </P>
+		<P>2.2 Membership is for the period of one year, after which members are
+		  required to renew their membership, with the appropriate fee.<BR> 2.3 Those
+		  attending meetings are required to treat each other with respect and refrain
+		  from abusive or violent language and behaviour.<BR> 2.3a The committee reserves the right, on a majority vote of the club members, to revoke club and committee membership for any individual whose actions put any member, potential member, or reputation of the club at risk.<br/>
+		 2.4 Committee members have
+		  the authority to ask any member or non-member failing to comply with 2.3 to
+		  leave a club meeting.<BR> 2.5 The committee, on a majority vote, has the
+		  authority to withdraw membership from a member who commits a serious or
+		  repeated breach of club rules.<BR> 2.6 A committee member who is found to be in
+		  breach of behaviour protocols may be asked to step down from the committee, on
+		  a majority vote of the remaining committee members.</P>
+		<H2 CLASS="subtitle">3. Meetings</H2>
+		<P>3.1 The club will endeavour to meet on average once every four
+		  weeks.<BR> 3.2 Club meetings are open to both members and general public,
+		  although the club reserves the right to refuse admission.<BR> 3.3 An entrance
+		  fee will be charged for club meetings to cover costs incurred by the meeting.
+		  Club members pay a reduced entrance fee.</P>
+		<H2 CLASS="subtitle">4. Annual General Meeting (AGM)</H2>
+		<P>4.1 An Annual General Meeting will be held once each year.</P>
+		<H2 CLASS="subtitle">5. The Committee</H2>
+		<P>5.1 The committee is responsible for maintaining the infrastructure of
+		  the club.<BR> 5.2 Committee members will endeavour to do what is required of
+		  them, and any other duties that they volunteer themselves<BR> 5.3 Committee
+		  positions are: Chairperson, Vice Chairperson, Secretary, Treasurer, Liaison
+		  Officers (which includes maintaining the website).<BR> 5.4 The committee has
+		  the right to fill vacant posts as required which must be ratified at the next
+		  public meeting.</P>
+		<H2 CLASS="subtitle">6. Money Management</H2>
+		<P>6.1 All spending by the committee must go through Treasurer, who makes
+		  sure the club stays within its financial limits.<BR> 6.2 Any fully paid up
+		  member is entitled to request to see any of the clubs financial records after
+		  applying in writing and giving four weeks (one public meeting) notice.</P>
+		<H2 CLASS="subtitle">7. Extraordinary General Meeting</H2>
+		<P>7.1 Any petition of five fully paid up members can call an
+		  extraordinary general meeting, which will be held at the next available public
+		  meeting. The committee shall endeavour to inform other members of this
+		  meeting.</P>
+    </DIV>
+	<P CLASS="lastModified">
+	 <!--#include virtual="last-modified.php" -->
+	</P>
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

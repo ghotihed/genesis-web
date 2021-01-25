@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://rorweb.com/0.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <Resource rdf:about="sitemap">
+    <type>SiteMap</type>
+    <title>Genesis Sci fi Club</title>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/index.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/upcoming/events.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/upcoming/games.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/upcoming/DVD.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/upcoming/cinema.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/ourWork/miscellaneous.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/quickGuide.htm</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/ourWork/aAndE.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/ourWork/devilsAdvocate.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/ourWork/krovt.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/ourWork/theUniverseToday.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/ourWork/explosions.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/review/DVD.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/review/events.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/review/games.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/review/TV.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/review/cinema.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/links/ourFriends.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/links/otherSFClubs.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/links/SFMediaSites.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/gallery/gallery.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/upcoming/TV.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/upcoming/books.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/aboutUs/history.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/aboutUs/contactUs.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/aboutUs/constitution.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+  <Resource>
+    <url>http://www.genesis-sf.org.uk/aboutUs/aboutUs.shtml</url>
+    <resourceOf rdf:resource="sitemap" />
+    <updatePeriod>month</updatePeriod>
+  </Resource>
+</rdf:RDF>

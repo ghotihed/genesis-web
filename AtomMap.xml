@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+<title>Genesis Sci Fi Club</title>
+<subtitle>Genesis sci fi, the science fiction club for Basingstoke</subtitle>
+<link rel="alternate" type="text/html" href="Genesis Sci Fi Club" />
+<link rel="self" href="http://www.genesis-sf.org.uk/AtomMap.xml" />
+<updated>2011-06-19T00:35:52Z</updated>
+<author>
+<name>Matthew Greet</name>
+</author>
+<id>Genesis Sci Fi Club</id>
+
+
+<entry>
+<title>Genesis Sci-Fi Club - News</title>
+<link href="http://localhost/index.shtml" />
+<id>http://localhost/index.shtml</id>
+<updated>2011-06-18T14:10:52Z</updated>
+<summary>Genesis Sci-Fi Club, the Basingstoke science fiction club - News</summary>
+</entry>
+
+<entry>
+<title>Genesis - Upcoming Events</title>
+<link href="http://localhost/upcoming/events.shtml" />
+<id>http://localhost/upcoming/events.shtml</id>
+<updated>2011-06-16T00:31:33Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Upcoming Games</title>
+<link href="http://localhost/upcoming/games.shtml" />
+<id>http://localhost/upcoming/games.shtml</id>
+<updated>2011-06-15T00:08:13Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Upcoming DVD</title>
+<link href="http://localhost/upcoming/DVD.shtml" />
+<id>http://localhost/upcoming/DVD.shtml</id>
+<updated>2011-06-15T00:06:52Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Upcoming Cinema</title>
+<link href="http://localhost/upcoming/cinema.shtml" />
+<id>http://localhost/upcoming/cinema.shtml</id>
+<updated>2011-06-15T00:00:47Z</updated>
+</entry>
+
+<entry>
+<title>Genesis Sci Fi Club</title>
+<link href="http://localhost/includes/menu.htm" />
+<id>http://localhost/includes/menu.htm</id>
+<updated>2011-06-10T23:29:48Z</updated>
+</entry>
+
+<entry>
+<title>Genesis Sci-Fi Club - Design and Editorial Policy</title>
+<link href="http://localhost/editorialPolicy.htm" />
+<id>http://localhost/editorialPolicy.htm</id>
+<updated>2011-06-10T23:24:26Z</updated>
+</entry>
+
+<entry>
+<title>Genesis Sci Fi Club</title>
+<link href="http://localhost/y_key_4ad7c5fadbe6e664.html" />
+<id>http://localhost/y_key_4ad7c5fadbe6e664.html</id>
+<updated>2011-06-10T22:39:13Z</updated>
+</entry>
+
+<entry>
+<title>Genesis Sci Fi Club</title>
+<link href="http://localhost/google2da552026d8552e3.html" />
+<id>http://localhost/google2da552026d8552e3.html</id>
+<updated>2011-06-10T22:39:13Z</updated>
+</entry>
+
+<entry>
+<title>Genesis Sci Fi Club</title>
+<link href="http://localhost/y_key_6b2654f8d552d632.html" />
+<id>http://localhost/y_key_6b2654f8d552d632.html</id>
+<updated>2011-06-10T22:39:13Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Devil's Advocate</title>
+<link href="http://localhost/ourWork/devilsAdvocate.shtml" />
+<id>http://localhost/ourWork/devilsAdvocate.shtml</id>
+<updated>2011-06-10T22:39:13Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Explosions Don't Go Boom in Space</title>
+<link href="http://localhost/ourWork/explosions.shtml" />
+<id>http://localhost/ourWork/explosions.shtml</id>
+<updated>2011-06-10T22:39:13Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Krovt</title>
+<link href="http://localhost/ourWork/krovt.shtml" />
+<id>http://localhost/ourWork/krovt.shtml</id>
+<updated>2011-06-10T22:39:13Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - The Universe Today</title>
+<link href="http://localhost/ourWork/theUniverseToday.shtml" />
+<id>http://localhost/ourWork/theUniverseToday.shtml</id>
+<updated>2011-06-10T22:39:13Z</updated>
+</entry>
+
+<entry>
+<title>Genesis Sci Fi Club</title>
+<link href="http://localhost/quickGuide.htm" />
+<id>http://localhost/quickGuide.htm</id>
+<updated>2011-06-10T22:39:13Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Star Trek A&amp;E</title>
+<link href="http://localhost/ourWork/aAndE.shtml" />
+<id>http://localhost/ourWork/aAndE.shtml</id>
+<updated>2011-06-10T22:39:13Z</updated>
+</entry>
+
+<entry>
+<title>Genesis Sci-Fi Club - 404 Not Found</title>
+<link href="http://localhost/404.shtml" />
+<id>http://localhost/404.shtml</id>
+<updated>2011-06-10T22:39:13Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Miscellaneous</title>
+<link href="http://localhost/ourWork/miscellaneous.shtml" />
+<id>http://localhost/ourWork/miscellaneous.shtml</id>
+<updated>2011-06-10T22:39:13Z</updated>
+</entry>
+
+<entry>
+<title>Genesis Sci Fi Club</title>
+<link href="http://localhost/test.php" />
+<id>http://localhost/test.php</id>
+<updated>2011-06-10T22:39:13Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Reviews - Cinema</title>
+<link href="http://localhost/review/cinema.shtml" />
+<id>http://localhost/review/cinema.shtml</id>
+<updated>2011-06-10T22:38:53Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Reviews - DVD</title>
+<link href="http://localhost/review/DVD.shtml" />
+<id>http://localhost/review/DVD.shtml</id>
+<updated>2011-06-10T22:38:53Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Reviews - Events</title>
+<link href="http://localhost/review/events.shtml" />
+<id>http://localhost/review/events.shtml</id>
+<updated>2011-06-10T22:38:53Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Reviews - Games</title>
+<link href="http://localhost/review/games.shtml" />
+<id>http://localhost/review/games.shtml</id>
+<updated>2011-06-10T22:38:53Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Reviews - TV</title>
+<link href="http://localhost/review/TV.shtml" />
+<id>http://localhost/review/TV.shtml</id>
+<updated>2011-06-10T22:38:53Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Other SF Clubs</title>
+<link href="http://localhost/links/otherSFClubs.shtml" />
+<id>http://localhost/links/otherSFClubs.shtml</id>
+<updated>2011-06-10T22:36:56Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Our Friends</title>
+<link href="http://localhost/links/ourFriends.shtml" />
+<id>http://localhost/links/ourFriends.shtml</id>
+<updated>2011-06-10T22:36:56Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - SF Media Sites</title>
+<link href="http://localhost/links/SFMediaSites.shtml" />
+<id>http://localhost/links/SFMediaSites.shtml</id>
+<updated>2011-06-10T22:36:56Z</updated>
+</entry>
+
+<entry>
+<title>Genesis Sci Fi Club</title>
+<link href="http://localhost/includes/copyright.htm" />
+<id>http://localhost/includes/copyright.htm</id>
+<updated>2011-06-10T22:36:54Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Gallery</title>
+<link href="http://localhost/gallery/gallery.shtml" />
+<id>http://localhost/gallery/gallery.shtml</id>
+<updated>2011-06-10T22:36:52Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Upcoming TV</title>
+<link href="http://localhost/upcoming/TV.shtml" />
+<id>http://localhost/upcoming/TV.shtml</id>
+<updated>2011-06-10T22:36:50Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Upcoming Books/Audiobooks</title>
+<link href="http://localhost/upcoming/books.shtml" />
+<id>http://localhost/upcoming/books.shtml</id>
+<updated>2011-06-10T22:36:50Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - About Us</title>
+<link href="http://localhost/aboutUs/aboutUs.shtml" />
+<id>http://localhost/aboutUs/aboutUs.shtml</id>
+<updated>2011-06-10T22:36:34Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Constitution</title>
+<link href="http://localhost/aboutUs/constitution.shtml" />
+<id>http://localhost/aboutUs/constitution.shtml</id>
+<updated>2011-06-10T22:36:34Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - Contact Us</title>
+<link href="http://localhost/aboutUs/contactUs.shtml" />
+<id>http://localhost/aboutUs/contactUs.shtml</id>
+<updated>2011-06-10T22:36:34Z</updated>
+</entry>
+
+<entry>
+<title>Genesis - History</title>
+<link href="http://localhost/aboutUs/history.shtml" />
+<id>http://localhost/aboutUs/history.shtml</id>
+<updated>2011-06-10T22:36:34Z</updated>
+</entry>
+
+</feed>

@@ -1,0 +1,118 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD> 
+	 <META charset="utf-8"> 
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+     <META NAME="description" CONTENT="Genesis Sci-fi's house magazine: The Genesis Matrix (Reloaded)">
+	 <TITLE>Genesis - The Universe Today</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+	 <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('ourWorkTheUniverseTodayMenu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+	 <DIV CLASS="mainbody"> 
+		<H1 CLASS="title">The Matrix Reloaded</H1> 
+		<P>Our long running in-house magazine, published for every club meeting.
+		  Now editied by Ross McNaughton.</P> 
+		<P>If you do not have a PDF reader, try Adobe Reader.
+		  <A HREF="http://www.adobe.com/go/getreader" TARGET="_blank"><IMG
+		  SRC="utimages/get_adobe_reader.gif" WIDTH="112" HEIGHT="33" STYLE="vertical-align: text-top" ALT="The Universe Today"></A></P>
+          
+        <A HREF="/ourWork/utpdf/2014_January.pdf">
+          <IMG SRC="/ourWork/utimages/2014_January.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2014_January.pdf">12th January 2014</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="January2014"> 
+		  <P>Golden Doughnut Awards 2013.  Genesis at the Movies: <i>The Hobbit part 2</i>, <i>Hunger Games</i>.  Book Review: <i>The War of the Worlds</i>.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2013_December.pdf">
+          <IMG SRC="/ourWork/utimages/2013_December.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2013_December.pdf">15th December 2013</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="December2013"> 
+		  <P>Armadacon 25.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2013_November.pdf">
+          <IMG SRC="/ourWork/utimages/2013_November.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2013_November.pdf">10th November 2013</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="November2013"> 
+		  <P>50 years of Doctor Who.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2013_October.pdf">
+          <IMG SRC="/ourWork/utimages/2013_October.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2013_October.pdf">20th October 2013</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="October2013"> 
+		  <P>Doctor Who Debunked.  Fresh Perspectives: Star Trek V.  Explosions Don't Go Book in Space: <i>Elysium</i>.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2013_September.pdf">
+          <IMG SRC="/ourWork/utimages/2013_September.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2013_September.pdf">22th September 2013</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="September2013"> 
+		  <P>Doctor Who Debunked.  Fresh Perspectives: <i>Star Trek IV</i>.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2013_August.pdf">
+          <IMG SRC="/ourWork/utimages/2013_August.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2013_August.pdf">25th August 2013</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="August2013"> 
+		  <P>The new Doctor.  Doctor Who Debunked.  Genesis at the Movies.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2013_July.pdf">
+          <IMG SRC="/ourWork/utimages/2013_July.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2013_July.pdf">28th July 2013</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="July2013"> 
+		  <P>Doctor Who Debunked.  Genesis at the Movies.  <i>Neverwhere</i> review.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2013_June_Late.pdf">
+          <IMG SRC="/ourWork/utimages/2013_June_Late.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2013_June_Late.pdf">30th June 2013</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="JuneLate2013"> 
+		  <P>Who's the next Dr. Who.  Weird Science.  Tribute to Iain Banks.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2013_June_Early.pdf">
+          <IMG SRC="/ourWork/utimages/2013_June_Early.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2013_June_Early.pdf">2nd June 2013</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="JuneEarly2013"> 
+		  <P>Corsham Sci-fi 2013 photos.  Tribute to Ray HarryHausen.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2013_May.pdf">
+          <IMG SRC="/ourWork/utimages/2013_May.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2013_May.pdf">5th May 2013</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="May2013"> 
+		  <P>Doctor Who debunked.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2013_April.pdf">
+          <IMG SRC="/ourWork/utimages/2013_April.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+	   <H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2013_April.pdf">7th April 2013</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="April2013"> 
+		  <P><i>Defiance</i> preview.  <i>Star Wars: Phantom Menace</i> review.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2013_March.pdf">
+          <IMG SRC="/ourWork/utimages/2013_March.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2013_March.pdf">10th March 2013</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="March2013"> 
+		  <P>Redemption 2013.  Tribute to Raymond Cusick.</P>
+        </DIV>
+        
+          
+    </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

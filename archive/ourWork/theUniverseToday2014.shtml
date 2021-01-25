@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD> 
+	 <META charset="utf-8"> 
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+     <META NAME="description" CONTENT="Brief summaries of 2013 copies of Genesis sci-fi's house magazine: The Universe Today">
+	 <TITLE>Genesis - The Universe Today 2013 Archive</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+	 <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('archiveOurWorkTheUniverseToday2013Menu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+	 <DIV CLASS="mainbody"> 
+		<H1 CLASS="title">The Matrix Reloaded 2014</H1> 
+		<P>Our long running in-house magazine, published for every club meeting, editied by Jeremy Ogden.</P> 
+		<P>Back issues older than a year aren't kept online due to limited disk space.  Email the <a href="mailto:webmaster@genesis-sf.org.uk">webmaster</a> instead.</P>
+          
+        <A HREF="/ourWork/utpdf/2014_January.pdf">
+          <IMG SRC="/ourWork/utimages/2014_January.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2014_January.pdf">12th January 2014</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="January2014"> 
+		  <P>Golden Doughnut Awards 2013.  Genesis at the Movies: <i>The Hobbit part 2</i>, <i>Hunger Games</i>.  Book Review: <i>The War of the Worlds</i>.</P>
+        </DIV>
+        
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

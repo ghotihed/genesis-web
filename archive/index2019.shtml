@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+    <META charset="utf-8">
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <TITLE>Genesis Sci-Fi Club - Archive - News 2019</TITLE>
+    <META NAME="description" CONTENT="Genesis Sci-Fi Club, the Basingstoke science fiction club - Archive - News 2019">
+    <META NAME="robots" CONTENT="all">
+    <META NAME="robots" CONTENT="index,follow">
+    <META NAME="google-bot" CONTENT="all">
+    <META NAME="google-bot" CONTENT="index,follow">
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('archiveNews2019Menu');">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody"> 
+      <H1 CLASS="title">Welcome to Genesis Sci-fi Club</H1>
+      <H2 CLASS="titletagline">The Basingstoke science fiction club</H2>
+      
+      <IMG SRC="images/barbecue.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Barbecue">
+      <H2 CLASS="textboxtitle">Barbecue - Sunday 28<sup>th</sup> July 2019 (not 30<sup>th</sup> June)</H2>
+      <DIV CLASS="textboxshrunken" ID="barbecue">
+        <P>Thanks to the Arnush family.  If you've lost your copy of the club magazine, email <A HREF="mailto:info@genesis-sf.org.uk">info@genesis-sf.org.uk</A> for the location.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="barbecueControl">more</A>
+
+      <IMG SRC="images/RedLionCrossedOut.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Red Lion Hotel">
+      <H2 CLASS="textboxtitle">Next Club Meeting - 22<SUP>nd</SUP> September</H2>
+      <DIV CLASS="textboxshrunken" ID="nextClubMeeting2">
+        <P>We're not at the Red Lion this month.  Meet at the Arush house.  3:00pm till 9:30pm (1500 - 2130).</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="nextClubMeeting2Control">more</A>
+
+      <A HREF="http://redlionhotelbasingstoke.com/" TARGET="_blank">
+        <IMG SRC="/images/christmasMeal.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Red Lion Hotel"></A>
+      <H2 CLASS="textboxtitle">Christmas Meal and Club Meeting - 15<SUP>th</SUP> December</H2>
+      <DIV CLASS="textboxshrunken" ID="nextClubMeeting">
+        <P>At <A HREF="http://redlionhotelbasingstoke.com/" TARGET="_blank">Red Lion Hotel</A> in Basingstoke, 3:00pm till 9:30pm (1500 - 2130). (<A HREF="https://www.google.co.uk/maps/place/The+Red+Lion+Hotel,+Red+Lion+Ln,+Basingstoke,+Hampshire+RG21/@51.2684613,-1.0459393,12z/data=!4m2!3m1!1s0x487421816de3fd77:0x21fba295fb84c855?hl=en-GB"
+          TARGET="_blank">map</A>).  If you want the Christmas lunch, contact Rene.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="nextClubMeetingControl">more</A>
+
+      
+  </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

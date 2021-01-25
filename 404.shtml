@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<HTML> 
+<HEAD>
+    <META charset="utf-8">
+    <TITLE>Genesis Sci-Fi Club - 404 Not Found</TITLE><META NAME="robots"
+    CONTENT="all"> <META NAME="robots" CONTENT="index,follow">
+    <META NAME="google-bot" CONTENT="all">
+    <META NAME="google-bot" CONTENT="index,follow">
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+</HEAD> 
+<BODY>
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody"> 
+      <H1 CLASS="title">404 Not Found</H1> 
+      <P STYLE="text-align: center">The page you were looking for
+        does not exist.<BR>If your URL ends with .htm, try changing it to end with .shtml<BR>Failing that, use the menu on the left hand side.</P> 
+      <DIV STYLE="text-align: center">
+        <IMG SRC="/images/error.jpg" ALT="Uh, David... wrong show" WIDTH="500" HEIGHT="288" STYLE="text-align: center;">
+      </DIV>
+    </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</HTML>

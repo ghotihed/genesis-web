@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+    <META charset="utf-8"> 
+    <META DESCRIPTION="Other clubs and businesses that members know and think you might like">
+    <TITLE>Genesis - Our Friends</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('linksOurFriendsMenu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody" ID="mainbody"> 
+      <H1 CLASS="title">Our Friends</H1><!--Descriptions contain line breaks as my HTML editor doesn't wrap properly, dammit!-->
+      <A HREF="http://www.basingstokeanimesociety.com"
+      TARGET="_blank"><IMG SRC="images/basingstokeAnime.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Basingstoke Anime Society"></A> 
+      <H2 CLASS="textboxtitle">
+        <A HREF="http://www.basingstokeanimesociety.com" TARGET="_blank">Basingstoke
+        Anime Society</A></H2> 
+      <DIV CLASS="textboxshrunken" ID="basingstokeAnime">Another local club at
+        which a few Genesis members are regulars.<BR></DIV><A
+      HREF="http://charitydaleks.co.uk/" TARGET="_blank"><IMG
+      SRC="images/charityDaleks.png" CLASS="subtitle" WIDTH="70"
+      HEIGHT="70" ALT="Charity Daleks"></A> 
+      <H2 CLASS="textboxtitle">
+        <A HREF="http://charitydaleks.co.uk/" TARGET="_blank">Charity Daleks</A></H2> 
+      <DIV CLASS="textboxshrunken" ID="charityDaleks">We know people who dress
+        up as Daleks, Stormtroopers or other costumes in public, for
+        charity.<BR></DIV><A HREF="http://www.discworldemporium.com/"
+      TARGET="_blank"><IMG SRC="images/discworldEmporium.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Discworld Emporium"></A> 
+      <H2 CLASS="textboxtitle">
+        <A HREF="http://www.discworldemporium.com/" TARGET="_blank">Discworld Emporium
+        aka. The Cunning Articifer</A></H2> 
+      <DIV CLASS="textboxshrunken" ID="discworldEmporium">Some of our members
+        adore the stunning Discworld artwork.<BR></DIV><A
+      HREF="http://www.lotna.org.uk" TARGET="_blank"><IMG SRC="images/lotna.png"
+      CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="League of the Non-Aligned"></A> 
+      <H2 CLASS="textboxtitle">
+        <A HREF="http://www.lotna.org.uk" TARGET="_blank">League of the
+        Non-Aligned</A></H2> 
+      <DIV CLASS="textboxshrunken" ID="lotna">London pub-meet club who Genesis
+        meets up with from time to time.<BR></DIV><A HREF="http://www.sadmuppets.org/"
+      TARGET="_blank"><IMG SRC="images/sms.png" CLASS="subtitle"
+      WIDTH="70" HEIGHT="70" ALT="The Sad Muppet Society"></A> 
+      <H2 CLASS="textboxtitle">
+        <A HREF="http://www.sadmuppets.org/" TARGET="_blank">The Sad Muppet
+        Society</A></H2> 
+      <DIV CLASS="textboxshrunken" ID="sms">Wargaming club founded by members
+        of Genesis.<BR></DIV><A HREF="http://www.spikyclub.com/" TARGET="_blank"><IMG
+      SRC="images/spikyclub.png" CLASS="subtitle" WIDTH="70"
+      HEIGHT="70" ALT="Spiky Club"></A> 
+      <H2 CLASS="textboxtitle">
+        <A HREF="http://www.spikyclub.com/" TARGET="_blank">The Spiky Club</A></H2> 
+      <DIV CLASS="textboxshrunken" ID="spikyclub">SF and Fantasy wargaming and
+        roleplaying club based in Reading.<BR></DIV><BR>
+    </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

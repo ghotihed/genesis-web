@@ -1,0 +1,17 @@
+body {
+	font-size: 11px;
+}
+
+.buttons div a {
+	padding: 2px 6px 5px 17px;
+}
+
+* html .buttons div  a {
+	padding-bottom: 3px;
+	line-height: 20px;
+}
+
+* html #cp-main .buttons div a {
+	padding-bottom: 4px;
+	line-height: 16px;
+}

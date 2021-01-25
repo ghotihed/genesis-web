@@ -1,0 +1,182 @@
+<!DOCTYPE HTML>
+<html>
+<HEAD>
+    <META charset="utf-8">
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <META NAME="description" CONTENT="Events reviews written by Genesis sci-fi members">
+    <TITLE>Genesis - Event Reviews</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+    <SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT>
+    <SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT>
+</HEAD>
+<BODY ONLOAD="selectMenu('reviewEventsMenu')">
+<DIV CLASS="menu" ID="menu"> 
+  <!--#include virtual="/includes/menu.htm" --> 
+</DIV>
+<DIV CLASS="mainbody">
+  <H1 CLASS="title">Reviews - Events</H1>
+  
+  <A HREF="http://www.armadacon.org/archive/ArmadaCon%2022.html" TARGET="_blank"> <IMG SRC="/review/images/armadaCon.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="ArmadaCon"></A>
+  <H2 CLASS="textboxtitle"><A HREF="http://www.armadacon.org/archive/ArmadaCon%2022.html" TARGET="_blank">ArmadaCon 2011</A> <A ID="armadaCon2011Subtitle"> - 11th December 2011</A></H2>
+  <DIV CLASS="textboxshrunken" ID="armadaCon2011">
+    <P>OK, now things are starting to get scary! <i>(oh no, does that mean Dave Trace has just turned up dressed as a police woman again?? - Ed)</i></P>
+    <p>This is the second year running that we’ve travelled down to Plymouth, in order to spend a mad weekend with a relatively small group of science fiction fans who have been running this event for 23 years. After spending years promising friends that we would be going along, we finally managed it last year, and enjoyed it so much that we paid up for this year’s event before leaving Plymouth, last time.</p>
+    <p>So what is so different about ArmadaCon? Well, I’ve never been to a large scale Sci-Fi convention, however we have been to several Discworld conventions, and whilst enjoyable (especially the first one we attended), they are incredibly professional and as such tend to be a bit too clinical for my tastes. Plymouth on the other hand is best described as organised chaos, that’s not that organised. Just my kind of thing.</p>
+    <p>So we arrived on the Thursday in order to give Susan time to recover from the journey (cue - a scary advert for The Train Line.Com). After checking in, we met up with Paul and Jeremy and joined Paul in his room for coffee. Then a quiet night in the hotel bar ensued (it comes in pints!) during which it was concluded that Romulan Ale is, in fact, illegal in Devon. This was followed by returning to the rooms and consuming copious volumes of coffee. Friday saw us meet familiar faces from last year as they slowly filtered (not coffee) in to the hotel’s reception. Then we all piled into Jeremy’s car and popped into the city centre in order to buy socks (yes, it really was to buy socks!) Of course it was an opportunity to first dive into Final Frontier, Plymouth’s own specialist science fiction shop <i>(which also sells Richie Sombora from Bon Jovi action figures. No, seriously, they do—Ed)</i> Then it was time for coffee, and after the mandatory purchase of socks, it was back to the hotel for <i>(wait for it– Ed)</i> coffee.</p>
+    <p>Later that evening the convention kicked off, and we missed this totally, because the restaurant was struggling to muster staff, and our stomachs took priority over anything else. So later on we joined everybody else and basically began scheming. There was a welcome quiz which we managed to not quite come last in, a really silly radio play, and we then settled down to the late night film, <i>The Wild</i> hunt, during which time Susan managed to knit two decretive vegetables! (Yes, in the dark).</p>
+    <p>Saturday morning was heralded by a breakfast the size of Scarbourgh, and copious use of filter machines (yes coffee). At this stage, the con’s panels started to run, and I’ll let others tell you all about that. Then it was time for the Charity Auction which pleased us no end, when one of our Reduced Rassilon creations was sold for a very respectable thirty pounds.</p>
+    <p>Lunch involved sandwiches and coffee, and then the evening entertainment arrived which saw my first ever involvement in a Masquerade. This involved me as the Fifth Doctor being in cahoots with “The Corsair”, Cue lots of silliness, and “I’m the Corsair, and so’s my wife!”</p>
+    <p>Sunday saw things gently winding down until the final close, but there was lots still on offer, from shopping and signings in the dealer’s room, getting energetic playing laser tag, (you’ll be surprised to know that I wasn’t energetic. I was too busy drinking coffee!), or in the gaming centre, which spent the whole weekend running table-top Star Trek battles and playing Scalextric with a twenty-four hour marathon, or even the video room, that spent it’s time showing Plymouth Who productions and Anime.</p>
+    <p>Sunday culminated with a rendition of <i>Janet and John Go To A Science Fiction Convention</i>, which if you’re very unlucky you may hear today at club. <i>(Do you know what an approaching sense of fear and loathing feel like? Jeremy does – Ed)</i></p>
+    <p>This had been specially written by Jeremy and myself after mentioning the idea to a mutual friend, <i>(as someone once said, 'one little mistake&#8230;'- Ed)</i> and being told that if we didn’t do it we’d face scary repercussions! Needless to say it was appropriately silly, and we have been instructed that next year we must have Janet and John do I.T. Support. I think we may have spawned a regular feature of the Sunday post-con conclave. You’ve no idea how scary a concept this represents. <i>(Although you may do if we carry out our threat and repeat the whole shebang at the club today—Ed</i>)</p>
+    <p>I really can’t recommend this small, fan-run event enough. All their conventions are held in order to raise money for Talking Books for the Blind, and to have fun. With the emphasis very much on FUN. Next year we shall be returning and I can only hope that some of you choose to join us, as it really is a case of the more the merrier!</p>
+    <p>Please take some time to check out their web site, and view some of their past exploits, much of which is available on the internet, and be suitably inspired.</p>
+    <p><b>David Offen-James</b></p>
+    <p>"Mexican Vikings are unreliable"</p>
+    <p>See Gallery of <a href="/gallery/gallery.shtml#armadaCon2011Anchor">ArmadaCon 2011</a>.</p>  </DIV>
+  <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="armadaCon2011Control">more</A>
+  
+  <A HREF="http://www.palmicrolimited.talktalk.net/CorshamSciFi/past%20events.htm" TARGET="_blank"> <IMG SRC="/review/images/corsham.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Corsham Sci Fi Family Funday"></A>
+  <H2 CLASS="textboxtitle"><A HREF="http://www.palmicrolimited.talktalk.net/CorshamSciFi/past%20events.htm" TARGET="_blank">Corsham Sci Fi Family Funday 2011</A> <A ID="corshamSubtitle"> - 29th May 2011</A></H2>
+  <DIV CLASS="textboxshrunken" ID="corsham">
+    <P>Didn’t we have a lovely time at Corsham last year. Jeremy Bulloch, some very impressive costumes, the Critter Creator and a little old lady with tea fixation. All good fun, which is good because it was a ‘family fun day’ after all. This year we went back for more, sadly no Jeremy Bulloch this year but we were geared up for a meeting with Danny John Jules and were braced for another round of ‘no, not three teas, two coffees and a hot chocolate....No, really, no teas”.</P>
+    <p>So off went, me, David and Susan, west, with the four other members of the Lullworth Seven going the scenic route and meeting us there. In fact I missed a call from them enquiring as to our location while we were carrying out a complicated navigational manoeuvre / course correction (ie, figuring out which exit to take off a roundabout). As it was, after we’d taken a slightly different route to last year, through the centre of Corsham , (which fortunately for us is not exactly a looming metropolis) we joined the queue to get in, in lovely hot sunshine at Springfield Community Centre at precisely the same time as Paul, Rita, Tony and Ann, who had walked from a car park a little distance away due to the fact that the event’s publicity department had not yet managed to find anywhere to fulfil it’s job description.</p>
+    <p>Our concern at the absence of the snack bar at the kitchen hatch was tempered by the fact that the table placed in front of the hatch was selling cake, and the sale of drinks and food had migrated to the bar. In the main hall there seemed to be less traders than last year but a long line of autograph table, with the biggest queue waiting to meet Danny John Jules, who signed some items for the charity auction at ArmadaCon (including a photo which he didn’t charge for), and was a thoroughly splendid chap, as was Stephen Wickham who was seated next to him.</p>
+    <p>Again there were lots of costumes on display, and several Daleks wheeling around, including one with Boy Racer attitude and a Dukes of Hazard horn to match, not to mention a ‘special weapons’ adaption – a water pistol. The main hall was at times a bit chaotic, and my recent experiences of charity auctions were not improved by the effort here. However, the afternoon was enlivened by the second of
+the day’s Q&amp;A sessions with the resident Daleks, who it turned out, answered to the names of Bob, Spot, Elsie and Raymond, with the audience voting for their favourites at the end. The winner was Raymond (named after the BBC designer responsible for the look of the Daleks, and the building of them for the first story back in 1963), who swung the debate with his answer to the searching question of ‘what were you all doing during the Time War?’ Raymond was, apparently, having a nice cup of tea and hoping it would all blow over. I therefore suspect that he was in fact, Private Godfrey from Dad’s Army! The late arrival of a couple of Planet of the Apes style Apes, and the looming presence of the Dark Lord himself, Darth Vader (outside the fire exit, having a bit of a break from wandering around menacing members of the public- it was quite hot and sunny after all) added to the fun.</p>
+    <p>Making his presence felt all day was Tony Coburn, David Tennant look-a-like, who we’d chatted with last year, and who apparently played the young Lucious Malfoy in a scene in Harry Potter and the Half-Blood Prince which didn’t make it to the final cut. From certain angles and in the right light, his resemblance to Tennant is actually pretty uncanny, and he has nailed a lot of the Tenth Doctor’s mannerisms as well. The authenticity of his outfit also helps, but why is it that whenever I see someone trying to look like the Tenth Doctor (apart from David Tennant, and, well, me) more often than not they have a nice neatly done-up tie and top shirt button?</p>
+    <p>Before departing for home there was just time for David to talk to the local Dalek Builders, (uh-oh), while the rest of us tried
+to decide which pub to go to on the way back.</p>
+    <p>The date for next year’s event which will be slightly later, on 28th April. It is most certainly in the diary.</p>
+    <p>Jeremy Ogden</p>
+    <p>See Gallery of <a href="/gallery/gallery.shtml#corsham2011Anchor">Corsham 2011</a>.</p>
+  </DIV>
+  <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="corshamControl">more</A>
+  
+  <A HREF="http://www.armadacon.org/archive/ArmadaCon%2022.html" TARGET="_blank"> <IMG SRC="/review/images/armadaCon.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="ArmadaCon"></A>
+  <H2 CLASS="textboxtitle"><A HREF="http://www.armadacon.org/archive/ArmadaCon%2022.html" TARGET="_blank">ArmadaCon 2010</A> <A ID="armadaConSubtitle"> - 12th December 2010</A></H2>
+  <DIV CLASS="textboxshrunken" ID="armadaCon">
+    <P>Well we gone and done it again, yes we went to Armadacon 22 way down
+      in Plymouth.</P>
+    <P>This year however was slightly different as Dave and Susan finally
+      made it after making plans to do so for the last 3 years. They travelled down
+      by train on the Thursday whilst Jeremy, Rita and I drove down on the Friday.
+      Another major change was that of hotel, the last two years we have been at The
+      royal Fleet Hotel, but this has been sold on at the last minute and so the
+      organisers have returned to a hotel they haven&#39;t used in several years but
+      know well. We did of cause pop in to see Helen at The Warren Inn high on top of
+      Dartmoor, making it time to the new hotel in time for afternoon tea. The
+      Copthorne Hotel is far more modern, but unlike the smaller Royal Fleet the Con
+      didn&#39;t have it to its self, which led to a few strange looks from fellow
+      guest. The rooms I think were smaller, and not so well laid out which I felt
+      lost a lot of the feel of the last two years.</P>
+    <P>This year&#39;s guests were Ben Morris a graphic artist who has
+      worked on Dr Who magazine among others and he did a very interesting
+      illustrated talk. Terry Malloy who you may know as the evil one eyed milkman
+      form Ambridge or even as the evil one eyed Davros. On Sunday Steph Reese did a
+      panel on her latest production of a Terry Pratchett book in the morning and in
+      the afternoon we had the pleasure of Martin Lavelle a professor from Plymouth
+      University who did an excellent talk on physics time and the universe- OJ
+      failed to break him and in fact looked possibly more confused at the end of it
+      all. The demonstration of why you don&#39;t wear a red shirt and beam down to
+      the planet if your enemy has green lasers would of worked so much better if
+      H&amp;S hadn&#39;t toned down his laser pointer, but setting a cymbal off
+      using a flashgun off a camera was real neat &mdash; and thus proving light has
+      mass.</P>
+    <P>Speaking of guest speakers there maybe one at the club today, but I
+      leave it to you to guess whom. Plymouth Who productions showed their latest
+      film, and coupled with the Reduced Rassilon Productions form our very own OJ
+      and Jeremy were well received. We even had Terry sat at our table watching
+      Remembrance of the Daleks and quoting all Davros&#39;s lines live in sync! If
+      only we could get him to do that at the club haha.</P>
+    <P>The West Country Anime Society were back in force having a room to
+      themselves conveniently next to the games room, speaking of which I had spent
+      an enjoyable hour in there playing with Star Trek space ships and being blown
+      up as the Klingons beat the hell outa both the Federation and the Romulo Empire
+      this curtsey of Alan Marques a guest speaker form last year who had so much fun
+      he came back as a punter with his wife this year (by the way my favourite
+      speaker from last year as well).</P>
+    <P>All in all a great fun weekend made more so by the return of Jeremy
+      and the added attendance of OJ and Susan and the other entirely mad and crazy
+      Con addicts. But the best part of the whole thing was Barry&#39;s video of the
+      death of the Dr Who box set, those suckers take a lot of killing , and the
+      links done from behind a safety barrier in the gale were something to be seen (
+      not heard - his microphone leaves a lot to be desired unlike all the arm waving
+      and dramatic gestures).</P>
+    <P>Paul Russel</P>
+  </DIV>
+  <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="armadaConControl">more</A>
+  
+   <A HREF="http://www.sciencemuseum.org.uk/" TARGET="_blank"> <IMG SRC="images/science_museum_logo.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Science Museum"></A>
+  <H2 CLASS="textboxtitle"><A HREF="http://www.sciencemuseum.org.uk/" TARGET="_blank">Science Museum</A> and <A TARGET="_blank" HREF="http://www.lotna.org.uk">LOTNA</A> <A ID="scienceMuseumSubtitle">- 17th October 2010</A></H2>
+  <DIV CLASS="textboxshrunken" ID="scienceMuseum">
+    <P>Well what fun. I&#39;d forgotten just how good a day at the science
+      museum can be. This is hardly surprising is it&#39;s a good 30 years since I
+      last visited. The journey took off from the station at Basingstoke with 9 of
+      Genesis&#39; finest trekking where millions have gone before. By the time we
+      reached Waterloo we were 10, as Matt had come into London via Paddington. A
+      short walk across the river, and an opportunity to gaze in awe at the mighty
+      skateboard grave yard later, we were on the tube and heading for South
+      Kensington. Thankfully for Rita the journey was short and uneventful (she
+      really doesn&#39;t like underground trains, and I can&#39;t say that I blame
+      her).</P>
+    <P>We entered the museum to the tune of &quot;Everybody remember were
+      we parked&quot;, and then set off to explore in a variety of ram shackle
+      groups. After walking past the beam engines that brace the sides of the
+      entrance hall we entered the first hall of true exhibits. Space Travel. I was
+      in heaven. Now I am a true lover of all things space race. Here everything from
+      the British Black Star programme to Beagle Two and all things in-between were
+      on display. I could have easily spent the whole day in this one section. Seeing
+      the replica of the beagle two was interesting. Only the British would design a
+      space craft to look like a suitcase, it&#39;s no wonder that it turned into
+      lost luggage! Mock ups of the Huygens probe and a full scale Lunar Lander were
+      on display as well as a rocket engine from an actual Saturn 5. Wow. By this
+      time Ann and Tony (after a faltering start) had joined up with us, bring our
+      number up to a respectable dozen.</P>
+    <P>No matter how cool that was it couldn&#39;t compare with that which
+      lay waiting in the next room. Many wonders from the modern age lay on view. But
+      one stood head and shoulders above the rest. The Command Capsule of Apollo Ten.
+      The actual craft that travelled from the Earth to the moon and back. The burnt
+      remains of the heat shield that stopped the vessel from being reduced to
+      cinders still there for all to see. I honestly got goose bumps just looking at
+      it.</P>
+    <P>After a hearty lunch we thought that we really should see the
+      exhibition that we&#39;d originally planned the trip around and so off to the
+      third floor we went. The Dan Dare exhibit had some hilarious items of post war
+      originality. It&#39;s amazing just how quickly we grew technologically, and
+      just how fast the new inventions of the time became obsolete. All apart from
+      the Blood Hound anti aircraft missile system that was so ahead of it&#39;s
+      time that after its initial deployment, it remained in service for 30
+      years!</P>
+    <P>Then it was time to head off to see all the guys at LOTNA (The
+      League of Non Aligned).</P>
+    <P>The gang there were really welcoming and we were soon chatting and
+      eating very good pie! Dave at LOTNA had organised a quiz between a team from us
+      and some of their finest. Three rounds of taxing questions awaited us. We were
+      leading up until the last round, but then the quick fire round kicked in and we
+      were made to truly suffer. In the end a convincing win for the home crowd, but
+      enough points were earned to establish a creditable showing and afterward there
+      was time for chat and banter before it was time to head back to Waterloo. We
+      parted, pledging to maintain contact and to get together again soon. They hope
+      to be making a visit to our humble group sometime in the near future. They are
+      also sending a contingent to Redemption next year and hope to involve
+      themselves with any of our number that are also attending the convention.</P>
+    <P>A real buzz was evident in their group and they seem to be very
+      proactive about doing new things. Over 30 of them there and not a lap top in
+      sight, everyone was more interested in talking to one another and planning the
+      next silly notion. We could really do with taking a leaf out of their book.</P>
+    <P>So a huge thank you to all that came and I hope that you enjoyed
+      yourselves as much as I did. It was great to get out and active as a Genesis
+      member, and I have vowed to return to the science museum very soon.</P>
+    <P>P.S. Did I mention the PIE!!!!</P>
+    <P>David Offen-James</P>
+  </DIV>
+  <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="scienceMuseumControl">more</A> </DIV>
+<DIV CLASS="copyright" ID="copyright"> 
+  <!--#include virtual="/includes/copyright.htm" --> 
+</DIV>
+</BODY>
+</html>

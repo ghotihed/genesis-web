@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+	 <META charset="utf-8">
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+     <META NAME="description" CONTENT="What Genesis Sci-fi club does">
+	 <TITLE>Genesis - About Us</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+	 <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('aboutUsAboutUsMenu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+	 <DIV CLASS="mainbody"> 
+		<H1 CLASS="title">About Us</H1> 
+		<P>Genesis was founded by Robin Williams (no, not THAT one) with the help
+		  of Alison Prickett (formerly Dawson) and Mark Sinclair. The first public
+		  meeting was held at the Bass House pub in Basingstoke town centre on 11th
+		  August 1996.</P> 
+		<P>The initial idea of Genesis, as the name suggests, was a new
+		  beginning. Now it is just to provide a place for like-minded fans to gather and
+		  talk all things Science Fiction.</P> 
+		<P>We are not tied down to only one format, such as Star Trek or Star
+		  Wars, as we believe that anybody who is interested in SF has a wider horizon of
+		  interests. We also do not believe in, and do not have any kind of rank or
+		  points system nor exams.</P> 
+		<P>The main aim of Genesis is to hold group meetings in a friendly
+		  atmosphere where you can talk SF, to watch and discuss movies and television
+		  series, eat good food, and participate in a variety of quizzes run by our
+		  members, to play games and participate in discussions. We also organise events
+		  external to the Public Meetings, such as trips to the cinema, ten pin bowling,
+		  paintballing and conventions.</P> 
+		<P>All money that is raised from memberships, raffles and club events and
+		  merchandise will be used to fund the club.</P> 
+		<P>The club also has a formal <A
+		  HREF="constitution.shtml">constitution</A>. </P> 
+		<H2 CLASS="subtitle">Membership Details</H2> 
+		<P>Annual membership of Genesis costs &pound;5 for an individual or
+		  &pound;10 for family membership (any number of people at the same address).
+		  Membership entitles you to a membership card, entrance fees at members' rates,
+		  and a copy of the magazine mailed to you after any meeting which you are unable
+		  to attend.</P> 
+		<P>Entrance fees are currently &pound;2.00 for members and &pound;3.00
+		  for non-members. These prices are based on the cost of the venue and the number
+		  of people attending, and we will endeavour to keep them as low as possible.
+		  Depending on how the dates work out, there are between 11 and 13 meetings each
+		  year.</P> 
+		<P>We don't have a wide range of club merchandise but there are usually
+		  T-shirts of some kind available (the plan for the next batch is embroidered
+		  Polo shirts).</P>
+     </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

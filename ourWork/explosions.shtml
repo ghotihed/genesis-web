@@ -1,0 +1,446 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+    <META charset="utf-8"> 
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <META NAME="description" CONTENT="Matthew Greet's pedantic rants about inaccuracies in sci fi films">
+    <TITLE>Genesis - Explosions Don't Go Boom in Space</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('ourWorkExplosionsMenu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    
+    <DIV CLASS="mainbody"> 
+      <H1 CLASS="title">Explosions Don't Go Boom in Space</H1> 
+      <P>Pedantic rants about the scientific inaccuracy of sci-fi films.
+        Written by Matthew Greet, who can't stop switch his brain off and enjoy
+        them.</P>
+        
+      <IMG SRC="/ourWork/images/bahHumbug.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="bahHumbug"> 
+      <H2 CLASS="textboxtitle">Bah Humbug - 11th December 2011</H2> 
+      <DIV CLASS="textboxshrunken" ID="bahHumbug"> 
+        <P>Those who read my articles will think  I&rsquo;m a pedantic, humourless nitpicker who can&rsquo;t ignore minor faults and simply  enjoy a film.  They would be right.  However, it&rsquo;s the season to be jolly, so I&rsquo;ll  briefly explain why I liked the films I lambasted.</P>
+        <H5>Star Wars Episode 1: The Phantom Menace</H5>
+        <p>Umm... a space opera where most  characters have no plan and no clue, the battle scenes are ridiculous and it  contained Jar Jar Binks.  I couldn&rsquo;t make myself like this film.</p>
+        <H4>Avatar</H4>
+        <p>A beautiful and mysterious planet with  noble savages stamped on in the pursuit of profit and the hero realises it&rsquo;s  worth defending.  It&rsquo;s hackneyed but I  like the idea anyway.</p>
+        <H4>Lost in Space</H4>
+        <p>A predictable plot but Matt LeBlanc  and Gary Oldman make the film.  LeBlanc portrays a soldier who&rsquo;s seen war but  can still find joy.  Oldman portrays a magnificently manipulative  bastard.</p>
+        <H4>Tron: Legacy</H4>
+        <p>So many plot holes, it&rsquo;s silly, but  it&rsquo;s got great visual effects and curvaceous babes.  The soundtrack is brilliant.  If you haven&rsquo;t got the CD of the soundtrack,  buy it.</p>
+        <H4>Priest</H4>
+        <p>Umm... the characters were flat and  I&rsquo;ve never liked Westerns anyway, weird or not.</p>
+        <H4>Super 8</H4>
+        <p>The plot built up slowly but the  enthusiasm of the teenagers to make a short film was surprisingly  infectious.  It sounds stupid but it  works and you find yourself agreeing with the protagonist to enter the  monster&rsquo;s lair and rescue his girlfriend.</p>
+        <H4>In Time</H4>
+        <p>The story is based on a fascinating, Philip  K. Dick-like concept, like any good sci-fi should be.  The portrayal of the working class hero and  the jaded heiress is good and it&rsquo;s quite disturbing to see someone who looks  twenty five behave like an octogenarian.   Not as good as <i>Gattaca</i> but, like all good art should, either  gives you hope, or, in this case, makes you angry.</p>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="bahHumbugControl">more</A>
+
+      <IMG SRC="/ourWork/images/inTime.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="In Time"> 
+      <H2 CLASS="textboxtitle">In Time - 20th November 2011</H2> 
+      <DIV CLASS="textboxshrunken" ID="inTime"> 
+        <P><i>In  Time</i> is a dystopian film  written and directed by Andrew Niccol,  who also wrote <i>Gattaca</i>, where no one ages past 25 years but the catch is you  have to work, beg or steal for more time to continue living and at that time  has become the currency that pays for everything, including food, travel and  rent.  You can see your remaining time as  a luminescent, countdown display on your left arm and if it reaches zero,  you&rsquo;re dead.  You can also be killed by  accident, violence or having your time stolen from you.</P>
+        <p>The key point of the story is when a  worker in a ghetto, Will Salas, meets a stranger in a bar with over a century  of time, buying drinks for everyone.   People in the ghetto work hand-to-mouth and are lucky to have a few days  spare at any time.  The stranger doesn&rsquo;t  seem to care that he&rsquo;s a magnet for theft and, sure enough, the Minutemen gang  burst in to steal it.  Will rescues him  and hides in an abandoned warehouse, where the stranger, Henry Hamilton,  explains the injustice of the economic system.   The rich acquire more time than they need, effectively making them  immortal, whilst the poor are steadily killed by ever rising prices and work  quotas.  The poor are segregated from the  rich with &lsquo;timezones&rsquo; where travel between them requires payments of a month or  higher.  My first nitpick is people  should already realise the system is being stitched up by the rich.  </p>
+        <p>Henry, over a century old and tired of  life, gives Will almost all his spare time in his sleep and commits suicide by  letting the few, spare minutes he kept expire.   With immense wealth, Will goes to the prestigious timezone of New  Greenwich and vows to take the rich for everything they have.  Later, at a party, he seduces Sylvia Weis,  the daughter of a time-loaning businessman, mostly by showing willingness to  take any risk at all, such as swimming in a lake.  &ldquo;The poor die and the rich don&rsquo;t live.&rdquo; as  Sylvia says.   The police, or  timekeepers, arrive and confiscate all but two hours of Will&rsquo;s wealth,  suspecting it&rsquo;s stolen.  Will absconds,  taking Sylvia as a hostage, and drives back to his ghetto timezone in his  previously purchased car.  In a high  surveillance society, where few of the rich actually drive their cars and travel  between timezones is rare, it never occurs to the timekeepers to put up  roadblocks or traps.</p>
+        <p>An idea not lost on the Minutemen gang  who&rsquo;ve set up a trap for any more suicidal, rich people visiting the ghetto,  disable Will&rsquo;s car and robs Sylvia of most of her remaining time whilst she&rsquo;s  unconscious.  With more time bought by  Sylvia&rsquo;s jewellery, the couple retreat to Will&rsquo;s home.  The timekeepers, despite knowing Will&rsquo;s  identity, do not have it staked out.</p>
+        <p>Aware of the injustice of the economic  system, the couple become a Bonnie and Clyde by robbing banks except they give  away most of the time.  In a high  surveillance society, the timekeepers seem unable to track and stop them.  Alas, the wealthy can recover this money by  simply raising prices, so the duo think bigger by robbing Sylvia&rsquo;s millionaire  father, Phillipe.  The duo, with their  faces on every wanted notice, somehow manage to re-enter the most secure  timezone of all.  To gain entrance his  vault, the duo kidnap Phillipe by impersonating one of his many bodyguards and  sticking a gun to his head, whilst surrounded on all sides in close proximity  by the real bodyguards.  It seems that  not one is trained in close quarters disarming, even when the assailant can&rsquo;t see  you.</p>
+        <p>So the duo, steal a solitary, million  year capsule and escape back to the ghetto in a timekeeper&rsquo;s car.  This time, the timekeepers do have a  roadblock, which consists of firing assault rifles at a bulletproof,  timekeeper&rsquo;s car but no car disabling traps, such as the one Minutemen  used.  A bunch of petty criminals in a  ghetto can create a better roadblock than the timekeepers of the richest  timezone.  Pursued by timekeepers, the  duo make their escape by giving the million year capsule to a missionary who gives  away the time and starts a frenzy in the local crowd.  A missionary who always gives away all he can  spare will enjoy a lot of goodwill but not one of the desperate crowd tries to  steal the capsule.  People driven to  desperation by their closeness to zero remaining time yet have the presence of  mind to resist the madness of crowds.</p>
+        <p>One theme that runs through the film  is the poor do things in a hurry and run, a concept that Sylvia learns as she  gets close to zero.  She still runs  everywhere in high heel shoes though.</p>
+        <p>Phillipe&rsquo;s justification for the  economic system is that it&rsquo;s survival of the fittest.  This shows a misunderstanding of biology as  evolutionary fitness means the ability to adapt to the environment and  reproduce, not just merely survive day-to-day.   It&rsquo;ll end up with a social class with a higher birth rate, which is  precisely what they don&rsquo;t want.  More  importantly, it is the naturalistic fallacy, claiming something is ethical and  good merely because it&rsquo;s natural.  Strictly,  that&rsquo;s a scientific error by a film character, not the film writer, but appeals  to Social Darwinism annoy me.  OK, I&rsquo;m  going to stop before I start ranting about real world politics and joining  Occupy London.</p>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="inTimeControl">more</A>
+
+      <IMG SRC="/ourWork/images/super8.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Super 8"> 
+      <H2 CLASS="textboxtitle">Super 8 - 21st August 2011</H2> 
+      <DIV CLASS="textboxshrunken" ID="super8"> 
+        <P>Super 8 is a Spielberg film set in a fictitious, ‘70’s US small town featuring a bunch of teenagers making an amateur film when a train controlled by the US Air Force is spectacularly derailed, an extra-terrestrial alien escapes, mysterious events in happen in the town and the Air Force try to suppress everything.  The alien and material of his crashed spaceship, have such incredible powers, they’re indistinguishable from magic but that’s not going to stop me nitpicking.</P>
+        <ul>
+          <li>Dr Woodward, who was previously involved with the Air Force, deliberately derails the train with a pickup truck.  Why was he still in it and why wasn’t his truck a totally mangled wreck?</li>
+          <li>As the high speed train was derailed, most of the carriages were flung forward.  You can’t expect teenagers to think calmly in a crisis but as the carriages flew through the air, it didn’t occur to them to run away from the track, rather than forward where the carriages were landing?</li>
+          <li>As the Air Force arrive to investigate the crash, they spot a car escaping, which contains the teenagers.  Later, they are spotted making moulds of the tyre tracks.  So why didn’t they even ask the local deputies to check local cars or use their own agents?</li>
+          <li>Amongst the mysterious events in the town, such as power failures, the dogs disappear and are found miles away in other towns.  Assuming the alien doesn’t have the power to teleports dogs but not itself, we must assume the dogs found something very large and angry and ran away.  Dogs run and hide, not run off to the next town.</li>
+          <li>Numerous car engines, electrical cable, generators and microwave ovens go missing in the night, which is later shown to be stolen by the alien.  However, the car chassis are left behind.  As detaching car engines, and the fuel tanks, is a time-consuming task, why didn’t the alien take the whole cars and disassemble them alter at its leisure?</li>
+          <li>One of the teenagers, Alice, is kidnapped by the alien and one of the remaining gang, Joe, convinces the rest to go back to the town and rescue her.  At this point, the Air Force have created a wildfire to evacuate the town and are attacking the alien with all manners of weapons, unsuccessfully.  Not one soldier intercepts the teenagers despite the amount of deadly ordinance being fired.</li>
+          <li>Joe and one of friends, Cary, locate the alien’s subterranean lair, which none of the military bothered to find, despite knowing the alien is subterranean.</li>
+          <li>The alien is seen trying to construct a spaceship, or a device to assemble one, using the engines and equipment it stole.  Creating a complex machine from foreign, inferior, ill-suited technology in an improvised workshop is just magical thinking.</li>
+          <li>Alice is found hanging unconscious from the ceiling along with the other missing people from the town.  With Cary creating a distraction elsewhere, Alice is brought down and awoken.  This somehow causes the others to awaken.</li>
+          <li>With its food escaping, the aliens chases them, killing all but the teenagers and finally grabbing Joe.  As the alien telepathically communicates with everyone it touches, Joe reasons with it.  The alien has an understandably poor opinion of humanity after being imprisoned and tortured by the Air Force but it’s odd that it didn’t change its mind before when touching the sympathetic Dr Woodword, the Sherriff, an innocent housewife, Alice or anyone else.</li>
+          <li>A little later, the material of the crashed spaceship escapes from the Air Force trucks and flies to the town’s water tower, along with other loose metal from the town.  As the alien enters his assembled spaceship, not one soldier even tries to shoot it.</li>
+          <li>This assembly process also pulls Joe’s amulet, which contains an image of his dead mother.  Joe grabs it but then finally decides to let it go, as if the alien spaceship is being held back by grief.</li>
+        </ul>
+        <P>Oh alright, I’m just a killjoy who doesn’t like Spielberg endings.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="super8Control">more</A>
+
+      <IMG SRC="/ourWork/images/priest.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Priest"> 
+      <H2 CLASS="textboxtitle">Priest - 29th May 2011</H2> 
+      <DIV CLASS="textboxshrunken" ID="priest"> 
+        <P><i>Priest</i> is a Weird West film very loosely based on the Korean comics of the same name.  The protagonist is a holy warrior of the Church, a Priest, who battles eyeless, humanoid vampires who can climb and leap with incredible speed but cannot withstand sunlight.  Priests even have a cross tattooed on their face.</P>
+
+<p>The film starts with an exposition that humanity and vampires have been fighting for millennia, devastating the environment and forcing humanity to retreat to high-tech, walled cities.  The tide is turned when the Church creates an elite cadre of Priests, who are even faster than the vampires.  Most of the vampires are destroyed, their nests evacuated, the remainder confined to reservations, the war declared over and the Priests disbanded.  This is the first plot hole: history shows us that enmities don’t fade quickly, even if one side surrenders.  After centuries of retreat and devastation, against an enemy that doesn’t even look human and never speaks, humanity would press their new found advantage till the enemy was wiped out and would never accept a surrender.</p>
+
+<p>Such enmity also means that ‘familiars’, humans who seek to become servants of the vampires, would be despised as traitors.</p>
+
+<p>That the Church declared the war over also contradicts history.  Having saved humanity, the Church aren’t going to give up the thing that put them into power: fear of the enemy.  Although the Church claims it is the unquestionable authority, it is easier to maintain that if it seems the only thing preventing imminent destruction is the Church and its Priests.  Forgiveness may be Christian but even churches aren’t above abuses of power.</p>
+
+<p>The plot starts with a Wasteland sheriff, Hicks, telling a Priest (unnamed) that his brother has been mortally wounded and his niece kidnapped by vampires.  Priest asks the Church for permission to find her but is refused as this could panic the populace into thinking the vampires are active again.  The Church leaders declare bandits as the explanation.  When Priest tries backdoor politics with a friendly Monsignor, an arrest attempt is made, which Priests defeats.  Priest then rides out of the city’s front gate unhindered.  Unhindered.  Right.
+</p>
+<p>Another oddity is that the exposition scenes shows technological progression from medieval knights to World War One technology, finally settling on a city with information technology and jet bikes yet the vampires don’t use technology.  If humanity with medieval technology can survive a faster and stronger enemy, their technology progression would be enough to overcome the enemy’s physical advantage.  Physical strength and speed isn’t much good against machine guns, artillery, mustard gas and dynamite-collapsed tunnels.  There is a reason the industrialised Western nations could colonise undeveloped nations.
+</p>
+<p>More technological absurdities include vinyl records and oil lanterns in an age of miniaturised throwing stars and jet bikes that can be recharged with solar panels.  And none of the protagonists have radios or think to use one or a telephone to warn Cathedral City of their impending doom in an unscheduled train.
+</p>
+<p>Back to the plot, the protagonists discover a leaping Guardian in a vampire nest that’s supposed to be long evacuated.  In order to fight the Guardian in mid-leap, Priest leaps himself, boosted even further by jumping off rocks thrown mid-air by an ally Priestess.  The mass of a human body is so much greater than rocks that little momentum can be gained this way.  Oh alright, I’ll call that kung fu powers.  In a Western setting.
+</p>
+<p>Speaking of powers, the Priests believe their power comes from God but when they meet the main antagonist, a former Priest (Black Hat) who’s been transformed into a human vampire, faster than even the Priests, it is never even asked how he retains his Priest powers.  Perhaps the Priest’s powers do not come from God or God does not care about traitors but this is never explained.  Neither is it explained why the Cathedral City doesn’t receive sunlight.
+</p>
+<p>Altogether, a forgettable film with gaping plot holes.  And apparently, the story bears little resemblance to the Korean comics it’s based on.  Much like <i>Judge Dredd</i> and <i>Tank Girl</i>.  Note to self: avoid films based on comics.
+</p> 
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="priestControl">more</A>
+      
+      <IMG SRC="/ourWork/images/tronLegacy.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Tron: Legacy"> 
+      <H2 CLASS="textboxtitle">Tron Legacy - 10th March 2011</H2> 
+      <DIV CLASS="textboxshrunken" ID="tronLegacy"> 
+        <P><I>Tron: Legacy</I> is set a virtual world, which uses a different
+          set of physical laws, so I can't complain about scientific inaccuracies.
+          However, that's not going to stop me nitpicking.</P> 
+        <UL> 
+          <LI>Why wasn't Flynn's arcade disconnected by the power company when
+            no one paid the bill after 20 years?</LI> 
+          <LI>As programs are created to perform a function, why aren't they
+            seen to do any work?</LI> 
+          <LI>As programs can't reproduce, why do they have gender and what
+            would they do in a nightclub?</LI> 
+          <LI>As the rain is energy, why do people carry umbrellas?</LI> 
+          <LI>If the only connection between the real and virtual world is the
+            I/O port, why did Sam Flynn arrive at a replica of Flynn's arcade, not the I/O
+            port?</LI> 
+          <LI>Shouldn't the sudden re-appearance of the I/O port, which can be
+            seen by everyone in the city, his clothing and lack of a disc be a giveaway
+            that Sam is a user?</LI> 
+          <LI>Why didn't Kevin Flynn have a backup procedure or encoded signal
+            to re-open the I/O port after 8 hours in case he was delayed?</LI> 
+          <LI>If Kevin didn't want programs visiting the I/O port, why did he
+            build a solar sail line to it?</LI> 
+          <LI> Kevin's hideout couldn't be traced when Quorra drove her vehicle
+            to it but it could when Sam drove the vehicle away from it. That's not
+            likely.</LI> 
+          <LI>ISOs are programs that spontaneously evolved in the Grid, rather
+            than being created. Evolution requires reproduction, which programs can't
+            do.</LI> 
+          <LI>In Kevin's hideout, why didn't Jarvis, Clu 2's administrator,
+            recognise books?</LI> 
+          <LI>Clu 2 was obsessed to the point of madness but did he really
+            think he had the manpower to fight the real world?</LI> 
+          <LI>If Clu 2's aircraft carrier materialised in the real world, how
+            would it fit in Flynn's arcade?</LI> 
+        </UL> 
+        <P>Yes, yes! I know it's a Disney film. I'll shut up now.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="tronLegacyControl">more</A>
+      
+      <IMG SRC="images/lostInSpace.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Lost in Space"> 
+      <H2 CLASS="textboxtitle">Lost in Space - 18th November 2010</H2> 
+      <DIV CLASS="textboxshrunken" ID="lostInSpace"> 
+        <P> I recently saw a re-run of the film version of<I> Lost in
+          Space</I>, which is a remake of the TV series. It is a typical, low brow action
+          film but I enjoyed the performances of Gary Oldman (as Dr. Zachary Smith) and
+          Matt LeBlanc (as Major Don West). However, as always, I am annoyed by
+          scientific mistakes, which I will share with you.</P> 
+        <P>The first is the launch of the <I>Jupiter 2</I> spaceship, the new
+          home of the Robinson family, from on top of a tower. A tower, especially one
+          strong enough to hold a multi-ton spaceship, is an expense that just makes
+          construction and preparation of the spaceship much harder whilst providing an
+          insignificant head start in an atmosphere 62 miles thick. The Jupiter 2 itself
+          is launched inside a rocket (Jupiter 1) shaped as a slightly concave dome. It
+          seems the writer doesn't understand the concept of aerodynamics and atmospheric
+          drag. Adding pointlessness on top of stupid design, the Jupiter 2 itself is
+          capable aerospace flight and can launch itself anyway.</P> 
+        <P>On its way to Alpha Prime, the Jupiter 2 navigates past Mercury to
+          slingshot around the Sun to exit the Solar System. This is rather silly as if
+          you wanted exit the Solar System in a particular direction, you'd just head in
+          that direction in the first place. You can't use gravitational slingshots to
+          gain speed from the Sun unless you're approaching from outside the Solar
+          System. Inside, you can use slingshots to gain speed from planets, depending on
+          their orbital positions, but this isn't done.</P> 
+        <P>Previously reprogrammed by Dr. Smith, the ship's robot sabotages the
+          ship, which consequently heads for the Sun. Unable to generate enough thrust to
+          escape the gravity well, Major West activates the hyperdrive, knowing they'll
+          re-appear anywhere in the galaxy. This succeeds and they appear in another
+          solar system. This is another case of dramatic license overriding probability.
+          The vast majority of the galaxy is empty space not inside a solar system. The
+          size of solar system can be measured in light-hours whereas interstellar
+          distances can be measured in light-years. The chance of randomly appearing in a
+          solar system is tiny.</P> 
+        <P>Lost in space, the crew discover a hole in space that leads to
+          another human ship, the Proteus. As they board it, it is mysteriously abandoned
+          but they manage to access some ship systems. They can access the ship's star
+          maps but only a few fragments of the captain's log, the rest being totally
+          corrupt. This is unlikely as captain's logs are normally the most safely stored
+          along with flight data in the proverbial 'black boxes'. These are vital in
+          accident investigations and, for this reason, are designed to survive
+          disaster.</P> 
+        <P>Skipping some of the plot, the crew investigating the Proteus are
+          attacked by large spiders and they retreat back to the Jupiter 2. As the
+          spiders continue their attack in space, Professor Maureen Robinson (the mother)
+          analyses a spider leg in a DNA extrapolator. It quickly reconstructs an image
+          of a complete spider. Although it is dangerous to make predictions of an infant
+          science, this is unlikely. It is not enough to read the genetic code, you must
+          also know the biochemistry in a cell that enables particular genes and the
+          hormonal system that influences that. That requires vast computing power and
+          information not found in a partial organism whose biochemistry has ceased.
+          Worse, the spider is silicon based. What I am can be certain about is that DNA
+          is carbon based. The DNA extrapolator should be stymied by the completely
+          different chemistry.</P> 
+        <P>Speaking of biochemistry and skipping plot, the male members of the
+          crew meet a future version of Will Robinson and Dr. Smith. The future Smith
+          reveals that he's been affected by a previous spider bite and eventually
+          reveals that he's become a bizarre human/spider hybrid. Different species on
+          Earth are genetically incompatible. An amalgam of two completely alien genes
+          and biochemistries just won't work.</P> 
+        <P>Having abused epigenetics, the film climaxes with abuses of
+          astrophysics. The Jupiter 2 is on a planet that is breaking up and Professor
+          John Robinson (the father), knowing it doesn't have the power to escape, tells
+          Major West to use the planet's gravity to fly through it and out the other
+          side. I'll let the absence of a molten core slip as no one has any solid data
+          on alien geology. What I won't let slip is that as a planet's gravity pulls the
+          ship to the centre, it also pulls it back as it flies through the other half.
+          What speed gravity gives you, it then takes away. Actually, using its
+          thrusters, flying through a planet could let a ship gain escape velocity but
+          the professor doesn't say that.</P> 
+        <P>Lastly, as the planet explodes, its gravity field collapses and
+          forms a black hole, creating another peril for the crew. Einstein will be
+          spinning in his grave. A gravity field is not something prevented from
+          imploding by the coherence of a planet, it is simply generated by mass, whether
+          in the form of a planet or planetary debris. The breakup of a planet doesn't
+          change its gravity field as the mass is still there. A star can collapse into a
+          black hole if it attracts enough mass but it's the star (or rather space-time)
+          that is collapsing, not a gravity field.</P> 
+        <P>Still, Lost in Space is a good film for an action film. A pity about
+          the science.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="lostInSpaceControl">more</A>
+      
+      <IMG SRC="images/phantomMenace.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Star Wars Episode 1"> 
+      <H2 CLASS="textboxtitle">Star Wars Episode 1 part 2 - 16th September 2010</H2> 
+      <DIV CLASS="textboxshrunken" ID="phantomMenace2"> 
+        <P>I have written before that Queen Amidala in <I>Star Wars Episode
+          1</I> was an incompetent stateswoman whose saving grace was knowing that the
+          enemy <I>Trade Federation</I> was so badly organised, it would collapse without
+          its two viceroys. Such incompetence is only matched by the ridiculous military
+          tactics and equipment of both sides. Queen Amidala's plan was to use the
+          Gungan's army to distract the droid army whilst capturing the viceroys and
+          destroying the droid control centre. Her first mistake was providing no reason
+          for the droid army to consider them, other than as target practice. As the
+          Gungans weren't attacking anything important, the viceroys could have shelled
+          or bombed them for days before bothering with ground troops. After all, bombs
+          are cheap and droids are expensive. Fortunately, not only were the viceroys
+          under orders to wipe out the Gungans, the viceroys were stupid enough to send
+          all their troops to what they thought would be an easy fight. Warfare is a form
+          of deception and it's plain common sense to keep troops in reserve.</P> 
+        <P>Such military incompetence may be forgivable in a merchant but
+          Gungans, a warrior race, have no excuse for their military equipment. A race
+          with access to hover platforms and submarines yet their soldiers were expected
+          to travel in a planet-wide campaign on foot, without trucks. It would have
+          taken them weeks just to reach anywhere important and a few more weeks for
+          their supply lines to have caught up so they'd have enough food and munitions
+          to fight properly. Meanwhile, the droid army had tanks and troop transports, so
+          it's not surprising the Gungans were intercepted very early. However, the
+          Gungans had a shield generator strong enough to repel tank fire. In modern
+          warfare, it is unwise to solely rely on a single fortification as it can be
+          destroyed by heavy artillery or bunker busters. It is idiocy to mount it on
+          large animals, rather than armoured vehicles, making it vulnerable to anything
+          from snipers to chemical weapons.</P> 
+        <P>Worse, the Gungan's lack of courage on the battlefield is even more
+          unforgivable for a warrior race. As the droid tanks couldn't blast their enemy,
+          they deployed inactive foot soldiers from storage right in front of the
+          Gungans. Not one Gungan soldier ran through the shield and fired his weapons
+          whilst the droids were vulnerable. Soldiers aren't known for their intellect
+          but they are known for their enthusiasm to shoot things. Instead, the Gungans
+          hid behind personal shields as the newly activated, droid soldiers walked
+          through the Gungan's heavy shield. In modern warfare with automatic rifles,
+          walking in the open in front of the enemy at close range gets you killed.
+          Modern foot soldiers run from cover to cover with their comrades providing
+          suppressing fire. The Gungans didn't have blasters, in a galaxy where these are
+          standard weaponry, and, instead, fired contact grenades from catapults. They
+          have high-tech grenades that can disable a droid on contact but they fire them
+          from catapults. One wit suggested this is because they're immune to the
+          grenades they launch but so are chemical propellant-based grenade launchers,
+          rocket launchers and mortars and they'd provide far better range, accuracy and
+          rate of fire. The droids had blasters, which explains how they defeated the
+          Gungans quickly once they were close to their close shield formations. The
+          droids could have destroyed the shield formations even faster if they had
+          grenades or flamethrowers.</P> 
+        <P>It is odd that no soldier in Star Wars is seen throwing a grenade.
+          An easy way to kill a Jedi Knight would be to throw a grenade in front of him
+          whilst shouting "Deflect a shockwave, loser!"</P> 
+        <P>Besides capturing the viceroys, the other part of Queen Amidala's
+          plan was to destroy the droid control centre orbiting the planet. That the
+          droid army is dependent on a single point of failure with no backup system is
+          the biggest military stupidity of all. In war, if something is important, you
+          can be certain someone will shoot it, bomb it or otherwise wreck it. This is
+          why modern, military equipment have redundant, fault tolerant systems. To round
+          off the military incompetence, the droid control centre is destroyed by a child
+          bumbling around in a fighter on the centre's hangar deck, rather than by one of
+          the professional pilots. As the fighter pilots found they couldn't destroy the
+          control centre from the outside, not one decided to charge into the enemy
+          hangar and shoot from the inside.</P> 
+        <P>Overall, the Gungan military makes no sense. They have access to
+          high-tech equipment yet lack basic equipment such as trucks or blasters. Their
+          only saving grace is that their opponents were leads by morons.</P>
+      </DIV>
+      
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="phantomMenace2Control">more</A>
+      <IMG SRC="images/avatar.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Avatar"> 
+      <H2 CLASS="textboxtitle">Avatar - 1st April 2010</H2> 
+      <DIV CLASS="textboxshrunken" ID="avatar"> 
+        <P> All science fiction must contain some level of pseudo-science and
+          the film Avatar shows this with the joke name, Unobtainium. The film vaguely
+          describes the substance as a superconductor, which is how the rock islands of
+          the Hallelujah Mountains float half a mile above the ground. Real
+          superconductors, provided they're cold enough to be superconductors, can indeed
+          levitate over magnets and some amazing examples can be seen on YouTube.
+          However, the floating rock islands stretch credibility. It's implausible that
+          natural geological processes could create the exacting chemical composition of
+          a superconductor and not ruin it with contaminants. The levitation effect only
+          works on top of a magnetic pole and the magnetic poles of a moon or planet are
+          usually close to the true poles. Worse, the levitation is not rigid, so the
+          rock islands should be shaking violently in high winds. Bizarrely, the floating
+          islands also feature waterfalls not fed by any rivers or large catchment areas
+          of rain. However, artists have a license to be scientifically inaccurate for
+          the sake of drama, so James Cameron is let off that one.</P> 
+        <P>Genetics is still poorly understood but it is known that genes
+          aren't blueprints. A gene creates a specific protein but the effects of that
+          protein, and even if the gene can express proteins in the first place, depend
+          on the surrounding cell biochemistry. Thus, splicing genes from one species to
+          another has unpredictable effects. Splicing human genes into a Na'vi clone,
+          which almost certainly uses radically different biochemistry, is highly
+          unlikely to result in a face that looks like the human donor's face. Artistic
+          license.</P> 
+        <P>Jake Sully, the protagonist of the film, is advised not to shoot a
+          large, herbivorous Hammerhead Titan because its armour is too thick. Elephants
+          are easily hunted and shot because little can stop a bullet from a hunting
+          rifle, let alone from a military grade assault rifle. Another case of artistic
+          license.</P> 
+        <P>According to the script, the avatars are controlled via psionic link
+          units. Now we're into the fiction part of science fiction. When Jake Sully's
+          avatar is visited by the dandelion seed-like woodsprites, which are the seeds
+          of the Great Tree and are pure spirits, we're into the realms of mysticism.
+          Presumably, these seeds detected Jake was a hero looking for a cause yet
+          somehow missed that he intended to infiltrate the Na'vi and betray them. Never
+          mind how the woodsprites can read minds or direct their own movement despite
+          the wind, a person can be pure in spirit even though he plans evil acts. There
+          is a word for this kind of thinking but it's rude.</P> 
+        <P>Having ignored the protagonist's lack of purity, the film proceeds
+          to ignore a basic biological principle: natural selection. A trait, or rather
+          the genes that express them, that confers a survival or reproductive advantage
+          will become more common and can even dominate the specie's gene pool.
+          Conversely, genes that express a trait that consume resources but confer no
+          survival or reproductive advantage will become less common and can even
+          disappear from the gene pool. The animated hair that creates neural connections
+          to trees and certain animals , known in the script as queues, is an example.
+          Now, domestication can essentially override natural selection, creating traits
+          that would never survive in the wild, but breeding the complex queues in the
+          Direhorses and Na'vi would need some really fantastic animal husbandry and
+          eugenics. More importantly, the wild pterodactyl-like banshees would not
+          naturally develop queues. At the risk of sounding like an advocate of
+          Intelligent Design, no intermediary stage in the evolution of a queue would
+          have any use. Indeed, the final stage would be a disadvantage for a banshee as
+          it allows a Na'vi to control it and waste its time being a flying mount rather
+          than reproducing. A mutation or combination of genes that disabled a banshee
+          queue would avoid this time wasting, allow the banshee to reproduce more often
+          and gradually dominate the gene pool. This also applies to the trees. The
+          resources needed for a tree to create neural connections with animals and each
+          other and to store memories is a waste that provides no advantage for the
+          tree.</P> 
+        <P>So, scientific plausibility has been heavily ignored for the sake of
+          art but that's acceptable as art is meant to show us human behaviour rather
+          than natural laws. When the RDA corporation, which is prepared to destroy lives
+          for profit, is defeated, they go home. This ignores historical atrocities that
+          companies, such as the East India Company, have committed for profit. The RDA
+          corporation have a spaceship, which the Na'vi can never attack, and satellite
+          surveillance. The corporation could destroy the Na'vi and their holy sites with
+          orbital bombardment, probably using asteroids. After all, rocks are cheap. Five
+          years travel from Earth, few besides corporation employees will know what's
+          really going on and when news does eventually reach Earth, the few people who
+          care would be shouted down by those who want the benefits of Unobtainium. In
+          other words, the film fails to portray greedy people properly. Bad guys don't
+          go home, they come back with a bigger gun.</P> 
+        <P>The script writer even failed at his art. Step away from the
+          typewriter, Mr Cameron, your artistic license has been revoked.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="avatarControl">more</A>
+      
+      <IMG SRC="images/phantomMenace.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Star Wars Episode 1"> 
+      <H2 CLASS="textboxtitle">Star Wars Episode 1 part 1 - unknown</H2> 
+      <DIV CLASS="textboxshrunken" ID="phantomMenace1"> 
+        <P>Queen Amidala, the heroine of <I>Star Wars Episode 1: The Phantom
+      Menace</I>, is an incompetent stateswoman and only won because the enemy Trade
+      Federation are even more pathetic. The film starts with the minor planet of
+      Naboo under legal naval blockade by the Trade Federation. The ruling Queen
+      knows the Chancellor of the Galactic Republic has sent two Jedis as ambassadors
+      to negotiate an end to it. Even when the Federation denies all knowledge of
+      these ambassadors and jams Naboo communications, it is not unreasonable for the
+      Queen to assume this is not the start of an invasion. After all, the resources
+      of a small, outlying planet is not worth the huge, political backlash of a
+      military occupation.</P> 
+    <P>When the invasion takes place, escaping and asking the Galactic Senate
+      for help is far wiser than staying and fighting with inadequate forces. When
+      the Chancellor, an ally, cowardly acquiesces to the enemy, it is wise for the
+      Queen to follow her Senator's suggestions and destroy him with a vote of no
+      confidence. Politics is a dirty business and in a time of crisis, there is no
+      time for quiet, gentle diplomacy.</P> 
+    <P>Queen Amidala's biggest mistake is not using backroom diplomacy to raise
+      an unofficial, <I>ad-hoc</I> army and navy. With the Senate members only
+      looking out for themselves and their race, it is easy to bribe, charm or trade
+      with individual members, especially other enemies of the Trade Federation. Like
+      nations today, Naboo should have various foreign-held currency reserves and
+      numerous diplomats to call in favours and negotiate deals. That Senator
+      Palpatine, loyal to her, is likely to become Chancellor gives her enormous
+      political leverage. I am aware that Palpatine is secretly a bad guy but none of
+      the Senate would know this. This may be corruption but it is the first duty of
+      government to protect its citizens.</P> 
+    <P>In the movie, the Queen returns to Naboo and begs the Gungans for help.
+      If she raised an unofficial force, this would still be necessary, as it is
+      unlikely any ally would supply significant troop numbers. Few corrupt leaders
+      will risk large numbers of body bags. How she succeeded in persuading the
+      Gungans is a mystery, as you cannot gain someone's love without their respect.
+      The Gungans, having evacuated their own cities, cannot afford to ally with a
+      loser. If she acquired mercenaries, weapons, aerospace fighters and naval
+      support, then her request would not look like a suicide mission.</P> 
+    <P>It's unfortunate that the Gungans are the best troops, in significant
+      numbers, she could recruit, as they are hopeless. But that's a future column.
+      </P> 
+    <P>Queen Amidala's redeeming act is identifying the local Federation
+      command as anaemic and that capturing the Viceroy would cripple it. This would
+      not normally apply to other organisations, as an eliminated leader would be
+      replaced by another director, who can determine policy. Failing that,
+      executives, who understand current policy, would continue operations before
+      deciding a new leader. For example, if the British Prime Minister were
+      eliminated, the Cabinet would take over. If all MPs and the Monarchy were
+      eliminated, the executive departments such as Whitehall, the military, the
+      police and the secret services would be the government <I>in absentia</I>. In
+      the case of the Trade Federation, only the Viceroy and his assistant seem to
+      make any decisions. Such anorexic organisations can exist but not for long.</P>
+    
+    <P>In conclusion, her skill in military raids means Queen Amidala should be
+      an army officer, but her inability to exploit resources and foreign relations
+      means she should not be head of state.</P>
+    </DIV>
+    <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="phantomMenace1Control">more</A>
+    
+    </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

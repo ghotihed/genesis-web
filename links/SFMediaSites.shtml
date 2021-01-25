@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html>
+  <HEAD>
+    <META charset="utf-8">
+    <META DESCRIPTION="Other science fiction websites">
+    <TITLE>Genesis - SF Media Sites</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT>
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT>
+  </HEAD>
+  <BODY ONLOAD="selectMenu('linksSFMediaSitesMenu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody">
+      <H1 CLASS="title">SF Media Sites</H1><!--Descriptions contain line breaks as my HTML editor doesn't wrap properly, dammit!-->
+      <A HREF="http://www.hermit.org/blakes7/" TARGET="_blank"><IMG
+      SRC="images/blakes7.png" CLASS="subtitle" WIDTH="70"
+      HEIGHT="70" ALT="Blake's 7"></A>
+      <H2 CLASS="textboxtitle">
+        <A HREF="http://www.hermit.org/blakes7/" TARGET="_blank">Blake's 7</A></H2>
+      <DIV CLASS="textboxshrunken" ID="blakes7">This claims to be the largest
+        B7 site on the web and is certainly very comprehensive. Run by Judith Proctor,
+        who is also the driving force behind
+        <A HREF="http://www.conventions.org.uk/redemption/">Redemption</A><BR></DIV><A
+      HREF="http://gallifreybase.com/" TARGET="_blank"><IMG
+      SRC="images/gallifreyBase.png" CLASS="subtitle" WIDTH="70"
+      HEIGHT="70" ALT="Gallifrey Base"></A>
+      <H2 CLASS="textboxtitle">
+        <A HREF="http://gallifreybase.com/" TARGET="_blank">Gallifrey Base</A></H2>
+      <DIV CLASS="textboxshrunken" ID="gallifreyBase">The biggest Doctor Who
+        fan forum and successor to Outpost Gallifrey. You must register to access
+        it.<BR></DIV><A TARGET="_blank"
+      HREF="http://www.midwinter.com/lurk/lurker.html"><IMG
+      SRC="images/lurkersGuideToBabylon5.png" CLASS="subtitle" WIDTH="70"
+      HEIGHT="70" ALT="Lurkers&#39; Guide to Babylon 5"></A>
+      <H2 CLASS="textboxtitle">
+        <A TARGET="_blank" HREF="http://www.midwinter.com/lurk/lurker.html">Lurkers&#39;
+        Guide to Babylon 5</A></H2>
+      <DIV CLASS="textboxshrunken" ID="lurkersGuideToBabylon5">This site has
+        been around almost since the series first aired. It includes full episode
+        guides and is still updated with airdates, convention information
+        etc.<BR></DIV><A TARGET="_blank" HREF="http://www.theforce.net"><IMG
+      SRC="images/theForce.png" CLASS="subtitle" WIDTH="70"
+      HEIGHT="70" ALT="TheForce.net"></A>
+      <H2 CLASS="textboxtitle">
+        <A TARGET="_blank" HREF="http://www.theforce.net">TheForce.net</A></H2>
+      <DIV CLASS="textboxshrunken" ID="theForce">Probably the most professional
+        'unofficial' Star Wars site.<BR><BR> </DIV><A TARGET="_blank"
+      HREF="http://www.whotopia.co.uk/"><IMG SRC="images/whotopia.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Whotopia"></A>
+      <H2 CLASS="textboxtitle">
+        <A TARGET="_blank" HREF="http://www.whotopia.co.uk/">Whotopia</A></H2>
+      <DIV CLASS="textboxshrunken" ID="dummy">An encyclopedia of Doctor
+        Who.<BR></DIV><BR>
+    </DIV>
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

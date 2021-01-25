@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+    <META charset="utf-8">
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <TITLE>Genesis Sci-Fi Club - Archive - News 2018</TITLE>
+    <META NAME="description" CONTENT="Genesis Sci-Fi Club, the Basingstoke science fiction club - Archive - News 2014">
+    <META NAME="robots" CONTENT="all">
+    <META NAME="robots" CONTENT="index,follow">
+    <META NAME="google-bot" CONTENT="all">
+    <META NAME="google-bot" CONTENT="index,follow">
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('archiveNews2018Menu');">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody"> 
+      <H1 CLASS="title">Welcome to Genesis Sci-fi Club</H1>
+      <H2 CLASS="titletagline">The Basingstoke science fiction club</H2>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel">
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 11<sup>th</sup> February 2018</H2>
+      <DIV CLASS="textboxshrunken" ID="goldChannelMarch">
+        <H3><font color="goldenrod">GOLD CHANNEL</font></H3>
+        <P>Seasons Greetings.</P>
+        <P>This month is the AGM, where you get to decide the course of the next year for the club. If you are interested in being more active in the club organization, we'd be happy to have you! We'd also love any and all suggestions for future events, field trips, or activities for the coming year.</P>
+        <P>Your chair,</P>
+        <P>Rene</P>
+        <P></P>
+        <P>I am standing down as editor of the Matrix, time for some one else to shine me thinks</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlMarch">more</A>
+
+      <IMG SRC="images/barbecue.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Barbecue">
+      <H2 CLASS="textboxtitle">Barbecue - Sunday 1<sup>st</sup> July 2018</H2>
+      <DIV CLASS="textboxshrunken" ID="barbecue">
+        <P>Thanks to the Arnush family.  If you've lost your copy of the club magazine, email <A HREF="mailto:info@genesis-sf.org.uk">info@genesis-sf.org.uk</A> for the location.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="barbecueControl">more</A>
+
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel">
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 26<sup>th</sup> August 2018</H2>
+      <DIV CLASS="textboxshrunken" ID="goldChannelAugust">
+        <H3><font color="goldenrod">GOLD CHANNEL</font></H3>
+        <P>Hi Everybody!! It's time for another exciting episode of the Genesis Monthly Meeting!! Last month was an exciting collection of new shows courtesy of Paul. I especially liked Wellington Paranormal--perhaps I should be embarrassed by that.</P>
+        <P>This month is being planned by Tony, and I'm sure it will be wonderful as always, although there will be some bl--dy cartoons; fair warning, Paul!</P>
+        <P>I have to add my usual plea that if anyone has any ideas about activities for the club don't keep it to yourself!</P>
+        <P>Also, we are running short of raffle prizes--if you find a bargain or something cool in the back of the closet, think of Genesis!</P>
+        <P>Your chair,<BR>René</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlAugust">more</A>
+
+      <A HREF="https://live.newscientist.com/" TARGET="_blank">
+        <IMG SRC="images/NewScientistLive2018.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="New Scientist Live"></A>
+      <H2 CLASS="textboxtitle">New Scientist - Saturday 22<sup>nd</sup> September 2018</H2>
+      <DIV CLASS="textboxshrunken" ID="newScientistLive">
+        <P>Because we love science lectures and interactive exhibits.  Meet up at <A HREF="https://live.newscientist.com/" TARGET="_blank">New Scientist Live</A> in Excel London.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="newScientistLiveControl">more</A>
+
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel">
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 30<sup>th</sup> September 2018</H2>
+      <DIV CLASS="textboxshrunken" ID="goldChannelSeptember">
+        <H3><font color="goldenrod">GOLD CHANNEL</font></H3>
+        <P><---yawn---> Craig says that I really need to do this Gold Channel, but I can hardly keep my eyes open so please forgive my rambling.</P>
+        <P>Last month-and-a-bit's program was kindly provided by Tony, and a nice program it was, too. I didn't watch the movie very closely, but what I saw was intriguing and I think I'll make a point of watching it properly. Thanks, Tony!</P>
+        <P>This month is courtesy of Jacob, and he spent much time and effort getting it together. His theme (yes, he even has a theme!!) is 'crashes'. Well done Jacob! And I promise I won't get inside knowledge of the quiz...or at least not too much. Honest.</P>
+        <P>Amazing as it is, it's time to arrange the Christmas meal. This year, it's going to be at the Red Lion again and will be on our regular Genesis day, if possible. I'll get the prices and put out a sign up sheet/menu selection, and Matt will collect the payment. The Council provides the December program, so we'll try to get you something good!</P>
+        <P>Your Chair, </P>
+        <P>René</P>
+        <P></P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlSeptember">more</A>
+
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel">
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 21<sup>st</sup> October 2018</H2>
+      <DIV CLASS="textboxshrunken" ID="goldChannelOctober">
+        <H3><font color="goldenrod">GOLD CHANNEL</font></H3>
+        <P>I really can’t think of any-thing to say, so I’ve asked Craig to make the font really large and take up a lot of space.</P>
+        <P>René</P>
+        <P>P.S. Don’t forget to choose and pay for your Christmas dinner.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlOctober">more</A>
+
+      <A HREF="http://redlionhotelbasingstoke.com/" TARGET="_blank">
+        <IMG SRC="/archive/images/christmasMeal.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Christmas Meal"></A> 
+      <H2 CLASS="textboxtitle">Christmas Meal - Sunday 16<sup>th</sup> December 2018</H2> 
+      <DIV CLASS="textboxshrunken" ID="christmasMeal"> 
+        <P>At <A HREF="http://redlionhotelbasingstoke.com/" TARGET="_blank">Red Lion Hotel</A>, 3:00pm till 9:30pm (1500 - 2130).  Like last year, December's meeting will be a Christmas dinner.  If you haven't signed up, contact Rene.</P>
+      </DIV>
+      
+
+      
+  </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

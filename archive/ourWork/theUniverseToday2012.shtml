@@ -1,0 +1,111 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD> 
+	 <META charset="utf-8"> 
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+     <META NAME="description" CONTENT="Brief summaries of 2012 copies of Genesis sci-fi's house magazine: The Universe Today">
+	 <TITLE>Genesis - The Universe Today 2012 Archive</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+	 <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('archiveOurWorkTheUniverseToday2012Menu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+	 <DIV CLASS="mainbody"> 
+		<H1 CLASS="title">The Universe Today 2012</H1> 
+		<P>Our long running in-house magazine, published for every club meeting. Now editied by Jeremy Ogden.</P> 
+		<P>Back issues older than a year aren't kept online due to limited disk space.  Email the <a href="mailto:webmaster@genesis-sf.org.uk">webmaster</a> instead.</P>
+          
+        <IMG SRC="utimages/2012_January.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Universe Today">
+		<H2 CLASS="textboxtitle">8th January 2012</H2> 
+		<DIV CLASS="textboxshrunken" ID="January2012"> 
+		  <P>Housten: we don’t have a problem. Golden Doughnut Awards 2011.  Guest edited by Jeremy Ogden.</P>
+        </DIV>
+        
+        <IMG SRC="utimages/2012_February.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Universe Today"> 
+		<H2 CLASS="textboxtitle">5th February 2012</H2> 
+		<DIV CLASS="textboxshrunken" ID="February2012"> 
+		  <P>History 101: a look back at 2011.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2012_April.pdf">
+          <IMG SRC="/ourWork/utimages/2012_April.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2012_April.pdf">1st April 2012</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="April2012"> 
+		  <P>55 years of The Sky at Night, news and club events.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2012_April_Late.pdf">
+          <IMG SRC="/ourWork/utimages/2012_April_Late.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2012_April_Late.pdf">29th April 2012</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="AprilLate2012"> 
+		  <P>Photo's of Genesis escapades, review of <i>Battleship</i>, news and club events.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2012_May.pdf">
+          <IMG SRC="/ourWork/utimages/2012_May.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2012_May.pdf">27th May 2012</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="May2012"> 
+		  <P>Visit to Corsham Fun Day, Q&amp;A with Nev Fountain.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2012_June.pdf">
+          <IMG SRC="/ourWork/utimages/2012_June.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2012_June.pdf">24th June 2012</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="June2012"> 
+		  <P>Neil Gaiman remembers Ray Bradbury, London Film Museum photos.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2012_July.pdf">
+          <IMG SRC="/ourWork/utimages/2012_July.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2012_July.pdf">22nd July 2012</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="July2012"> 
+		  <P>Review of <i>Hitchhiker's Guide to the Galaxy</i> radio show live, <i>Avengers Assemble</i> and <i>Prometheus</i>.  Guest edited by Paul Russell.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2012_August.pdf">
+          <IMG SRC="/ourWork/utimages/2012_August.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2012_August.pdf">19th August 2012</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="August2012"> 
+		  <P>Reviews of <i>John Carter</i> and various books by members of the book club.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2012_September.pdf">
+          <IMG SRC="/ourWork/utimages/2012_September.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2012_September.pdf">16th September 2012</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="September2012"> 
+		  <P>Another book review and photos of the tresure hunt.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2012_October.pdf">
+          <IMG SRC="/ourWork/utimages/2012_October.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2012_October.pdf">14th October 2012</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="October2012"> 
+		  <P>10 reasons to go to Armadacon, <i>Red Dwarf</i> is back and so is <i>Star Trek A&amp;E</i>.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2012_November.pdf">
+          <IMG SRC="/ourWork/utimages/2012_November.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2012_November.pdf">4th November 2012</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="November2012"> 
+		  <P>.</P>
+        </DIV>
+        
+        <A HREF="/ourWork/utpdf/2012_December.pdf">
+          <IMG SRC="/ourWork/utimages/2012_December.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Genesis Matrix (Reloaded)"></A> 
+		<H2 CLASS="textboxtitle"><A HREF="/ourWork/utpdf/2012_December.pdf">9th December 2012</A></H2> 
+		<DIV CLASS="textboxshrunken" ID="December2012"> 
+		  <P>.</P>
+        </DIV>
+        
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

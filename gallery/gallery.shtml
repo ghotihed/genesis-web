@@ -1,0 +1,141 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+    <META charset="utf-8"> 
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <META NAME="description" CONTENT="Photographs of Genesis Sci-fi club and where its members of been">
+    <TITLE>Genesis - Gallery</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/highslide/highslide.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/highslide/highslide-with-gallery.js" TYPE="text/javascript"></SCRIPT>
+	<SCRIPT SRC="/scripts/highslide.cfg.js" TYPE="text/javascript"></SCRIPT>
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('galleryMenu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    
+    <DIV CLASS="mainbody"> 
+      <H1 CLASS="title">Gallery</H1>
+      
+      <IMG SRC="/gallery/armadaCon2011/armadaCon2011.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="ArmadaCon 23"> 
+      <H2 CLASS="textboxtitle"><A ID="armadaCon2011Anchor">AramdaCon 23</a>, Plymouth, 11th-13th November 2011</H2> 
+      <DIV CLASS="textboxshrunken" ID="armadaCon2011">ArmadaCon 23<BR>
+        <A ONCLICK="return hs.expand(this, { slideshowGroup: 'armadaCon2011' })"
+          CLASS="highslide"
+          HREF="https://lh3.googleusercontent.com/-yc89Pn7GTIo/TxNoi4MMFiI/AAAAAAAAAvo/oJtF5lKsHy0/s800/1.png"><IMG
+          SRC="armadaCon2011/1_thumbnail.png" HEIGHT="90"
+          TITLE="Click to expand" ALT="ArmadaCon 23"></A>
+        <A ONCLICK="return hs.expand(this, { slideshowGroup: 'armadaCon2011' })"
+          CLASS="highslide"
+          HREF="https://lh4.googleusercontent.com/-gTiBk3ddXMc/TxNoizuF0eI/AAAAAAAAAvk/9rlWH6C0ysI/s800/2.png"><IMG
+          SRC="armadaCon2011/2_thumbnail.png" HEIGHT="90"
+          TITLE="Click to expand" ALT="ArmadaCon 23"></A>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="armadaCon2011Control">more</A>
+      
+      <IMG SRC="/gallery/hallOfFame2011/goldenDonut.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Golden Donut"> 
+      <H2 CLASS="textboxtitle"><A ID="hallOfFame2011Anchor">Hall of Fame 2011</a></H2> 
+      <DIV CLASS="textboxshrunken" ID="hallOfFame2011">Quiz winners of 2011.<BR>
+        <A ONCLICK="return hs.expand(this, { slideshowGroup: 'hallOfFame2011' })" CLASS="highslide"
+            HREF="https://lh6.googleusercontent.com/-dV_pszJd-jo/ThC9JNThO7I/AAAAAAAAAu8/Zs8VXpFoblo/s800/MayLate2011.JPG">
+          <IMG SRC="/gallery/hallOfFame2011/MayLate2011_thumbnail.png" HEIGHT="90" TITLE="Click to expand" ALT="Winners of Late May 2011">
+        </A>
+        <A ONCLICK="return hs.expand(this, { slideshowGroup: 'hallOfFame2011' })" CLASS="highslide"
+            HREF="https://lh4.googleusercontent.com/-dhVOPNjVeho/ThC9JJkT5eI/AAAAAAAAAvA/mMUKJLTzsPI/s800/June2011.jpg">
+          <IMG SRC="/gallery/hallOfFame2011/June2011_thumbnail.png" HEIGHT="90" TITLE="Click to expand" ALT="Winners of June 2011">
+        </A>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="hallOfFame2011Control">more</A>
+      
+      <IMG SRC="/gallery/corsham2011/corsham.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Corsham Sci Fi Family Funday"> 
+      <H2 CLASS="textboxtitle"><A ID="corsham2011Anchor">Corsham Sci Fi Family Funday</a>, Corsham, 9th April 2011</H2> 
+      <DIV CLASS="textboxshrunken" ID="corsham2011">Nutters in costumes, for charity!<BR>
+        <A ONCLICK="return hs.expand(this, { slideshowGroup: 'corsham2011' })"
+          CLASS="highslide"
+          HREF="https://lh3.googleusercontent.com/_JAIL5e40NsU/TcxzSocIlzI/AAAAAAAAAng/BhdrHivg6E0/s800/dannyJonJules.JPG"><IMG
+          SRC="corsham2011/dannyJohnJules_thumbnail.png" HEIGHT="90"
+          TITLE="Click to expand" ALT="Danny John-Jules"></A>
+        <A CLASS="highslide"
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'corsham2011' })"
+        HREF="https://lh6.googleusercontent.com/_JAIL5e40NsU/TcxzU-VumtI/AAAAAAAAAnw/z55uZsLvjrg/s800/starWarsBountyHunter.JPG"><IMG
+        SRC="corsham2011/starWarsBountyHunter_thumbnails.png" HEIGHT="90" ALT="corsham"></A><A CLASS="highslide"
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'corsham2011' })"
+        HREF="https://lh5.googleusercontent.com/_JAIL5e40NsU/TcxzOFG8W4I/AAAAAAAAAnU/nWdqNvP1NmM/s800/caravanTardis.JPG"><IMG
+        SRC="corsham2011/caravanTardis_thumbnail.png" HEIGHT="90"
+        ALT="The Doctor materializes in the wrong place"></A><A CLASS="highslide"
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'corsham2011' })"
+        HREF="https://lh6.googleusercontent.com/_JAIL5e40NsU/TcxzTfewC-I/AAAAAAAAAn0/HM0TXi3JzkI/s800/oldCylon.JPG"><IMG
+        SRC="corsham2011/oldCylon_thumbnail.png" HEIGHT="90"
+        ALT='"By your command."'></A><A CLASS="highslide"
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'corsham2011' })"
+        HREF="https://lh4.googleusercontent.com/_JAIL5e40NsU/TcxzLkxNUJI/AAAAAAAAAnQ/VVNqSgnAgLc/s800/anneWookie.JPG"><IMG
+        SRC="corsham2011/anneWookie_thumbnail.png" WIDTH="121" HEIGHT="90"
+        ALT="Wookies make great sidekicks"></A><A CLASS="highslide"
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'corsham2011' })"
+        HREF="https://lh4.googleusercontent.com/_JAIL5e40NsU/TcxzSIxzAoI/AAAAAAAAAnc/JskZ7O6bWOU/s800/costumes2.JPG"><IMG
+        SRC="corsham2011/costumes2_thumbnail.png" HEIGHT="90" ALT="corsham"></A><A
+        CLASS="highslide"
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'corsham2011' })"
+        HREF="https://lh3.googleusercontent.com/_JAIL5e40NsU/TcxzJ0r7blI/AAAAAAAAAnI/A3r1CI-vo4g/s800/anneDalek.JPG"><IMG
+        SRC="corsham2011/anneDalek_thumbnail.png" HEIGHT="90"
+        ALT="When in doubt, bring a bigger gun"></A><A CLASS="highslide"
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'corsham2011' })"
+        HREF="https://lh3.googleusercontent.com/_JAIL5e40NsU/TcxzPFZe2CI/AAAAAAAAAnY/VOLzAafcuC0/s800/costumes.JPG"><IMG
+        SRC="corsham2011/costumes_thumbnail.png" HEIGHT="90" ALT="corsham"></A>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="corsham2011Control">more</A>
+      
+      
+      <IMG SRC="/gallery/scienceMuseum2010/science_museum_logo.png" CLASS="subtitle"
+      WIDTH="70" HEIGHT="70" ALT="Science Museum"> 
+      <H2 CLASS="textboxtitle"> Science Museum visit, London, 9th October
+        2010</H2> 
+      <DIV CLASS="textboxshrunken" ID="scienceMuseum">There's a lot more to the
+        museum than the few photos here. Science is fun!<BR><A
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'scienceMuseum' })"
+        CLASS="highslide"
+        HREF="https://lh6.googleusercontent.com/_JAIL5e40NsU/Tcr0tFcH1mI/AAAAAAAAAlk/OjT2u9SkdOM/s800/cadetReview.JPG"><IMG
+        SRC="scienceMuseum2010/cadetReview_thumbnail.png" HEIGHT="90"
+        TITLE="Click to expand"
+        ALT='"The rest of you break up.  You look like a cadet review!"'></A><A
+        CLASS="highslide"
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'scienceMuseum' })"
+        HREF="https://lh6.googleusercontent.com/_JAIL5e40NsU/Tcr0y7coWRI/AAAAAAAAAlw/MRYMM9C6KnA/s800/londonEye.JPG"><IMG
+        SRC="scienceMuseum2010/londonEye_thumbnail.png" HEIGHT="90"
+        ALT="A completely invisible Nestene control transmitter"></A><A
+        CLASS="highslide"
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'scienceMuseum' })"
+        HREF="https://lh5.googleusercontent.com/_JAIL5e40NsU/Tcr00Liu7AI/AAAAAAAAAl0/LPxepAzTzPo/s800/nuclearWesselControlPanel.JPG"><IMG
+        SRC="scienceMuseum2010/nuclearWesselControlPanel_thumbnail.png" HEIGHT="90" ALT="Control panel from a ‘nuclear wessel’"></A><A
+        CLASS="highslide"
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'scienceMuseum' })"
+        HREF="https://lh5.googleusercontent.com/_JAIL5e40NsU/Tc7ohYt9J-I/AAAAAAAAApg/Ztsgr1TX6U8/s800/carSection.JPG"><IMG
+        SRC="scienceMuseum2010/carSection_thumbnail.png" HEIGHT="90"
+        ALT="A sectioned mini - they were only supposed to blow the bloody doors off"></A><A
+        CLASS="highslide"
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'scienceMuseum' })"
+        HREF="https://lh4.googleusercontent.com/_JAIL5e40NsU/Tcr01rZ_FJI/AAAAAAAAAl4/vnirA4lqfqI/s800/redPlanet.JPG"><IMG
+        SRC="scienceMuseum2010/redPlanet_thumbnail.png" HEIGHT="90"
+        ALT='Deleted scene from "Red Planet"?'></A><A CLASS="highslide"
+        ONCLICK="return hs.expand(this, { slideshowGroup: 'scienceMuseum' })"
+        HREF="https://lh6.googleusercontent.com/_JAIL5e40NsU/Tcr0v2KwY1I/AAAAAAAAAls/AdPD0SkKKj8/s800/chromeToaster.JPG"><IMG
+        SRC="scienceMuseum2010/chromeToaster_thumbnail.png" HEIGHT="90"
+        ALT="An original chrome toaster - Number Six's lost lost ancestor?"></A>
+        <A CLASS="highslide" ONCLICK="return hs.expand(this, { slideshowGroup: 'scienceMuseum' })"
+            HREF="https://lh5.googleusercontent.com/_JAIL5e40NsU/Tcr0ptZcOGI/AAAAAAAAAlc/TR4bDh3e-zo/s800/apollo10Capsule4.JPG">
+          <IMG SRC="scienceMuseum2010/apollo10Capsule4_thumbnail.png" HEIGHT="90" ALT="Apollo 10"></A>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="scienceMuseumControl">more</A><BR>
+    </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

@@ -1,0 +1,270 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+    <META charset="utf-8">
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <TITLE>Genesis Sci-Fi Club - Archive - News 2012</TITLE>
+    <META NAME="description" CONTENT="Genesis Sci-Fi Club, the Basingstoke science fiction club - Archive - News 2012">
+    <META NAME="robots" CONTENT="all">
+    <META NAME="robots" CONTENT="index,follow">
+    <META NAME="google-bot" CONTENT="all">
+    <META NAME="google-bot" CONTENT="index,follow">
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('archiveNews2012Menu');">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody"> 
+      <H1 CLASS="title">Welcome to Genesis Sci-fi Club</H1>
+      <H2 CLASS="titletagline">The Basingstoke science fiction club</H2>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 8th January</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelJanuary"> 
+        <P>Good  afternoon, and welcome back to Genesis, for the first time in Olympic  Year! I hope you all enjoyed Christmas, and the really good news is now  that Christmas is over, it's now just a straight run to the cricket  season.... </P>
+        <p>Thank you to all who attended the Christmas Meal on 29th  December, a nice meal and a pleasant afternoon of chat ensued at  Longbridge Mill, no doubt we'll be back again at the end of 2012.</p>
+        <p>Last month's timetable was decided by Committee....sorry, by the Committee,  although I was also right the first time, with inevitable technical  troubles sponsored by The Silents (which is a really bad joke so it's  just as well you will now inevitably forget that The...erm...what was I  talking about?)  The only other thing I can say is that Janet and John Will Return.  I can't guarantee it will be to here, but they will return.</p>
+        <p>A couple of forthcoming theatre productions have caught the eye, which we will be going to.  Firstly,  at the end of this month, at the Progress Theatre in Reading there is  an amateur production of the Neil Gaiman urban fantasy tale Neverwhere.  We  are planning to go and see this on Friday 27th January, the cost is £10  per ticket and with a bit of luck the details may now be on the  website, or somewhere around the front desk today.</p>
+        <p>A  bit further ahead, we will be off to the Corsham Sci-Fi Family Fun Day  again at the end of April, where this year they have managed to scoop  none other than the Sixth Doctor himself, Colin Baker (minus the Coat  of Many Colours, we hope), as one of the guests, along with John Levine  (Sergeant Benton in classic Doctor Who alongside the late Jon Pertwee and Nicholas Courtney), and comic artist Mike Collins.  If  you want to check out some more details please visit their website at  www.corshamscifi.co.uk. And slightly further into the future, on 14th June, The Hitch-Hiker&rsquo;s Guide to the Galaxy Radio Show – Live! is coming to The Anvil in Basingstoke.  This  features , the original cast, led by Simon Jones as Arthur Dent, and  according to the blurb on The Anvil's website is &ldquo;packed with laughter,  robots, really wild sound effects and drinks with extremely silly  names&rdquo;.  Tickets are a bit pricey, £25 each, and we are  thinking of doing this as a group booking, but to do that we are going  to need money for tickets in advance.  Please can you  therefore, if you want to go, put your name down on the list at the  front desk today and pay your ticket money to a member of the Committee  either today, or at the next meeting in February.  I should also mention that this falls on a pub meeting date, so we won't be having a pub meeting in June as a result.</p>
+        <p>Please don't forget that next month is the AGM, and your membership renewals  will be due also. So be sure to be at next month's meeting if you want  to have your say in what happens in the coming year.</p>
+        <p>Lastly, this month Louise is charge of the timetable, which contains various  examples of other genres crossing over into science fiction, and a film  which re-tells a an Eastern European fairytale.</p>
+        <p>That's all from me, enjoy the meeting.   </p>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlJanuary">more</A>
+      
+      <A HREF="http://progresstheatre.co.uk/" TARGET="_blank">
+        <IMG SRC="/images/neverwhere.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Neverwhere"></A> 
+      <H2 CLASS="textboxtitle">Neverwhere - Thursday 26th January (NOT Friday)</H2> 
+      <DIV CLASS="textboxshrunken" ID="neverwhere">
+        <P>Friday sold out and if you're hoping to show up Thursday, it may be too late.</P>
+        <P>At the <a href="http://progresstheatre.co.uk/" target="_blank">Progress Theatre</a>, Reading, 7:45pm.  A theatre adaptation of Neil Gaiman's <i>Neverwhere</i>, where sewers and tube stations of London are occupied by an unknown society of lost souls.  Contact Jeremy quickly so he can book tickets or email <a href="mailto:info@genesis-sf.org.uk">info@genesis-sf.org.uk</a>.  If the theatre's website is down, see <a href="http://www.readingarts.com/othervenues/whatson/event.asp?id=SX4D6-A781ECA6" target="_blank">here</a>.</P> 
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="neverwhereControl">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 5th February</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelFebruary"> 
+        <P>Good afternoon and welcome back to Genesis. Once again it’s our favourite time of the year – AGM time! Which means at some point
+           I’ll be trying to explain my abject failure in the task of reducing the club to total financial ruin, something that successive
+           chair-based life forms have yet to achieve. But anyway, this is your chance to tell us how we’ve done and what you think. I’ve
+           brought the body armour with me but please don’t throw anything at me that might damage the pub if I manage to duck in time. For
+           anyone who didn’t pay their membership last month, please pay for it this month. Membership cards will be prepared based on
+           whoever has paid by the end of today, and (hopefully) will be available to hand out next month.</P>
+        <P>I’d like to thank David and Matt for their efforts over the last twelve months on the committee, and everyone else who’s done a
+           quiz, timetable, brought stuff in for the raffle, contributed a magazine item, looked after the magazine, anonymously e-mailed
+           magazine items (even the ones which involved reviewing stage musicals based on little known TV series), assembled the screen at
+           the start of the meetings, performed percussive maintenance on the non-functioning sound system, volunteered to take part in dodgy
+           script readings, put the screen away at the end of the meetings, torn and folded raffle tickets, etc etc, and anything else I’ve
+           forgotten.</P>
+        <P>Thanks to Louise last month’s timetable, (and Aaron Sorkin and John Wells for the genius which is The West Wing); although
+           entirely my fault, the DVD ripping malfunction which resulted in two separate episodes of Ashes To Ashes being ripped into one
+           file, and the wrong episode being shown as a result, will remain a mystery for a very long time. But if seeing the penultimate
+           episode of <i>Ashes To Ashes</i> piques someone’s interest in two of the most popular British made TV series of the last decade
+           then it can only be a good thing (and although I’ve thus far missed out on Ashes To Ashes I do highly recommend Life On Mars). The
+           film we’d intended to show fell victim to a slight technical hitch but the substitute film, Contact was excellent - a different
+           kind of science fiction film. This month the timetable and quiz is brought to you by Rob, with a modest contribution from the
+           Reduced Rassilon Company (a story chosen by Rob).</P>
+        <P>Finally, one other event has been added to our list (no really, we have a list!) We’re off to London on Saturday 16th June (the
+           day before the June meeting) for a visit to LOTNA in the evening and other stuff as yet to be decided.</P>
+        <P>That’s quite enough from me, I’m off to prepare the flack jacket.</P>
+        <P>Jeremy</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlFebruary">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 4th March</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelMarch"> 
+        <P>Hello all, and welcome back to Genesis.  Thank you for letting me loose for a second  term, I really hope that is the only thing I will ever have in common with the  buffoon known to some as &lsquo;George Doubleyah&rsquo;.</P>
+<P>This month you will have to tolerate my choices in the  timetable, and another hour and few minutes of my Reduced Rassilon  handy-work, although this story proved very  difficult ton reduce even the length I eventually got it to.   And having written or contributed to three  of the last four, I promise this is the last time I go anywhere near a quiz for  a considerable number of months.   &lt;Pause for collective cheering &gt;.</P>
+<P>One correction from last month, as mentioned  we are planning a trip to LOTNA in June, but  it will not be on 16th June as published.  There is a simple reason for this – LOTNA&rsquo;s  meeting is on 23rd June, the day before that month&rsquo;s Genesis  meeting, so going on 16th would be a bit pointless.  Please adjust your diaries  appropriately.   Options for the rest of  the day include the IMAX cinema at the science museum, or the Greenwich  Observatory, but we&rsquo;ll settle on a firm plan nearer the time.</P>
+<P>Thanks to Rob for last month&rsquo;s timetable and quiz; the Film  Vote was usurped by a straight choice of either Galaxy Quest, Galaxy Quest or  Galaxy Quest.  The winner (Galaxy Quest)  is another of those films which it is impossible to watch too many times (as  are, to be fair, the two choices which didn&rsquo;t get shown).</P>
+<P>All being well we should have membership cards to hand out  today, they&rsquo;ve undergone a bit of a redesign, so we hope you like them.</P>
+<P>That&rsquo;s all from me, enjoy the meeting.</P>
+<P>Jeremy</P>
+<P><i>&ldquo;Would you mind moving  that lion please?&rdquo;</i></P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlMarch">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 1st April</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelApril"> 
+        <P>Good afternoon, and welcome back to Genesis.</P>
+        <P>Firstly a carry over from last month, when the traditional first page containing several paragraphs of waffle from me seemed to be stuck in a time warp from a year ago. Apologies for that, I don’t think you missed much, other than something along the lines of thank you for giving me another year to financially ruin the club, but one thing which needed saying was that a correction from the previous month—we are planning a trip to LOTNA in June, but it will not be on 16th June as published. There is a simple reason for this – LOTNA’s meeting is on 23rd June, the day before that month’s Genesis meeting, so going on 16th would be a bit pointless. Please adjust your diaries appropriately. Options for the rest of the day include the IMAX cinema at the science museum, or the Greenwich Observatory, but we’ll settle on a firm plan nearer the time.</P>
+        <P>Also from last month, with one or two exceptions you should now have your new membership cards for the coming year. Laminating the cards seemed to be suspiciously painless this time round but if anyone does have any problems with cards becoming ‘unstuck’ please let me know and I’ll happily sort out a replacement.</P>
+        <P>Now the magazine. Theresa has now stood down from magazine duties as of last month’s meeting. Thanks to her efforts over the last couple of years in preparing and printing the magazine. Going forward this means we are now without an editor, and printing is a definite issue which we need to tackle. For the next couple of months myself and David will be sorting out the magazine, and hopefully getting it printed somehow, but this is only a temporary solution and cannot continue for an extended amount of time. We therefore need either someone to take on editing the magazine on a permanent basis or several volunteers to rotate the preparing and editing of the magazine on a month by month, or perhaps for two or three months at a time – so, guest editors, in a ‘Have I Got News For You’ guest host style. And then there is the issue of printing. If anyone has any thoughts about doing a turn as guest editor, or even taking on the magazine on a more permanent basis, or perhaps has a potential solution to the printing problem, myself, Matt and David would be veryinterested in hearing from you at the meeting today. In the meantime, I’ve dusted down the ‘Pastor of Muppets’ type face and given The Matrix a re-boot, which I hope you like.</P>
+        <P>Next some events to tell you about, especially Corsham, for which there is an unashamedly large advert in a couple of pages time. They seem to be gaining guests at an alarming rate for this year’s event, the latest names to sign up are Danny John Jules (who was there last year) and Chris Barrie. It’s on Saturday 28th April and being as it’s within a fairly civilised distance of here it would be seriously impolite to not go.</P>
+        <P>Also, it has come to our attention that there is a one-day entirely unofficial <i>Doctor Who</i> convention in Fareham on 1st September, being run by the very talented group of people behind the stage adaptations of the missing <i>Doctor Who</i> stories which we have been to in Portsmouth ion a number of occasions. <i>Power: Reimagined</i> will also include a screening of their adaptation of <i>The Power of the Daleks</i>, which is being released as a fan film on the internet over the next few months. I will be elsewhere that day but as it’s also relatively local it’s an event that might well be of interest.</P>
+        <P>You may remember last month we had been contacted by South Ham Library about the possibility of holding some sort of regular event / meet there after their current refurb is complete, with a view to getting more interest in the library facilities. Well we haven’t really had any further developments since last month but please keep this mind for the fairly near future – there is an item about this elsewhere in the magazine.</P>
+        <P>This month’s meeting is brought to you by David, but I promise that the quiz will make no mention of the Bed Making Robot from <i>Calvin &amp; Hobbes</i>. (At least I’m pretty sure it won’t)</P>
+        <P>That’s just about it from me, enjoy the meeting.</P>
+        <P><b>Jeremy</b></P>
+        <P><i>&quot;Tie 'im to an 'orse and drag him through Spencer’s Wood!<br>
+        Then rip 'is gizzards out!&quot;</i></P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlApril">more</A>
+      
+      <A HREF="http://www.corshamscifi.co.uk/" TARGET="_blank">
+        <IMG SRC="/images/corsham.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Corsham Sci-fi Family Funday"></A> 
+      <H2 CLASS="textboxtitle"><a href="http://www.corshamscifi.co.uk/" target="_new">Corsham Sci-fi Family Funday</a> - Saturday 28th April</H2> 
+      <DIV CLASS="textboxshrunken" ID="corsham"> 
+        <P>At the Corsham Community Centre 10am, a favourite convention amongst members and an even bigger star guest list, including Chris Barrie, Danny John Jules and Colin Baker.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="corshamControl">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 29th April</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelAprilLate"> 
+        <P>Good afternoon, welcome back to Genesis.</P>
+        <P>Last month I wittered on for the best part of two pages so I’ll try and keep this to a more civilised length this month.</P>
+        <P>Yesterday will have seen several of us take a trip to the Corsham Sci-Fi Family Fun Day in Wiltshire, (although at the time of writing this was still a couple of weeks away) and if the last couple of years were anything to go by much fun will have been had., especially as the guest list this year was even more impressive than usual. No doubt reviews, tall tales and scary photos will follow next month.</P>
+        <P>We are still working to resolve the magazine issue, as in who is going to be editing it and how we’re going to print it. With regards to the editing we’re still looking for volunteers to take it on maybe on a ‘guest editor’ basis for perhaps a couple of months at a time (see the committee if interested in doing this). Printing wise, we are looking to hopefully buy a printer for this purpose, and are currently examining various options offered by assorted manufacturers.</P>
+        <P>Thanks to David for last month’s timetable and Quiz. Seeing <i>In The Beginning</i> again is always a good thing – that, Mr Lucas, Mr Berman and Mr Braga, is how a prequel should be done. This month, Mark is in charge of the timetable and Quiz.</P>
+        <P>At the time of writing there is nothing more to report regarding South Ham Library, other than the time of writing was scheduled to be the Library’s re-opening day following it’s refurb. As and when things are organised with the library we’ll let you know.</P>
+        <P>Finally, don’t forget we have a nice shiny website and our own forum, so if you haven’t signed up for it yet, please do so. If you have any difficulties joining up Matt will be happy to help.</P>
+        <P>That’s all from me, enjoy the meeting.</P>
+        <P><b>Jeremy</b></P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlAprilLate">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 27th May</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelMay"> 
+        <P>Good afternoon and  welcome back to Genesis.</P>
+        <P>If the weather today  is anything like it was a month ago, then thank you for fighting your way  though the wettest drought on record to be here.  If it&rsquo;s not....well, thank god for that!</P>
+        <P>A couple of event  related items to deal with first.  The  Treasure Hunt has been brought forward by a week tio Saturday 18th August, so please  adjust your diaries.  Also our next pub  meeting will not be taking place on the scheduled date of 14th June, because that  is the evening of <i>The Hitch Hiker&rsquo;s Guide to the Galaxy Live On Stage </i>at  the Anvil in Basingstoke.  It&rsquo;s possible  we&rsquo;ll  be at the pub a week later than  usual, watch the website form details.   More details of our trip to London on 23rd June, that&rsquo;s the  day before next month&rsquo;s meeting, will also be appearing soon on the website, or  the forum, we hope, so keep an eye out for that also.</P>
+        <P>At time of writing  there are no more developments to be reported regarding South Ham Library, as  soon as there is something to report, it will be.</P>
+        <P>Thank you for recent  raffle prize donations, all donations are very much appreciated so if you&rsquo;re  slinging out any sci-fi related clutter any time soon, sling it in the  direction of a Genesis raffle.</P>
+        <P>Thanks to mark for  last month&rsquo;s timetable and Quiz, the Clanger Science talk was excellent and it  was good to see <i>Mars Attacks!</i> Again.   This month Steve is in charge, and has come up with some interesting  shorter items for your viewing enjoyment.</P>
+        <P>If anyone was  intending to join the usual suspects at AramadaCon in Plymouth this November  you should know that there has been a change of date.  Unfortunately the Futures Inn is not, as it  turns out, available for the intended date so the convention will now take place  a week later on 16TH, 17TH and 18TH November. This will  not affect the meeting dates for Genesis, which will remain as 4th November (three  weeks after the October meeting), and 9th December (a gap of five weeks).</P>
+        <P>Lastly, the magazine  – guest editors are still welcome to volunteer, as would anyone willing to take  it on permanently.  I&rsquo;ll be doing one  more month next month, before Ross takes over for July, August and September,  and  I&rsquo;ll also intending to be doing the  magazine for the final meeting of the year, when the Committee will be taking  over the timetable and Quiz.  Volunteers  for any other months also welcome.</P>
+        <P>That&rsquo;s all from me,  enjoy the meeting.</P>
+          <P><b><i>Jeremy</i></b></P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlMay">more</A>
+      
+      <A HREF="http://www.anvilarts.org.uk/whats-on/12/jun/the-hitchhikers-guide-to-the-galaxy" TARGET="_blank">
+        <IMG SRC="/images/hitchhikers.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Hitchhiker's Guide to the Galaxy"></A> 
+      <H2 CLASS="textboxtitle">Hitchhiker's Guide to the Galaxy Live Radio Show - Thursday 14th June</H2> 
+      <DIV CLASS="textboxshrunken" ID="hitchhikers"> 
+        <P>At the <a href="http://www.anvilarts.org.uk/whats-on/12/jun/the-hitchhikers-guide-to-the-galaxy" target="_blank">Anvil</a>, Basingstoke, 7:45pm.  You know it, you love it and don't forget it started as a radio series.  Contact Jeremy soon before this sells out or email <a href="mailto:info@genesis-sf.org.uk">info@genesis-sf.org.uk</a>.</P> 
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="hitchhikersControl">more</A>
+      
+      <IMG SRC="/images/lotna.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="LOTNA">
+      <H2 CLASS="textboxtitle">LOTNA visit - London, Saturday 23rd June</H2> 
+      <DIV CLASS="textboxshrunken" ID="lotna"> 
+        <P>Visit a <a href="http://www.lotna.org.uk/" target="_blank">LOTNA</a> meeting and maybe go to the IMAX cinema first.  Watch for <a href="http://www.genesis-sf.org.uk/forum/viewforum.php?f=4">further announcements</a>.</P>
+      </DIV>
+      
+      <IMG SRC="/images/treasureHunt.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Treasure Hunt">
+      <H2 CLASS="textboxtitle">Treasure Hunt - Basingstoke, Saturday 18th August (not 25th)</H2> 
+      <DIV CLASS="textboxshrunken" ID="treasureHunt"> 
+        <P>The treasure hunt is back with an Olympic theme, organised by Dave.  Bring a digital camera or camera 'phone.  Starts at 12:00pm in the <A HREF="http://www3.hants.gov.uk/library/south-ham-library.htm" TARGET="_blank">South Ham library</A> after the book club, photograph things, then meet at the <A HREF="http://www.crowncarveries.co.uk/thebeacharmsoakley/" TARGET="_blank">Beach Arms</A> (they have pies) at 7:00pm with your pictures.</P>
+      </DIV>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 22nd July</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelJuly"> 
+        <H5>Distant Voices</H5>
+          <P>This month I’m once again on location to bring you a few lines of nonsense. I’m sat in another sun-soaked location....oh, who am I kidding? I’m in a Tesco car park in Quedgely, near Gloucester. It’s pleasantly warm, and there’s some milky sunshine seeping through the clouds but the only soaking that’s gone on round here recently is from the rain. If you must know I’m waiting for a former mem-ber of Genesis to inform me that he and his better half are now possession of the keys for their new house, which they require help in moving into today, and that, most importantly, the kettle is on in their old one.</P>
+          <P>Right, enough of that, what’s going on then? Well, all being well the first Genesis Book Club meeting will have taken place at South Ham Library the day before you read this. If you came along, thank you. If not, please come to the next one in four weeks time. And if you come to the next one in four weeks time you can then go on the Treasure hunt straight afterwards. Meeting place for the Treasure Hunt is the car park at The White Hart, and in a change to the published plan, we’ll be finishing in the evening at the Beech Arms, Oakley.</P>
+          <P>It’s time to start thinking about timetables and quizzes for next year. I know we don’t have meeting dates actually booked yet, but so if you want to take charge for a month in 2013, consult your diaries in the next four weeks, and they’ll be a list circulated next time for you to put your name down.</P>
+          <P>Thanks to all who cam reo to London a few weeks ago for a visit to the Natural History Museum and LOTNA. I’d never been to the NHM before, and it was a very good day, topped off by another entertaining evening at the Mad Hatter with LOTNA</P>
+          <P>Thanks to Paul Belsey for last month’s meeting timetable, which featured one of those iconic episodes of Quantum Leap, and Quiz. This month, Paul Russell is in charge of magazine and meeting, and the timetable features some choice selections from Rita’s favourites which she would have enjoyed seeing.</P>
+          <P>That’s all from me enjoy the meeting.</P>
+          <P>Jeremy</P>
+        <P><i>“You can’t search my soul without a warrant!”</i></P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlJuly">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 19th August</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelAugust"> 
+          <P>Hello one and all, and welcome to our first post Olympic Genesis meeting, and after all the British success during Olympic Fortnight, what else could I possibly call this collection of waffle this month?</P>
+          <P>All being well, yesterday was Treasure Hunt day, and if previous Treasure Hunts are anything to go by a good day was probably had by all. Thanks to all who came along and to David for organising it.</P>
+          <P>We also had the second meeting of the Genesis Book Club yesterday, again thanks to all who have come along to this so far and making it a success. A reminder that this is held on the day before the monthly meetings at South Ham Library, between 10.00 am and mid-day.</P>
+          <P>Thank you to Paul for last month&apos;s magazine, timetable and (hastily improvised) quiz. It was a timetable I’m sure Rita would have enjoyed.</P>
+          <P>This month Marcus is in charge, and the timetable includes another of Sam Beckett&apos;s Quantum Leaping exploits, flying fish zombies in Middle Man (at least it will if the episode title bears any resemblance to the plot), and a newly commissioned Reduced Rassilon Doctor Who, brought to you by Writer Number One (no, don&apos;t worry, that&apos;s not back until next month) and has a spooky/horror theme. Oh and one of the options in the film vote was once the subject of a &apos;Best of Bad&apos;. I wonder if you can guess which one it was?</P>
+          <P>Thanks to Ross for taking over magazine duties this month, volunteers to be guest editor are still welcome, so speak to me, David or Matt if you’d like to have a go. And speaking of volunteering to do stuff, we have consulted and co-ordinated diaries and come up with dates for next years’ meetings, which we will be giving to the pub today, and there should be a list in circulation today on which you can put your name down to run a timetable and quiz. With regards to next year’s dates, the January meeting will be a week later than this year, in order to avoid certain clashes of dates (for instance, Easter) later in the year.</P>
+          <P>That&apos;s enough from me, enjoy today&apos;s meeting.</P>
+          <P>Jeremy</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlAugust">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 16th September</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelSeptember"> 
+          <P>Good afternoon folks, and welcome back to Genesis.</P>
+            <P>As much as I love Boscastle (and as I, erm….love…Tescos car  parks) I&apos;m writing this month&apos;s waffle from the grandest location so far.  It's about five to six on a pleasant late  summer evening and I&apos;m sitting row 54, seat 507 of the Olympic stadium.  (How cool is that?).  And just to prove it, here's a photo (thanks  Paul).</P>
+            <P>Thanks to Marcus for providing the program for last  month.  Although I was absent for the  majority of the time (as was Andrew Strauss&apos; forward defensive technique that  same evening) I did manage to catch (unlike James Anderson earlier in the day)  the last few minutes of Evil Dead 3, which I can assure you has become no less  silly than when it was the subject of a <i>Best  of Bad</i> item penned by David a scary number of years ago.  </P>
+            <P>This month Matt is in charge and his theme for the day is  violence.  Before you exclaim &ldquo;Holy Mary  Whitehouse, Batman!&rdquo; (therein lies a clue), and reach for a mobile phone to  complain to someone, there is slightly more to it than that.  </P>
+            <P>We still have plenty of vacancies for running meetings next  year, so today is another chance to put your name down.  You&rsquo;ll find the list on the front desk (or you  can hunt down myself, Matt or David and we&apos;ll be happy to write your name in  for one, more or several months.</P>
+            <P>Now, this may constitute as forward planning gone mad, but  please hear me out.  The WorldCon  Convention in 2014 is to take place in London, which is part of the ExCel  Exhibition Centre  in London&apos;s Docklands,  in August 2014.  This is the premier  International Science Fiction event, and the 2014 event will it's 75th  Anniversary.  Being as we are in  reasonable proximity to this event, which alternates through venues and cities  around the World – recent venues include Canada and Australia, next year the  event is in San Antonio in Texas - it&apos;s a good opportunity to go – while it's  not as rare an event as a London Olympics it isn&apos;t going to come to this part  of the World very often.  So please  consider if you would like to attend and perhaps we can hatch a cunning plan in  the next two years.  More information  about the convention can be found at <a href="http://www.londonin2014.org/" target="_new">www.londonin2014.org</a>.</P>
+            <P>Finally, you will no doubt be aware of the recent passing of  Neil Armstrong, who was the trail blazer for mankind&apos;s greatest ever  achievement of exploration (so far).  The  eleven words spoken by Armstrong back in July 1969 as he became the first human  to set foot on another world made him a true living legend and icon of the  Space Race and exploration.  So, as his  family requested in their statement on Armstrong&apos;s website, the next time  you&apos;re out on a moonlit night, look up at the moon, and give him a wink.<br>
+            <P>That's all for now, enjoy the meeting.</P>
+          <P>Jeremy</P>
+</DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlSeptember">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 14th October</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelOctober"> 
+          <P>Good afternoon and welcome to October at Genesis. (Exotic location this month: the meeting room at work, accompanied by a very nice sausage roll and a cup of Lidl’s finest coffee).</P>
+          <P>I’ll start this month by thanking whoever left a bag of DVDs as raffle prizes last month, your contribution is appreciated as always. But can I ask that if you donate raffle prizes in future, please can you let the committee know about your donation ,if for no other reason than so that we can say thank you in the following month’s magazine? (Also, so that there is no potential for stuff being left in the room un-noticed when we pack up). As always all contributions for the raffle are much appreciated.</P>
+        <P>As we are rapidly approaching the end of the year (when exactly did that happen?) that means we are also rapidly approaching Christmas, and the traditional Genesis-Post-Christmas Go-To-The-Pub-And-Have-Lunch, which as usual this year, we are intending to have at Longbridge Mill, Sherfield On Loddon. This will be on Thursday 27th December, meeting at 1.00 to eat at 2.00. We will soon need to make a booking, so we need to know likely numbers as soon as possible – a list will therefore be available today and at next month’s meeting to add your name to, after which we will be making the booking.</P>
+           <P>Speaking of adding your name to lists, thank you to everyone who has so far volunteered to do quizzes and timetables next year. However there are still several vacant months, mainly in the middle of the year; the list will be on the front desk today to put your name on if you haven’t already done so.</P>
+           <P>Now, here is an absurd, but actually reasonably sensible piece of forward planning. Doctor Who celebrates it’s 50th Anniversary in November next year, as I’m sure you’re probably aware. You may also be aware that in the past the BBC has, as part of its annual season of Promenade Concerts at the Royal Albert Hall, held a concert of Doctor Who music, complete with guest stars, monsters and audience participation. Now, this year they had a gap year as far as the Proms are concerned, but I for one would be very surprised if the Doctor Who Prom didn’t make a comeback next year. If it does, and bear in mind the schedule for the Proms is not revealed until about March or April, I’ll be going. But to get this sorted out early, it would be a good idea to gauge interest to see who else would like to go as tickets will, I’m sure, be in great demand. Please can you register your interest by scribbling your name on the list at the front desk, bearing in mind that the Prom is usually held in August, on (I think) a Saturday.</P>
+           <P>Finally, meeting dates for next year. As previously mentioned these have been shifted slightly in order to avoid clashes with Easter and one or two other dates through the year, but to spread thigns out a bit more, the Book Club will be held the weekend before the meeting rather than the day before, which works out as two days after the pub meeting. A full list of dates for 2013 will appear next month, which on a semi-related tangent, I must remind you is in THREE weeks, Sunday 4th November, and we then have a FIVE week gap before the December meeting. Enjoy the meeting.</P>
+        <P>Jeremy</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlOctober">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 4th November</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelNovember"> 
+          <P>Hello and welcome one and all to another wholesome, action packed, exciting (hang on, this is Genesis isn’t it?) errr…… well, hello anyway.</P>
+          <P>Many thanks to Rob (The Home Of Witty Banter) for last month’s program and quiz. I doubt that many of you will have yet recovered from the pain induced by the film Fantasy Mission Farce (I’m still in therapy – Ed). (I’m allowed to criticise, I didn’t vote for it). (2 paragraphs and 2 sets of brackets already. This could get messy). (hang on, that’s 3 sets!.........oh bugger). Still, the Red Dwarf, and Warehouse 13 were great, and he always manages a spirited and enjoyable quiz.</P>
+          <P>This month comes courtesy of Paul Russell, and quiz courtesy of Ross.. At time of writing, I don’t know what’s in store, but if I know Paul as I think I do then I’m not sure I’d believe what he told me anyway.</P>
+          <P>Remember, if you want to be the one to rule over all, we still have some room amongst next year’s timetables, so please volunteer.</P>
+          <P>Before you know it we’ll be in total Crimbo mode, so that means the traditional Christmas Meal (that’s meal, not bun fight – you know who you are – Ed) at Longbridge Mill. The plan is to gather on Thursday 27th December, from 1 o’clock with a view to ordering by 2 at the latest. So if you’re planning on coming then please let us know, or even better, write your name on the list which will be on the front desk. We will be booking the table based on the number of names written on this sheet of paper at the end of the meeting day.</P>
+          <P>Finally, a reminder that there is a five week gap until the next meeting, which will be on Sunday 9th December.</P>
+          <P>Still, that’s far too much from me, so on with the show.</P>
+          <P>Former ChairGerkin</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlNovember">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel"> 
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 9th December</H2> 
+      <DIV CLASS="textboxshrunken" ID="goldChannelDecember"> 
+          <P>Welcome back to Genesis for the final time in 2012. As unbelievable as it seems, Olympic Year has almost been and gone.<br>
+          <P>Thank you to Ross for last month’s entertaining Quiz, and Paul for last month’s timetable (read: thank you for showing The Neighbors and reducing David to a gibbering quivering hysterical wreck). The Neighbors was fantastic and the episode of Arrow was worth the entrance money alone just because of the line about Twilight! This month we have, for you delectation, a Committee-designed timetable and Quiz, so expect the scientifically accurate, the obscure and trivial, and the downright silly. I’ll let you use your imagination to attribute these qualities to the respective members of the committee.</P>
+          <P>Since the last meeting five weeks ago several of us have been in convention going mode, at ArmadaCon 24, in Plymouth, which was, again a fantastic and fun weekend. Next year’s event will be the 25th ArmadaCon, and will also virtually coincide with the 50th Anniversary of Doctor Who, so will be extra special, plus they already have a guest lined up, Doctor Who prosthetics wiz Neil Gorton. ArmadaCon is highly recommended if you want a great, relaxed and fun convention weekend. Pictures and possibly a review from this year’s event elsewhere in the magazine.</P>
+          <P>If you can’t wait until next November, there’s still time to book for the Redemption ’13 convention in Coventry at the end of February next year, which is a much larger event, but well worth attending.</P>
+          <P>On the subject of events, and Doctor Who, an idea has been mooted for the 50th anniversary next year, along the lines of a completely non-copyright infringing ‘themed weekend’ at The Bear in Wincanton, the pub which regularly hosts Discworld related events. Now at this point this is less of an idea, more of a hare-brained scheme, which needs further thought and a lot of planning, but we would be interested to know who, and how many Genesis members might potentially be interested in attending or helping to run some or all of such an event. Please direct your comments and questions in the direction of the Minster for Hare-Brained Schemes (David) should you have any.</P>
+          <P>Finally please remember to be ready to renew your memberships in January, membership cards should be ready to hand out at the AGM in February, where you will get the chance to elect (or even stand for the position of) the club’s new Chairman (there, I’ve said it now!)</P>
+          <P>And on that bombshell.....enjoy the meeting.</P>
+          <P>Jeremy</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlDecember">more</A>
+      
+      <A HREF="http://www.vintageinn.co.uk/thelongbridgemillsherfieldonloddon/" TARGET="_blank">
+        <IMG SRC="/archive/images/christmasMeal.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Christmas Meal"></A> 
+      <H2 CLASS="textboxtitle">Christmas Meal - The Longbridge Mill, Thursday 27th December</H2> 
+      <DIV CLASS="textboxshrunken" ID="christmasMeal"> 
+        <P>At <A HREF="http://www.vintageinn.co.uk/thelongbridgemillsherfieldonloddon/" TARGET="_blank">The Longbridge Mill</A> in Basingstoke, 1:00pm till 4:30pm-ish.</P>
+      </DIV>
+      
+      
+    </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

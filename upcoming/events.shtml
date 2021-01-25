@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+  <HEAD>
+    <META charset="utf-8">
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <META NAME="description" CONTENT="Upcoming sci fi events">
+    <TITLE>Genesis - Upcoming Events</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT>
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT>
+  </HEAD>
+  <BODY ONLOAD="selectMenu('upcomingEventsMenu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody">
+      <H1 CLASS="title">Upcoming Events</H1>
+
+      </DIV>
+
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

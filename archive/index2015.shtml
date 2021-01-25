@@ -1,0 +1,79 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+    <META charset="utf-8">
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <TITLE>Genesis Sci-Fi Club - Archive - News 2014</TITLE>
+    <META NAME="description" CONTENT="Genesis Sci-Fi Club, the Basingstoke science fiction club - Archive - News 2014">
+    <META NAME="robots" CONTENT="all">
+    <META NAME="robots" CONTENT="index,follow">
+    <META NAME="google-bot" CONTENT="all">
+    <META NAME="google-bot" CONTENT="index,follow">
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('archiveNews2015Menu');">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody"> 
+      <H1 CLASS="title">Welcome to Genesis Sci-fi Club</H1>
+      <H2 CLASS="titletagline">The Basingstoke science fiction club</H2>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel">
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 18th January 2015</H2>
+      <DIV CLASS="textboxshrunken" ID="goldChannelJanuary">
+        <H3><font color="yellow">GOLD CHANNEL</font></H3>
+        <P>Welcome to the January Genesis meeting &amp; a Happy New Year to everyone.  Hopefully, this year will see the club from strength to strength, &amp; having got the venue properly renovated, we'll be able to relax a bit.  I won't be continuing as co-chair -- having been involved in the club for several years now, I'd like a break (and so would Jeremy) -- but it's been a good year all round, so I'd like to thank Ren&#233; for taking on the job with me and excelling as co-chair.<br/><br/>
+        My theme this month may or may not be obvious.  It's rather sad that it's easier to find films starring a robot than it is films starring a woman (at least as the lead character), although granted, I'm only looking for ones below 100 minutes and the Alien series in particular is notable for having female protagonists.  This month's timetable was inspired by a discussion about women in media, and how there were comparatively few of us in leading roles (although the new series of Dr Who might aspire to being the Clara Oswald Show).  I was even contemplating showing the episode of Red Dwarf where Kryten gets his gender reassigned, although since I'm planning a show for next year with 'Funny/Cute Robots', that is first on the list.  I already showed Carl Sagan's vehicle for Jodie Foster's usual over-acting, Contact, a few years ago, and unfortunately some of the new crop of teen movies such as The Hunger Games and Deliverance are a bit long.  However, luckily they're being made.<br/><br/>
+        However, the jewel in the crown of such films is Gravity, the sensational hit starring Sandra Bullock and George Clooney.  (Sadly the 'George' quiz round has already been done.)  Alongside it on the film vote are Short Circuit (one word: 'STTEPHANNIE!'), and that eggstremely thought-provoking, hard-(boiled)-sci-fi Chicken Run.  (Blame Tony for that one.)  Thanks to Craig and Ren&#233;, the other choice wasn't Wall-E (Eve counts as a leading female, mostly because she's the one who saves the haplessly-cute Wall-E), but that's yet more foddeer for a Funny Robots programme next year.<br/><br/>
+        Sit back and enjoy the show.  Next month wee'll be up to our ankles in AGM, and Paul Russell will be show-runner.<br/><br/>
+        <b>Louise Stanley</b><br/>
+        Co-Chair</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlJanuary">more</A>
+      
+      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel">
+      <H2 CLASS="textboxtitle">Gold Channel for Sunday 15th February 2015</H2>
+      <DIV CLASS="textboxshrunken" ID="goldChannelMarch">
+        <H3><font color="yellow">GOLD CHANNEL</font></H3>
+        <P>Welcome to another Genesis, and more importantly today is both membership renewal &amp; AGM day.  As you'll see from the centre pages today the club's finances are remarkably stable so if you want to do something about that you'll have to stand for the committee!<br/>
+        <br/>
+        We also have the swag that we ordered a few months back, so if you were expecting a polo shirt or a fleece (or several), please see Ren&#233; about exchanging your items for cold, hard cash.<br/>
+        <br/>
+        For those who have seen mixed messages about the food situation: offically, the White Hart has closed the kitchen &amp; adopted a Bring Your Own Food policy.  However, they still have some stock left &amp; rather than throw it away have agreed to cook for Genesis &amp; BAS for as long as it lasts.  So please make the best of it &amp; support them if you can, the chances are that by next Genesis the stocks will have run down &amp; the BYOF will be in full effect.<br/>
+        <br/>
+        Today's programme is courtesy of Antony who stepped in at the last minute to cover for Paul Russell, so thanks for that Tony!  Paul has been rescheduled for November.<br/>
+        <br/>
+        We're thinking of running two big events this year.  The first is a Games Day (probably in June) with miniature, board &amp; computer games, something we haven't done for a few years.  The second is a trip to Greenwich, mainly for the observatory but also as a general day out as there's a lot of other stuff to see there.  If you have any ideas or suggestions for either event, please speak to a member of the committee, whoever that ends up being.<br/>
+        <br/>
+        The Editor
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlMarch">more</A>
+
+      <IMG SRC="images/fleece.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Fleece">
+      <H2 CLASS="textboxtitle">Fleece order has arrived</H2>
+      <DIV CLASS="textboxshrunken" ID="fleeceOrder">
+        <P>For those who've order Genesis-sf logo fleeces, please contact Rene at the next meeting.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="fleeceOrderControl">more</A>
+
+      <IMG SRC="/archive/images/GamesDay.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Games Day">
+      <H2 CLASS="textboxtitle">Games Day - Saturday 20th June</H2>
+      <DIV CLASS="textboxshrunken" ID="gamesDay">
+        <P>Board games, card games, tabletop wargaming, computer games, raffle, at <A HREF="http://www.whitehartinn.net/" TARGET="_blank">The White Hart Inn</A> in Basingstoke, 11:00am. (<A HREF="http://maps.google.co.uk/maps/ms?hl=en&ie=UTF8&msa=0&msid=210173083229031000432.0004a4e0ffc573db8bae1&ll=51.262559,-1.082239&spn=0.003666,0.016909&z=16&layer=c&cbll=51.262569,-1.082255&panoid=YN7Sx2JQb0KScrpw9ZIOqA&cbp=11,135.39,,0,4.26" TARGET="_blank">map</A>)  Entrance £2 members, £3 non-members, free if you cook or bake something to share.  Plenty of games will be available, but if there's something you'd like to play or run, feel free to bring it along.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="gamesDayControl">more</A>
+
+      
+  </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+    <META charset="utf-8"> 
+    <META DESCRIPTION="Other science fiction in the UK">
+    <TITLE>Genesis - Other SF Clubs</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('linksOtherSFClubsMenu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody"> 
+      <H1 CLASS="title">Other SF Clubs</H1><!--Descriptions contain line breaks as my HTML editor doesn't wrap properly, dammit!-->
+      <A HREF="http://users.aber.ac.uk/club02/" TARGET="_blank"><IMG
+      SRC="images/aberystwyth.png" CLASS="subtitle" WIDTH="70"
+      HEIGHT="70" ALT="Aberystwyth F SF Society"></A> 
+      <H2 CLASS="textboxtitle">
+        <A HREF="http://users.aber.ac.uk/club02/" TARGET="_blank">Aberystwyth F&amp;SF
+        Society</A></H2> 
+      <DIV CLASS="textboxshrunken" ID="aberystwyth">University SF society with
+        a nice webpage including an online 'zine.<BR></DIV><A
+      HREF="http://www.birminghamsfgroup.org.uk/" TARGET="_blank"><IMG
+      SRC="images/birmingham.png" CLASS="subtitle" WIDTH="70"
+      HEIGHT="70" ALT="Birmingham SF Group"></A> 
+      <H2 CLASS="textboxtitle">
+        <A HREF="http://www.birminghamsfgroup.org.uk/" TARGET="_blank">Birmingham
+        Science Fiction Group</A></H2> 
+      <DIV CLASS="textboxshrunken" ID="birmingham"><BR></DIV><A
+      HREF="http://www.blakes7online.com/" TARGET="_blank"><IMG
+      SRC="images/horizon.png" CLASS="subtitle" WIDTH="70"
+      HEIGHT="70" ALT="Birmingham SF Group"></A> 
+      <H2 CLASS="textboxtitle">
+        <A HREF="http://www.blakes7online.com/" TARGET="_blank">Horizon</A></H2> 
+      <DIV CLASS="textboxshrunken" ID="horizon">The Blake's 7 Appreciation
+        Society.<BR></DIV><A HREF="http://www.mjckeh.demon.co.uk/hullsf.htm"
+      TARGET="_blank"><IMG SRC="images/blank.png" CLASS="subtitle"
+      WIDTH="70" HEIGHT="70" ALT="The Blake's 7 Appreciation Society"></A> 
+      <H2 CLASS="textboxtitle">
+        <A HREF="http://www.mjckeh.demon.co.uk/hullsf.htm" TARGET="_blank">Hull SF
+        Group</A></H2> 
+      <DIV CLASS="textboxshrunken" ID="hull">Written SF group with two pub
+        meetings per month.<BR></DIV><A HREF="http://www.union.ic.ac.uk/scc/icsf/"
+      TARGET="_blank"><IMG SRC="images/ICSF.png" CLASS="subtitle"
+      WIDTH="70" HEIGHT="70" ALT="Hull SF Group"></A> 
+      <H2 CLASS="textboxtitle">
+        <A HREF="http://www.union.ic.ac.uk/scc/icsf/" TARGET="_blank">ICSF</A></H2> 
+      <DIV CLASS="textboxshrunken" ID="icsf">Imperial College SF Society, or to
+        give it its full name: <EM>Imperial College Union Science Fiction, Fantasy,
+        Horror and Monty Python Appreciation Society, incorporating the HG Wells
+        Society and Member of the Unholy Trinity.</EM> Whatever.<BR></DIV><A
+      HREF="http://www.outpost10f.com/" TARGET="_blank"><IMG
+      SRC="images/outpost10f.png" CLASS="subtitle" WIDTH="70"
+      HEIGHT="70" ALT="Outpost 10F"></A> 
+      <H2 CLASS="textboxtitle">
+        <A HREF="http://www.outpost10f.com/" TARGET="_blank">Outpost 10F</A></H2> 
+      <DIV CLASS="textboxshrunken" ID="outpost10f">Online Star Trek and Star
+        Wars forum.<BR></DIV><A HREF="http://www.psfclub.btinternet.co.uk/psf.htm"
+      TARGET="_blank"><IMG SRC="images/peterborough.png" CLASS="subtitle"
+      WIDTH="70" HEIGHT="70" ALT="Peterborough SF Club"></A> 
+      <H2 CLASS="textboxtitle">
+        <A HREF="http://www.psfclub.btinternet.co.uk/psf.htm"
+        TARGET="_blank">Peterborough SF club</A></H2> 
+      <DIV CLASS="textboxshrunken" ID="peterborough">Long-running club with a
+        nice site.<BR></DIV><A HREF="http://www.zz9.org" TARGET="_blank"><IMG
+      SRC="images/zz9.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="ZZ9 Plural Z Alpha"></A> 
+      <H2 CLASS="textboxtitle"> <A HREF="http://www.zz9.org/"
+        TARGET="_blank">ZZ9 Plural Z Alpha</A></H2> 
+      <DIV CLASS="textboxshrunken" ID="zz9">The Hitchhikers' Guide
+        fanclub.<BR></DIV><BR>
+    </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

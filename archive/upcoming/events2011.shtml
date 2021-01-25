@@ -1,0 +1,112 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+    <META charset="utf-8"> 
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <META NAME="description" CONTENT="Events that happened in the year 2011">
+    <TITLE>Genesis - Upcoming Events 2011 Archive</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('archiveUpcomingEvents2011Menu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody"> 
+      <H1 CLASS="title">Upcoming Events 2011</H1>
+		<P>Hyperlinks may no longer work or the website may be re-used.</P> 
+      
+      <A HREF="http://www.londonexpo.com/" TARGET="_blank">
+        <IMG SRC="/archive/upcoming/images/londonMCMExpo.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="London&#39;s Comic Con"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://www.londonexpo.com/"
+        TARGET="_blank">London&#39;s Comic Con MCM Expo</A> - London, Friday 27th May to
+        Sunday 29th May</H2> 
+      <DIV CLASS="textboxshrunken" ID="londonMCMExpo"> 
+        <P>Jam packed with comics, games, exhibits, cosplay, authors, artists
+          and stars.<BR></P> </DIV>
+          
+      <A HREF="http://collectormania.com/miltonkeynes/" TARGET="_blank"><IMG SRC="/archive/upcoming/images/collectorMania.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Collectormania"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://collectormania.com/miltonkeynes/" TARGET="_blank">Collectormania
+        17</A>- Milton Keynes, Saturday 28th May to Monday 30th May</H2> 
+      <DIV CLASS="textboxshrunken" ID="collectormania"> 
+        <P>Stars, autographs and photoshoots.<BR></P> </DIV>
+        
+        <A HREF="http://www.thewritefantastic.com/event2011.html" TARGET="_blank"><IMG SRC="/archive/upcoming/images/theWriteFantastic.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Write Fantastic"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://www.thewritefantastic.com/event2011.html" TARGET="_blank">The Write Fantastic</A> - Oxford, Saturday 28th May</H2> 
+      <DIV CLASS="textboxshrunken" ID="theWriteFantastic"> 
+        <P>Sci fi and authors and discussion.<BR></P></DIV>
+        
+      <A HREF="http://royalsociety.org/summer-science/2011/" TARGET="_blank">
+        <IMG SRC="/upcoming/images/royalSociety.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Royal Society - Science Live"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://royalsociety.org/summer-science/2011/" TARGET="_blank">Royal Society - Science Live</A> - London, Tuesday 5th July to Sunday 10th July</H2> 
+      <DIV CLASS="textboxshrunken" ID="royalSocietyScienceLive"> 
+        <P>Explore over 20 fascinating exhibits, interact with the science that is shaping our world, question UK scientists about their research.  And it's free.</P>
+      </DIV>
+      
+      <A HREF="http://www.londonfilmandcomiccon.com/" TARGET="_blank">
+        <IMG SRC="/upcoming/images/londonFilmAndComicCon.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="London Film and Comic Con"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://www.londonfilmandcomiccon.com/" TARGET="_blank">London Film and Comic Con</A> - London, Friday 8th July to Sunday 10th July</H2> 
+      <DIV CLASS="textboxshrunken" ID="londonFilmAndComicCon"> 
+        <P>Stars, photoshoots, films, cosplay, artists, video games and
+          traders.<BR></P>
+      </DIV>
+      
+      <A HREF="http://www.bl.uk/whatson/exhibitions/outof/outofthisworld.html" TARGET="_blank">
+        <IMG SRC="/upcoming/images/britishLibraryOutOfThisWorld.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="British Library - Out of this World"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://www.bl.uk/whatson/exhibitions/outof/outofthisworld.html" TARGET="_blank">British Library - Out of this World</A> - London, Friday 20th May to Sunday 25th September</H2> 
+      <DIV CLASS="textboxshrunken" ID="britishLibraryOutOfThisWorld"> 
+        <P>Explore a range of imaginings that have provoked hopes and dreams, exhilaration and fear - and see how science fiction has influenced scientific discovery.</P>
+      </DIV>
+      
+      <A HREF="http://www3.hants.gov.uk/hampshire-museums/willis-museum/willis-museum-eventdetails.htm?id=104225" TARGET="_blank">
+        <IMG SRC="/upcoming/images/willisMuseumAlienInvasion.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Willis Museum - Alien Invasion"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://www3.hants.gov.uk/hampshire-museums/willis-museum/willis-museum-eventdetails.htm?id=104225" TARGET="_blank">Willis Museum - Alien Invasion</A> - Basingstoke, Saturday 30th July to Saturday 3rd September</H2> 
+      <DIV CLASS="textboxshrunken" ID="willisMuseumAlienInvasion"> 
+        <P>Ever wondered how thrilling it would be to come face-to-face with a Martian? Or how about Darth Vader, or even The Predator?</P>
+        <p>Well, visitors will find out when they attend the remarkable one-off "Alien Invasion" exhibition, which brings together an army of famous - and infamous - aliens, monsters, props and costumes from some of Hollywood's biggest sci-fi blockbusters.</p>
+        <p>The collection of fabulous movie props and costumes is guaranteed to scare - and thrill.
+ On show are a number of creatures from the massive hit Aliens, which starred Sigourney Weaver. And it's not just the ordinary aliens; visitors will have the opportunity to get close to the queen alien and the terrifying "face hugger" - if they dare.</p>
+        <p>And not to be left out, Predator is also a favourite of the exhibition. He's not pretty!</p>
+        <p>However, full size Martians from Mars Attack and the horrific alien host from the X-files movie aside, there are some cute aliens, too. The cuddly Ewok will be there along with Jawas, Yoda and Chewbacca from Star Wars. But be warned, there is also an early Darth Vader costume and a storm trooper or two hanging around. Though Marvin the Martian should keep things in order.</p>
+        <P>Star attraction has to be the massive transporter spaceship model from the opening scene of the Lost In Space movie.</P>
+        <p>And it's free.</p>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="willisMuseumAlienInvasionControl">more</A>
+      
+      <A HREF="http://www.theo2.co.uk/event/batman-live-world-arena-tour-20110824.html" TARGET="_blank">
+        <IMG SRC="/upcoming/images/batmanLive.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Batman Live - World Arena Tour"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://www.theo2.co.uk/event/batman-live-world-arena-tour-20110824.html" TARGET="_blank">Batman Live - World Arena Tour</A> - London, Wednesday 24th August to Sunday 4th September</H2> 
+      <DIV CLASS="textboxshrunken" ID="batmanLive"> 
+        <P>For the first time in DC Comics history, see Batman the world's most popular DC Super Hero as you've never seen him before, in an all-new, live-action arena adventure, set to take the world by storm. Coming to The O2 from 24 August to 4 September, BATMAN LIVE - World Arena Tour is a multi-million pound stage production of unprecedented scale and a must-see for families and Batman fans everywhere.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="batmanLiveControl">more</A>
+      
+      <A HREF="http://www.bristolcon.org/" TARGET="_blank">
+        <IMG SRC="/upcoming/images/bristolCon.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="BristolCon"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://www.bristolcon.org/" TARGET="_blank">BristolCon 11</A> - Bristol, Saturday 22nd October</H2> 
+      <DIV CLASS="textboxshrunken" ID="bristolCon"> 
+        <P>Run by the <A HREF="http://www.facebook.com/group.php?gid=15795356978" TARGET="_blank">Bristol Fantasy and SF Society</A>, features sci fi authors, readings, lectures and art work.<BR></P>
+      </DIV>
+      
+      <A HREF="http://www.armadacon.org/" TARGET="_blank"><IMG
+      SRC="/upcoming/images/armadaCon.png" CLASS="subtitle" WIDTH="70"
+      HEIGHT="70" ALT="ArmadaCon"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://www.armadacon.org/"
+        TARGET="_blank">ArmadaCon 23</A> - Plymouth, Friday 11th November to Monday
+        13th November</H2> 
+      <DIV CLASS="textboxshrunken" ID="armadaCon"> 
+        <P>A long running, unconventional convention where sci fi fans
+          entertain each other. A few Genesis members attend this.</P>
+      </DIV>
+      
+    </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

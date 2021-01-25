@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+<html>
+  <HEAD>
+	 <META charset="utf-8">
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+     <META NAME="description" CONTENT="Email, telephone and meeting places">
+	 <TITLE>Genesis - Contact Us</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+	 <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT>
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT>
+  </HEAD>
+  <BODY ONLOAD="selectMenu('aboutUsContactUsMenu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+	 <DIV CLASS="mainbody" itemscope itemtype="http://data-vocabulary.org/Organization">
+        <META ITEMPROP="name" CONTENT="Genesis Sci Fi Club"/>
+        <META ITEMPROP="url" CONTENT="http://www.genesis-sf.org.uk/"/>
+        <SPAN ITEMPROP="geo" ITEMSCOPE ITEMTYPE="http://data-vocabulary.org/Geo">
+          <META ITEMPROP="latitude" CONTENT="51.2625" />
+          <META ITEMPROP="longitude" CONTENT="-1.0815" />
+        </SPAN>
+		<H1 CLASS="title">Contact Us</H1>
+
+
+        <A HREF="mailto:info@genesis-sf.org.uk">
+          <IMG SRC="/aboutUs/images/Email.png" CLASS="subtitlesmall" WIDTH="20" HEIGHT="20" ALT="Email icon"></A>
+		<H2 CLASS="textboxtitle">Email</H2>
+		<DIV CLASS="textboxsmallshrunken" ID="email"><A HREF="mailto:info@genesis-sf.org.uk">info@genesis-sf.org.uk</A></DIV>
+
+        <A HREF="http://www.genesis-sf.org.uk/forum/">
+          <IMG SRC="/aboutUs/images/forum.png" CLASS="subtitlesmall" WIDTH="20" HEIGHT="20" ALT="Forum icon"></A>
+		<H2 CLASS="textboxtitle">Forum</H2>
+		<DIV CLASS="textboxsmallshrunken" ID="forum">
+          <A HREF="http://www.genesis-sf.org.uk/forum/">http://www.genesis-sf.org.uk/forum/</A>
+        </DIV>
+
+		<A HREF="mailto:webmaster@genesis-sf.org.uk">
+          <IMG SRC="/aboutUs/images/Email.png" CLASS="subtitlesmall" WIDTH="20" HEIGHT="20" ALT="Email icon"></A>
+	    <H2 CLASS="textboxtitle">Webmaster</H2>
+		<DIV CLASS="textboxsmallshrunken" ID="webmaster">
+          <A HREF="mailto:webmaster@genesis-sf.org.uk">webmaster@genesis-sf.org.uk</A>
+		</DIV>
+
+        <A HREF="mailto:editor@genesis-sf.org.uk">
+          <IMG SRC="/aboutUs/images/Email.png" CLASS="subtitlesmall" WIDTH="20" HEIGHT="20" ALT="Email icon"></A>
+		<H2 CLASS="textboxtitle">Magazine Editor</H2>
+		<DIV CLASS="textboxsmallshrunken" ID="editor">
+          <A HREF="mailto:editor@genesis-sf.org.uk">editor@genesis-sf.org.uk</A>
+        </DIV>
+
+        <A HREF="http://www.whitehartinn.net/" TARGET="_blank">
+          <IMG SRC="/aboutUs/images/RedLion.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Red Lion"></A>
+		<H2 CLASS="textboxtitle">Club Meetings</H2>
+		<DIV CLASS="textboxshrunken" ID="nextClubMeeting">
+		  <P>Every 4 Sundays at <A HREF="http://redlionhotelbasingstoke.com/" TARGET="_blank">Red Lion Hotel</A> in Basingstoke, close to Basingstoke town centre, 3:30pm till 9:30pm. See Google
+			 <A HREF="https://www.google.co.uk/maps/place/The+Red+Lion+Hotel,+Red+Lion+Ln,+Basingstoke,+Hampshire+RG21/@51.2684613,-1.0459393,12z/data=!4m2!3m1!1s0x487421816de3fd77:0x21fba295fb84c855?hl=en-GB"
+          TARGET="_blank">map</A> for directions.</P>
+          <P ITEMPROP="address" ITEMSCOPE ITEMTYPE="http://data-vocabulary.org/Address">Address:<BR>
+             <SPAN ITEMPROP="street-address">Red Lion Lane</SPAN><BR>
+             <SPAN ITEMPROP="locality">Basingstoke</SPAN><BR>
+             <SPAN ITEMPROP="region">Hampshire</SPAN><BR>
+             <SPAN ITEMPROP="postal-code">RG21 7LX</SPAN>
+             <META ITEMPROP="country-name" CONTENT="United Kingdom"/></P>
+
+        </DIV>
+        <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="nextClubMeetingControl">more</A>
+
+    </DIV>
+
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

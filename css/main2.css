@@ -1,0 +1,191 @@
+html {
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    height: 100%;
+    min-width: 800px;
+    overflow: auto;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    font-family: Verdana;
+}
+
+DIV.menu {
+	float: left;
+    width: 160px;
+    height: 1000px;
+    border: solid black 0px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 8px;
+    background-color: black;
+    background-image: url(/images/menubar2.png);
+    background-position: -100px 0;
+    background-repeat: no-repeat;
+}
+
+DIV.mainbody {
+    min-height: 600px;
+    min-width: 640px;
+    overflow: auto;
+    margin: 6px 6px 6px 6px;
+    padding: 0px 8px 0px 8px;
+    border: solid black 0px;
+}
+
+DIV.copyright {
+	float: none;
+    height: 50px;
+    width: 800px;
+    overflow: auto;
+    border: solid black 0px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+
+OL,UL {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+P,LI {
+    text-align: justify;
+    font-size: 10pt;
+    margin-top: 0px;
+}         
+
+IMG.subtitle {
+    height: 70px;
+    width: 70px;
+    margin-right: 5px;
+    float: left;
+	border: none;
+}
+
+IMG.subtitlesmall {
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+    float: left;
+	border: none;
+}
+
+
+H1.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 12pt;
+}
+
+H2.titletagline {
+    text-align: center;
+    font-weight: bold;
+    font-size: 10pt;
+}
+
+H2.subtitle {
+    text-align: left;
+    font-weight: bold;
+    font-size: 10pt;
+    margin-bottom: 0px;
+}
+
+H2.textboxtitle {
+    text-align: left;
+    font-weight: bold;
+    font-size: 10pt;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+DIV.textboxshrunken {
+    height: 60px;
+    overflow: hidden;
+    border-bottom: solid silver 1px;
+    font-size: 10pt;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+DIV.textboxexpanded {
+    border-bottom: solid silver 1px;
+    padding-left: 75px;
+    font-size: 10pt;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+DIV.textboxsmallshrunken {
+    height: 20px;
+    overflow: hidden;
+    border-bottom: solid silver 1px;
+    font-size: 10pt;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+DIV.textboxsmallexpanded {
+    border-bottom: solid silver 1px;
+    padding-left: 25px;
+    font-size: 10pt;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+A.textboxcontrol {
+    position: relative;
+    display: block;
+    top: -15px;
+    left: 75px;
+    width: 36px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 8pt;
+    background-color: white;
+    border: solid silver 1px;
+    color: navy;
+}
+A.textboxcontrol:hover {
+    background-color: #1589FF;
+    color: white;
+    border: solid white 1px;
+}
+
+A.textboxsmallcontrol {
+    position: relative;
+    display: block;
+    top: -15px;
+    left: 35px;
+    width: 36px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 8pt;
+    background-color: white;
+    border: solid silver 1px;
+    color: navy;
+}
+A.textboxsmallcontrol:hover {
+    background-color: #1589FF;
+    color: white;
+    border: solid white 1px;
+}
+
+A.gallerysample {
+    cursor: pointer;
+}
+
+IMG.gallerysample {
+    margin-right: 5px;
+}
+
+P.lastModified {
+    font-size: 7pt;
+}
+
+UL.datelist {
+	list-style-type: none;
+}
+UL.datelist LI {
+	font-size: 9pt;
+}

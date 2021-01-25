@@ -1,0 +1,84 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD> 
+    <META charset="utf-8"> 
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <META NAME="description" CONTENT="Games released in the year 2011">
+    <TITLE>Genesis - Upcoming Games Archive 2011</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('archiveUpcomingBooks2011Menu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    
+    <DIV CLASS="mainbody"> 
+      <H1 CLASS="title">Released Books/Audiobooks</H1>
+          
+      <A
+      HREF="http://www.recordedbooks.com/index.cfm?fuseaction=rb.show_prod&amp;book_id=85981&amp;prod_id=DZ488"
+      TARGET="_blank"><IMG SRC="/upcoming/images/blameless.png" CLASS="subtitle"
+      WIDTH="70" HEIGHT="70" ALT="Blameless"></A> 
+      <H2 CLASS="textboxtitle"><A
+        HREF="http://www.recordedbooks.com/index.cfm?fuseaction=rb.show_prod&amp;book_id=85981&amp;prod_id=DZ488"
+        TARGET="_blank">Blameless</A> by Gail Carriger - 9th March 2011</H2> 
+      <DIV CLASS="textboxshrunken" ID="blameless"> 
+        <P>Gail Carriger&#39;s best-selling Parasol Protectorate series
+          reimagines Victorian England with vampires, werewolves, and a dash of
+          steampunk. Blameless is the third in the series starring the parasol-wielding
+          Lady Alexia Maccon, formerly Alexia Tarabotti. After news spreads of her
+          delicate condition&mdash;a surprise to everyone since she&#39;s married to a
+          werewolf&mdash;Alexia is desperate to escape the London gossip. So she heads to
+          Italy for a change of scenery.</P> 
+        <P>Narrated by Emily Gray.</P> </DIV><A CLASS="textboxcontrol"
+      ONCLICK="toggleTextBoxByControl(this);" ID="blamelessControl">more</A> 
+      
+      <A
+       HREF="http://www.recordedbooks.com/index.cfm?fuseaction=rb.show_prod&amp;book_id=86263&amp;prod_id=DZ910"
+       TARGET="_blank"><IMG SRC="/archive/upcoming/images/howToLiveSafely.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="How to Live Safely in a Science Fictional Universe"></A> 
+      <H2 CLASS="textboxtitle"><A
+        HREF="http://www.recordedbooks.com/index.cfm?fuseaction=rb.show_prod&amp;book_id=86263&amp;prod_id=DZ910"
+        TARGET="_blank">How to Live Safely in a Science Fictional Universe</A> by
+        Charles Yu - 5th April 2011</H2> 
+      <DIV CLASS="textboxshrunken" ID="howToLiveSafely"> 
+        <P>In this fiercely original novel, Charles is a timetraveling
+          repairman working in the off-kilter Minor Universe 31. He helps clients return
+          to their biggest mistakes, which they incorrectly believe they can repair. But
+          they can&#33;t and that&#33;s bad news for Charles, who once
+          accidentally ran into and shot his future self.</P> 
+        <P>Narrated by James Yaegashi.</P> </DIV><A CLASS="textboxcontrol"
+      ONCLICK="toggleTextBoxByControl(this);" ID="howToLiveSafelyControl">more</A>
+      
+      <A
+      HREF="http://www.recordedbooks.com/index.cfm?fuseaction=rb.show_prod&amp;book_id=83751&amp;prod_id=DZ451"
+      TARGET="_blank"><IMG SRC="/archive/upcoming/images/theFullerMemorandum.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="The Fuller Memorandum"></A> 
+      <H2 CLASS="textboxtitle"><A
+        HREF="http://www.recordedbooks.com/index.cfm?fuseaction=rb.show_prod&amp;book_id=83751&amp;prod_id=DZ451"
+        TARGET="_blank">The Fuller Memorandum</A> by Charles Stross - 5th April
+        2011</H2> 
+      <DIV CLASS="textboxshrunken" ID="theFullerMemorandum"> 
+        <P>Hugo Award-winning author Charles Stross is renowned for his
+          cutting-edge science fiction. This third entry in his &quot;edgy &quot; spoof
+          of Cold War spy thrillers&mdash; (Booklist) finds covert agent Bob Howard
+          learning about a top-secret dossier that vanishes with his boss. Determined to
+          discover the contents of this memorandum, Howard runs afoul of Russian spies,
+          ancient demons, and apostles of a hideous cult planning to raise the Eater of
+          Souls from the undead.</P> 
+        <P>Narrated by Gideon Emery.</P> </DIV><A CLASS="textboxcontrol"
+      ONCLICK="toggleTextBoxByControl(this);"
+      ID="theFullerMemorandumControl">more</A>
+      
+
+      
+    </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

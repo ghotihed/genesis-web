@@ -1,0 +1,125 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD>
+    <META charset="utf-8"> 
+    <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <META NAME="description" CONTENT="Films released in the year 2011">
+    <TITLE>Genesis - Upcoming Cinema 2011 Archive</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('archiveUpcomingCinema2011Menu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody"> 
+      <H1 CLASS="title">Released Cinema</H1>
+      
+      <A HREF="http://thor.marvel.com/intl/uk/"
+      TARGET="_blank"><IMG SRC="images/thor.png" CLASS="subtitle"
+      WIDTH="70" HEIGHT="70" ALT="Thor"></A> 
+      <H2 CLASS="textboxtitle"><A
+        HREF="http://thor.marvel.com/intl/uk/" TARGET="_blank">Thor</A> - Wednesday
+        27th April</H2> 
+      <DIV CLASS="textboxshrunken" ID="thor"> 
+        <P>Based on the Marvel Comics, Thor is banished from Asgard to Earth.
+          When Asgard's worst villian sends forces to destroy Earth, Thor fights to
+          defend mankind. Starring Chris Hemsworth, Natalie Portman, Tom Hiddleston and
+          Anthony Hopkins.</P></DIV> 
+
+      <A HREF="http://priest-movie.net/" TARGET="_blank">
+        <IMG SRC="images/priest.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Priest"></A>
+      <H2 CLASS="textboxtitle"><A HREF="http://priest-movie.net/"
+        TARGET="_blank">Priest 3D</A> - Friday 6th May</H2> 
+      <DIV CLASS="textboxshrunken" ID="priest"> 
+        <P>In an alternate world, humanity and vampires have warred for
+          centuries. After his niece is kidnapped by vampires, the Warrior Priest breaks
+          his vows with the Church to hunt them down in the wastelands.</P> </DIV>
+          
+      <A HREF="http://attacktheblock.com/" TARGET="_blank">
+        <IMG SRC="images/attackTheBlock.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Attack the Block"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://attacktheblock.com/" TARGET="_blank">Attack the Block</A> - Wednesday 11th May</H2> 
+      <DIV CLASS="textboxshrunken" ID="attackTheBlock"> 
+        <P>Comic, action adventure where London, housing estate teenagers take
+          on savage, alien invaders. Starring John Boyega, Jodie Whittaker and Nick
+          Frost.</P>
+      </DIV>
+      
+      <A HREF="http://www.xmenfirstclass.co.uk/" TARGET="_blank">
+        <IMG SRC="images/xmenFirstClass.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="X Men First Class"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://www.xmenfirstclass.co.uk/" TARGET="_blank">X-Men First Class</A> - Wednesday 1st June</H2> 
+      <DIV CLASS="textboxshrunken" ID="xmenFirstClass"> 
+        <P>Prequel to the X-Men saga where Charles Xavier and Erik Lehnsherr
+          work with other mutants to prevent nuclear armageddon till a rift splits them.
+          Starring James McAvoy, Michael Fassbender, Kevin Bacon, January Jones and
+          Jennifer Lawrence.</P>
+      </DIV>
+      
+      <A HREF="http://greenlanternmovie.warnerbros.com/" TARGET="_blank">
+        <IMG SRC="images/greenLantern.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Green Lantern"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://greenlanternmovie.warnerbros.com/" TARGET="_blank">Green Lantern 3D</A> - Friday 17th June</H2> 
+      <DIV CLASS="textboxshrunken" ID="greenLantern"> 
+        <P>Classic comic superhero, Green Lantern, played by Ryan Reynolds,
+          uses his humanity to fight Parallex to restore order to the Universe.</P>
+      </DIV>
+        
+      <A HREF="http://www.imdb.com/title/tt1733578/" TARGET="_blank">
+        <IMG SRC="/archive/upcoming/images/worldOfTheDead.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="World of the Dead film"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://www.imdb.com/title/tt1733578/" TARGET="_blank">World of the Dead: The Zombie Diaries</A> - Friday 24th June</H2> 
+      <DIV CLASS="textboxshrunken" ID="worldOfTheDead"> 
+        <P>Three months have passed since a viral outbreak wiped out 99.9% of the world's population, turning its victims into flesh-eating living dead. In the UK, a surviving band of soldiers and civilians have taken refuge at a rural military barracks. Life in this new world is tough and brutal, but hope appears when a high level communication is received from a military base on the coast, telling of sanctuary elsewhere in Europe...  Starring Alix Wilton Regan, Philip Brodie and Rob Oldfield.</P>
+        <P>No official website.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="worldOfTheDeadControl">more</A>
+        
+      <A HREF="http://www.transformersmovie.com/" TARGET="_blank">
+        <IMG SRC="/archive/upcoming/images/transformers3.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Transformers 3 film"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://www.transformersmovie.com/" TARGET="_blank">Transformers 3: Dark of the Moon</A> - Wednesday 29th June</H2> 
+      <DIV CLASS="textboxshrunken" ID="transformers3"> 
+        <P>The Autobots learn of a Cybertronian spacecraft hidden on the Moon, and race against the Decepticons to reach it and to learn its secrets.  Starring Shia LaBeouf, Rosie Huntington-Whiteley and Tyrese Gibson.  And lots of CGI robots.</P>
+      </DIV>
+      
+      <A HREF="http://www.super8-movie.com/" TARGET="_blank">
+        <IMG SRC="/upcoming/images/super8.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Super 8"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://www.super8-movie.com/" TARGET="_blank">Super 8</A> - Friday 5th August</H2> 
+      <DIV CLASS="textboxshrunken" ID="super8"> 
+        <P>In the summer of 1979, a group of friends in a small Ohio town witness a catastrophic train crash while making a super 8 movie and soon suspect that it was not an accident. Shortly after, unusual disappearances and inexplicable events begin to take place in town, and the local Deputy tries to uncover the truth – something more terrifying than any of them could have imagined.</P>
+        <P>Starring Elle Fanning, Amanda Michalka, Kyle Chandler, Ron Eldard, Noah Emmerich and Gabriel Basso.  Produced by J.J. Abrams, Bryan Burk and Steven Spielberg.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="super8Control">more</A>
+      
+      <A HREF="http://captainamerica.marvel.com/" TARGET="_blank">
+        <IMG SRC="/upcoming/images/captainAmerica.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Captain America: The First Avenger film"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://captainamerica.marvel.com/" TARGET="_blank">Captain America: The First Avenger</A> - Friday 29th July</H2> 
+      <DIV CLASS="textboxshrunken" ID="captainAmerica"> 
+        <P>In 1942, Steve Rogers (Chris Evans) is deemed physically unfit to enlist in the U.S. Army and fight the Nazis in World War II. Volunteering instead for Project: Rebirth, a secret military operation, he is physically transformed into a super-soldier dubbed Captain America. With sidekick Bucky Barnes (Sebastian Stan), he fights the Red Skull (Hugo Weaving), Hitler's treacherous head of advanced weaponry, whose own plan for world domination involves a seemingly magical object known as the Tesseract.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="captainAmericaControl">more</A>
+      
+      <A HREF="http://harrypotter.warnerbros.com/harrypotterandthedeathlyhallows/mainsite/index.html" TARGET="_blank">
+        <IMG SRC="/upcoming/images/harryPotterDeathlyHarrows.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Harry Potter Deathly Harrows film"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://harrypotter.warnerbros.com/harrypotterandthedeathlyhallows/mainsite/index.html" TARGET="_blank">Harry Potter and the Dealthly Harrows part 2</A> - Friday 15th July</H2> 
+      <DIV CLASS="textboxshrunken" ID="harryPotter7"> 
+        <P>Harry, Ron and Hermione continue to seek Lord Voldemort's remaining Horcruxes in an attempt to destroy him.   Harry must confront his fate and battle Voldemort one last time.  Starring Daniel Radcliffe, Rupert Grint, Emma Watson, Ralph Fiennes, Alan Rickman, Helena Bonham Carter, Maggie Smith and Tom Felton.</P>
+      </DIV>
+      
+      <A HREF="http://www.cowboysandaliensmovie.com/" TARGET="_blank">
+        <IMG SRC="/upcoming/images/CowboysAndAliens.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Cowboys and Aliens"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://www.cowboysandaliensmovie.com/" TARGET="_blank">Cowboys and Aliens</A> - Wednesday 17th August</H2> 
+      <DIV CLASS="textboxshrunken" ID="cowboysAndAliens"> 
+        <P>A spaceship arrives in Arizona, 1873, to take over the Earth, starting with the Wild West region. A posse of cowboys and natives are all that stand in their way.</P>
+        <P>Starring Daniel Craig, Harrison Ford and Olivia Wilde.</P>
+      </DIV>
+      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="cowboysAndAliensControl">more</A>
+      
+    </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html> 
+  <HEAD> 
+    <META charset="utf-8"> 
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <META NAME="description" CONTENT="Games released in the year 2011">
+    <TITLE>Genesis - Upcoming Games Archive 2011</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT> 
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT> 
+  </HEAD> 
+  <BODY ONLOAD="selectMenu('archiveUpcomingGames2011Menu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    
+    <DIV CLASS="mainbody"> 
+      <H1 CLASS="title">Released Games</H1>
+          
+      <A HREF="http://www.ea.com/uk/dead-space-2" TARGET="_blank">
+        <IMG SRC="/archive/upcoming/images/deadSpace2.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Dead Space 2"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://www.ea.com/uk/dead-space-2" TARGET="_blank">Dead Space 2</A> - 28th Janurary 2011</H2> 
+      <DIV CLASS="textboxshrunken" ID="deadSpace2"> 
+        <P>Futuristic, survivalist horror where Isaac Clarke wakes up in a city infested with Necromorphs, monsters created from the dead. Isaac battles to survive EarthGov, the Church of Unitology and his own dementia.</P>
+      </DIV> 
+      
+      <A HREF="http://www.thinkwithportals.com/" TARGET="_blank">
+        <IMG SRC="/archive/upcoming/images/portal2.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Portal 2"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://www.thinkwithportals.com/" TARGET="_blank">Portal 2</A> - 22nd April 2011</H2> 
+      <DIV CLASS="textboxshrunken" ID="portal2"> 
+        <P>The much anticipated sequel to Portal, an action-puzzle game where you create and jump through interconnected portals. Lots of personality and humour. Also has a co-op, two player game. Now you&#39;re thinking with portals.</P>
+      </DIV>
+          
+      <A
+      HREF="http://www.dukenukem.com/full/uk" TARGET="_blank"><IMG
+      SRC="/upcoming/images/dukeNukem.png" CLASS="subtitle" WIDTH="70"
+      HEIGHT="70" ALT="Duke Nukem Forever"></A> 
+      <H2 CLASS="textboxtitle"><A HREF="http://www.dukenukem.com/full/uk"
+        TARGET="_blank">Duke Nukem Forever</A> - 14th June 2011</H2> 
+      <DIV CLASS="textboxshrunken" ID="dukeNukem"> 
+        <P>It seems this is for real, this time. Pick up guns, shoot the alien
+          invaders, quote manly one-liners and don't spare the sexual innuendo. Or the
+          gore.</P></DIV>
+          
+      <A HREF="http://www.deusex.com/" TARGET="_blank">
+        <IMG SRC="/upcoming/images/deusEx.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Deus Ex: Human Revolution"></A>
+      <H2 CLASS="textboxtitle"><A HREF="http://www.deusex.com/"
+        TARGET="_blank">Deus Ex: Human Revolution</A> - 26th August 2011</H2> 
+      <DIV CLASS="textboxshrunken" ID="deusEx"> 
+        <P>Play ex-SWAT Adam Jenson in the prequel to the action/role playing
+          <I>Deus Ex</I>, exploring the implications of transhumanism and corporate
+          conspiracies.</P></DIV> <BR>
+      
+    </DIV>
+        
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>
