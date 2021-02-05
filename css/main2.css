@@ -189,3 +189,15 @@ UL.datelist {
 UL.datelist LI {
 	font-size: 9pt;
 }
+
+.enhanced {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top:8px;
+    background-color: #e3e3e3;
+    color: black;
+    border: solid black 1px;
+}
