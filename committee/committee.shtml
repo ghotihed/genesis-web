@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html>
+  <HEAD>
+    <META charset="utf-8">
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <META NAME="description" CONTENT="Committee-related information">
+    <TITLE>Genesis - Committee Information</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT>
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT>
+  </HEAD>
+  <BODY ONLOAD="selectMenu('committeeMenu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody">
+      <H1 CLASS="title">Genesis Committee</H1>
+      <h2 class="heading">Committee Members</h2>
+      The current committee members are as follows:
+      <ul>
+      <table>
+          <tr>
+              <th>Name</th>
+              <th>Position</th>
+          </tr>
+          <tr>
+              <td>Mike Allum</td>
+              <td>Chair</td>
+          </tr>
+          <tr>
+              <td>Matthew Greet</td>
+              <td>Treasurer</td>
+          </tr>
+          <tr>
+              <td>David Offen-James</td>
+              <td>Secretary</td>
+          </tr>
+          <tr>
+              <td>Craig Arnush</td>
+              <td>IT</td>
+          </tr>
+          <tr>
+              <td>Mark King</td>
+              <td>IT</td>
+          </tr>
+          <tr>
+              <td>Ren&eacute; Arnush</td>
+              <td>Minion</td>
+          </tr>
+      </table>
+      </ul>
+
+      <h2 class="heading">Committee Meeting Minutes</h2>
+      <ul>
+          <li><a href="minutes-2021-03-22.shtml" target="_blank">22nd March, 2021</a></li>
+      </ul>
+      </DIV>
+
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>
