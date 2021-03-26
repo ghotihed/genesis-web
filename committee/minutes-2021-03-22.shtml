@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+  <HEAD>
+    <META charset="utf-8">
+     <META NAME="author" CONTENT="Genesis Sci-fi club">
+    <META NAME="description" CONTENT="Committee meeting minutes for 22nd March, 2021">
+    <TITLE>Genesis - Committee Minutes for 22nd March, 2021</TITLE>
+    <LINK REL="StyleSheet" HREF="/css/copyright2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/main2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="StyleSheet" HREF="/css/menu2.css" TYPE="text/css" MEDIA="all">
+    <LINK REL="shortcut icon" HREF="/images/favicon.ico">
+	<SCRIPT SRC="/scripts/controls.js" TYPE="text/javascript"></SCRIPT>
+	<SCRIPT SRC="/scripts/menu.js" TYPE="text/javascript"></SCRIPT>
+  </HEAD>
+  <BODY ONLOAD="selectMenu('committeeMenu')">
+    <DIV CLASS="menu" ID="menu">
+      <!--#include virtual="/includes/menu.htm" -->
+    </DIV>
+    <DIV CLASS="mainbody">
+      <H1 CLASS="title">Genesis Committee Meeting Minutes</H1>
+      <H2 CLASS="titletagline">22<sup>nd</sup> March, 2021</H2>
+
+      <h2 class="heading">Members Present</h2>
+      <ul>
+          <li>Mike (Chair)</li>
+          <li>Matt (Treasurer)</li>
+          <li>David (Secretary)</li>
+          <li>Mark (IT)</li>
+          <li>Craig (IT)</li>
+          <li>Ren&eacute; (Minion)</li>
+      </ul>
+
+      <h2 class="heading">Agenda Items</h2>
+      <ol class="itemList">
+          <li class="itemListItem">Online v Offline Activities</li>
+          <p>Zoom meetings to continue (they seem popular with attendees). Stick to a US-friendly timetable.
+          When able, begin physical pub meets monthly to be offset by 2 weeks with the online meeting
+          (effectively 2 events per month, 2 weeks apart). Timings / details to be considered nearer the time
+          as things fare from settled.</p>
+          <p>Possibility raised of a Quarterly meeting / meal / Quiz night in the future.</p>
+
+          <li class="itemListItem">Membership Drive</li>
+          <p>More people required to keep things lively.</p>
+          <p>Mike requested that we get all group members to "invite friends" via social media, but do this
+          gradually so as to keep things stable.</p>
+
+          <li class="itemListItem">Finances</li>
+          <p>Matt gave a finance update on the web hosting costs that were outlined at the AGM:
+          <ul class="_">
+              <li>Web Hosting: £64.74 (inc. VAT) due on 25<sup>th</sup> July, 2021, for 1 year</li>
+              <li>DNS Rental (<tt>genesis-sf-org.uk</tt>): £29.99 (inc. VAT) due on 20<sup>th</sup> September, 2022, for 2 years</li>
+          </ul>
+          </p>
+          <p>£1 per month fee to be introduced per member, to cover ongoing costs. With a 'first 3 months free' policy.</p>
+
+          <li class="itemListItem">Web Hosting</li>
+          <p><i>:ACTION:</i><b>Matt</b> and <b>Craig</b>: Investigate possibilities and costings for Web Hosting options.</p>
+
+          <li class="itemListItem">Communication Between Committee Members</li>
+          <p><i>:ACTION:</i><b>Craig</b>: Iinstigate a Teams Group (and ensure everyone can access it).</p>
+
+          <li class="itemListItem">Frequency of Committee Meetings</li>
+          <p>Meetings to be held every 4 weeks. (Friday evenings)<p>
+          <p>Date of next Committee Meeting: Friday, 23<sup>rd</sup> April, 8:00pm.</p>
+      </ol>
+
+    </DIV>
+
+    <DIV CLASS="copyright" ID="copyright">
+      <!--#include virtual="/includes/copyright.htm" -->
+    </DIV>
+</BODY>
+</html>

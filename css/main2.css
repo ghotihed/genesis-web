@@ -75,6 +75,12 @@ IMG.subtitlesmall {
 H1.title {
     text-align: center;
     font-weight: bold;
+    font-size: 14pt;
+}
+
+H2.heading {
+    text-align:left;
+    font-weight: bold;
     font-size: 12pt;
 }
 
@@ -188,6 +194,22 @@ UL.datelist {
 }
 UL.datelist LI {
 	font-size: 9pt;
+}
+
+LI.itemListItem {
+    font-weight: bold;
+    font-size: 11pt;
+}
+OL.itemList P {
+    text-align: justify;
+    font-size: 10pt;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+TT {
+    background-color: #e3e3e3;
+    font-size: 8pt;
 }
 
 .enhanced {
