@@ -48,6 +48,7 @@ LAST_HASH=`cat $LAST_HASH_FILE`
 LOCAL_ROOT=`git rev-parse --show-toplevel`
 HEAD_HASH=`git rev-parse HEAD`
 CHANGES=`git diff --name-only $LAST_HASH $HEAD_HASH`
+NEW_DIRS=`git diff-tree $LAST_HASH $HEAD_HASH | cut -f 5 -d ' ' | grep ^A | cut -f 2`
 
 if [ -z $CHANGES ]; then
     echo "Nothing to do." >&2
@@ -57,12 +58,17 @@ fi
 # Show the changes before we send them.
 echo "The last hash was $LAST_HASH"
 echo "Current HEAD is   $HEAD_HASH"
-echo 'Found the following files to upload:'
+if [ ! -z "$NEW_DIRS" ]; then
+    echo 'Found the following new directories:'
+    for i in $NEW_DIRS; do echo "    $i"; done
+fi
+echo 'Found the following new/changed files:'
 for i in $CHANGES; do echo "    $i"; done
 
 # TODO Ask user if they're sure.
 
 FTP_SCRIPT="passive\nbinary"
+# TODO Handle new directories
 for i in $CHANGES; do
     FTP_SCRIPT="$FTP_SCRIPT\ncd $FTP_ROOT/$(dirname $i)\nlcd $LOCAL_ROOT/$(dirname $i)\nput $(basename $i)"
 done
