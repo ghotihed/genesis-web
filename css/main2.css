@@ -84,6 +84,12 @@ H2.heading {
     font-size: 12pt;
 }
 
+H1.section {
+    text-align: center;
+    font-weight: bold;
+    font-size: 12pt;
+}
+
 H2.titletagline {
     text-align: center;
     font-weight: bold;
@@ -222,4 +228,14 @@ TT {
     background-color: #e3e3e3;
     color: black;
     border: solid black 1px;
+}
+
+table.conventions {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+table.conventions td {
+    padding-left: 10px;
+    padding-right: 10px;
 }
