@@ -26,10 +26,15 @@
       <H2 CLASS="titletagline">The Basingstoke science fiction club</H2>
 
       <p>This web site is in the process of being revamped completely. Yes, we know it looks
-      dated. This will be remedied soon-ish (<i>very</i> heavy on the -ish). Until then, you can consider
+      dated. This will be remedied soon-ish (<i>very</i> heavy on the -ish; the webmaster is <i>realllly</i> lazy).
+      Until then, you can consider
       what you see here as a sort of archive. Go ahead and click the links on the side bar,
       but keep in mind that much of the non-fictional information is woefully out of date.
       As the site gets updated, a subset of that information will be copied over.</p>
+
+      <hr>
+
+      <h1 class="section">Upcoming Meetings</h1>
 
       <p>The next meetings are listed below. For now, they're all planned to be held online
       using the Zoom platform. Connection information will be posted here, and on social media
@@ -38,19 +43,19 @@
       <p>The next scheduled meetings are as follows:</p>
       <ul>
           <li>
-              <b>Book Club Meeting:</b> Saturday, 17<sup>th</sup> July, 2021 at 14:00 BST (06:00 PDT / 09:00 EDT)
+              <b>Book Club Meeting:</b> Saturday, 14<sup>th</sup> August, 2021 at 14:00 BST (06:00 PDT / 09:00 EDT)
               <ul>
-                  <li><i>Join meeting:</i> <a href="https://zoom.us/j/99157615797?pwd=RHVjL1lpMWM0VjJtZWVWS0VSM0Mvdz09" target="_blank">Click here</a></li>
-                  <li><i>Meeting ID:</i> 991 5761 5797</li>
-                  <li><i>Password:</i> 235775</li>
+                  <li><i>Join meeting:</i> <a href="https://us06web.zoom.us/j/86210255483?pwd=VVJ4R1NpcFhtSEg2cTBQQzVOMjNOdz09" target="_blank">Click here</a></li>
+                  <li><i>Meeting ID:</i> 862 1025 5483</li>
+                  <li><i>Password:</i> 342519</li>
               </ul>
           </li>
           <li>
-              <b>General Club Meeting:</b> Sunday, 25<sup>th</sup> July, 2021 at 17:00 BST (09:00 PDT / 12:00 EDT)
+              <b>General Club Meeting:</b> Sunday, 22<sup>nd</sup> August, 2021 at 17:00 BST (09:00 PDT / 12:00 EDT)
               <ul>
-                  <li><i>Join meeting:</i> <a href="https://zoom.us/j/93420798025?pwd=bjdWZXI3QXFLdHpGMVZpVjlZSTFwUT09" target="_blank">Click here</a></li>
-                  <li><i>Meeting ID:</i> 934 2079 8025</li>
-                  <li><i>Password:</i> 193680</li>
+                  <li><i>Join meeting:</i> <a href="https://us06web.zoom.us/j/87834474751?pwd=M1FTVmMwVVA1QU8yYmsyQkhod1Y4UT09" target="_blank">Click here</a></li>
+                  <li><i>Meeting ID:</i> 878 3447 4751</li>
+                  <li><i>Password:</i> 536015</li>
               </ul>
           </li>
           <!--
@@ -72,16 +77,53 @@
       again, and various venues have re-opened, regular in-person meetings will resume. Until then, everybody
       stay safe!</p>
 
+      <hr/>
+
+      <h1 class="section">Upcoming Conventions</h1>
+      The following conventions are coming up. Various Genesis members will be attending them. For more information,
+      visit their respective web sites.
+
+     <table class="conventions">
+          <tr>
+              <td><a href="https://armadacon.org/">Armadacon</a></td>
+              <td>Plymouth, UK</td>
+              <td>5<sup>th</sup> November, 2021 - 7<sup>th</sup> November, 2021</td>
+          </tr>
+          <tr>
+              <td><a href="https://discon3.org/">Discon III (the 79<sup>th</sup> Worldcon)</a></td>
+              <td>Washington, DC, USA</td>
+              <td>15<sup>th</sup> December, 2021 - 19<sup>th</sup> December, 2021</td>
+          </tr>
+          <tr>
+              <td><a href="https://reclamation2022.co.uk/">Reclamation, the 72<sup>nd</sup> Eastercon</a></td>
+              <td><i>TBD</i>, UK</td>
+              <td>15<sup>th</sup> April, 2022 - 18<sup>th</sup> April, 2022</td>
+          </tr>
+          <tr>
+              <td><a href="https://dwcon.org">Discworld Convention</a></td>
+              <td>Birmingham, UK</td>
+              <td>19<sup>th</sup> August, 2022 - 22<sup>nd</sup> August, 2022</td>
+          </tr>
+          <tr>
+              <td><a href="https://chicon.org/">Chicon 8 (the 80<sup>th</sup> Worldcon)</a></td>
+              <td>Chicago, IL, USA</td>
+              <td>1<sup>st</sup> September, 2022 - 5<sup>th</sup> September, 2022</td>
+          </tr>
+      </table>
+
+      <hr/><br/>
 
       <div class="enhanced">
           <center><b>Macmillan Cancer Support</b></center>
           <p>A long-time member of the club, David Offen-James, is trying to raise money for the Macmillan Cancer Support by running
-          in the 2021 London Marathon. This is in response to our long-time friend Jeremy Ogden dying of cancer, and in support
+          in the 2021 London Marathon on 3<sup>rd</sup> October, 2021. This is in response to our long-time friend Jeremy Ogden dying of cancer, and in support
           for his wife Susan's battle with cancer. (He also really enjoys running.)</p>
           <p>You can read more about it on <a href="https://uk.virginmoneygiving.com/DavidOffenJames" target="_blank">David's Giving Page</a>. You
           can also make a donation there.</p>
           <p>Please be generous and give.</p>
       </div>
+
+      <br/><hr/>
 
       <b>Find us on social media!</b>
 
