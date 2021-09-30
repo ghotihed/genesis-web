@@ -45,7 +45,8 @@ it will be applied to the `main` branch, and the hosted web site will be updated
 ## Contributions
 If you wish to contribute, please create your personal branch off the appropriate `orig` or `jekyll` or `main` branches.
 When you have completed your changes, you will need to generate a Pull Request and get approval before merging into one
-of those other branches.
+of those other branches. You will find a more detailed description of how to make changes
+in the [Changes document](CHANGES.md).
 
 ---
 <sup>1</sup> The definition of _stable point_ for any particular branch will be decided by the Genesis committee.
