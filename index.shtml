@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
   <HEAD>
     <META charset="utf-8">
      <META NAME="author" CONTENT="Genesis Sci-fi club">
@@ -113,91 +113,21 @@
 
       <hr/><br/>
 
-      <div class="enhanced">
-          <center><b>Macmillan Cancer Support</b></center>
-          <p>A long-time member of the club, David Offen-James, is trying to raise money for the Macmillan Cancer Support by running
-          in the 2021 London Marathon on 3<sup>rd</sup> October, 2021. This is in response to our long-time friend Jeremy Ogden dying of cancer, and in support
-          for his wife Susan's battle with cancer. (He also really enjoys running.)</p>
-          <p>You can read more about it on <a href="https://uk.virginmoneygiving.com/DavidOffenJames" target="_blank">David's Giving Page</a>. You
-          can also make a donation there.</p>
-          <p>Please be generous and give.</p>
-      </div>
-
-      <br/><hr/>
-
       <b>Find us on social media!</b>
 
       <table>
           <tr>
-              <td><a href="https://www.facebook.com/groups/genesis.scifi" target="_blank"><img src="images/facebook-logo.svg" width="40" height="40"/></a></td>
-              <td><a href="https://twitter.com/Genesis_SciFi" target="_blank"><img src="images/twitter-logo-250x250.png" width="40" height="40"/></a></td>
-              <td><a href="https://instagram.com/Genesis_SciFi"target="_blank"><img src="images/instagram-logo-250x250.png" width="40" height="40"/></a></td>
+              <td><a href="https://www.facebook.com/groups/genesis.scifi" target="_blank"><img src="images/facebook-logo.svg" alt="Facebook" width="40" height="40"/></a></td>
+              <td><a href="https://twitter.com/Genesis_SciFi" target="_blank"><img src="images/twitter-logo-250x250.png" alt="Twitter" width="40" height="40"/></a></td>
+              <td><a href="https://instagram.com/Genesis_SciFi" target="_blank"><img src="images/instagram-logo-250x250.png" alt="Instagram" width="40" height="40"/></a></td>
           </tr>
       </table>
 
-      <!--
-
-      <IMG SRC="/images/goldChannel.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Gold Channel">
-      <H2 CLASS="textboxtitle">Gold Channel for Sunday 20<sup>th</sup> October 2019</H2>
-      <DIV CLASS="textboxshrunken" ID="goldChannelOctober">
-        <H3><font color="goldenrod">GOLD CHANNEL</font></H3>
-        <P>Hi everybody from your chair René! Well, the weather has finally decided that summer is well and truly over, and is trying to make up for any lack of rain this summer with a vengeance. Myself and a group of Genesis-ites went to see Little Sho…</P>
-        <P>...t the Haymar...</P>
-        <P>Quail, minions!</P>
-        <P>Do not adjust your piece of paper. I've hijacked both the Genesis program and the Gold Channel this month, and there's nothing any of you can do about it!</P>
-        <P>I've decided to abuse this new power, and celebrate my staggering old age, by bringing you a selection of science fiction episodes and movies from the very year I was born: 1979. In fact, wherever possible I've chosen the episode closest to the day I was born. Let's have a blast from the past.</P>
-        <P>I've no doubt there are some absolute stinkers in the mix, and I don't care. Mwa-ha-ha-ha-ha!,</P>
-        <P>Your new overlord,</P>
-        <P>Marcus Downing</P>
-      </DIV>
-      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="goldChannelControlOctober">more</A>
-
-      <A HREF="http://www3.hants.gov.uk/library/south-ham-library.htm" TARGET="_blank">
-        <IMG SRC="/images/BookClub2.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Book Club"></A>
-      <H2 CLASS="textboxtitle">Next Book Club - 28<SUP>th</SUP> March</H2>
-      <DIV CLASS="textboxshrunken" ID="nextBookClub">
-        <P>At <A HREF="http://www3.hants.gov.uk/library/south-ham-library.htm" TARGET="_blank">South Ham library</A>, 10:00am till 12:00pm (1000 - 1200). (<A HREF="https://maps.google.co.uk/maps?q=south+ham+library&hl=en&ll=51.257591,-1.118374&spn=0.006123,0.027423&hq=south+ham+library&hnear=Reading,+United+Kingdom&t=m&z=15&layer=c&cbll=51.257612,-1.118405&panoid=CxkUWgdz3OGEbhR-gRB5JQ&cbp=11,61.98,,0,8.45"
-          TARGET="_blank">map</A>).  Discuss what books and graphic novels are new and what's worth reading.</P>
-        <P>Later Saturday meetings:</P>
-        <UL CLASS="datelist">
-          <LI>25<SUP>th</SUP> April</LI>
-          <LI>23<SUP>rd</SUP> May</LI>
-          <LI>20<SUP>th</SUP> June</LI>
-          <LI>18<SUP>th</SUP> July</LI>
-          <LI>15<SUP>th</SUP> August</LI>
-          <LI>12<SUP>th</SUP> September</LI>
-          <LI>10<SUP>th</SUP> October</LI>
-          <LI>7<SUP>th</SUP> November</LI>
-          <LI>5<SUP>th</SUP> December</LI>
-        </UL>
-      </DIV>
-      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="nextBookClubControl">more</A>
-
-      <A HREF="http://redlionhotelbasingstoke.com/" TARGET="_blank">
-        <IMG SRC="images/RedLion.png" CLASS="subtitle" WIDTH="70" HEIGHT="70" ALT="Red Lion Hotel"></A>
-      <H2 CLASS="textboxtitle">Next Club Meeting - 5<SUP>th</SUP> April</H2>
-      <DIV CLASS="textboxshrunken" ID="nextClubMeeting">
-        <P>At <A HREF="http://redlionhotelbasingstoke.com/" TARGET="_blank">Red Lion Hotel</A> in Basingstoke, 3:00pm till 9:30pm (1500 - 2130). (<A HREF="https://www.google.co.uk/maps/place/The+Red+Lion+Hotel,+Red+Lion+Ln,+Basingstoke,+Hampshire+RG21/@51.2684613,-1.0459393,12z/data=!4m2!3m1!1s0x487421816de3fd77:0x21fba295fb84c855?hl=en-GB"
-          TARGET="_blank">map</A>).</P>
-        <P>Later Sunday meetings:</P>
-        <UL CLASS="datelist">
-          <LI>3<SUP>th</SUP> May</LI>
-          <LI>26<SUP>th</SUP> July</LI>
-          <LI>23<SUP>th</SUP> August</LI>
-          <LI>20<SUP>th</SUP> September</LI>
-          <LI>18<SUP>th</SUP> October</LI>
-          <LI>15<SUP>th</SUP> November</LI>
-        </UL>
-      </DIV>
-      <A CLASS="textboxcontrol" ONCLICK="toggleTextBoxByControl(this);" ID="nextClubMeetingControl">more</A>
-
-      -->
-
     </DIV>
-    <DIV style="font-align: center;">
+    <DIV>
 	  <!--#include virtual="/includes/copyright.htm" -->
       <!--#config timefmt="%A, %d %B %Y %H:%M" -->
-	  <P CLASS="copyright" STYLE="font-align: center;">Page Last Modifed: <!--#echo var="LAST_MODIFIED" --></P>
+	  <P CLASS="copyright">Page Last Modifed: <!--#echo var="LAST_MODIFIED" --></P>
 	</DIV>
 </BODY>
 </html>
