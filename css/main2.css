@@ -29,7 +29,7 @@ DIV.mainbody {
     min-height: 600px;
     min-width: 640px;
     overflow: auto;
-    margin: 6px 6px 6px 6px;
+    margin: 6px 6px 10px 6px;
     padding: 0px 8px 0px 8px;
     border: solid black 0px;
 }
@@ -96,6 +96,12 @@ H2.titletagline {
     font-size: 10pt;
 }
 
+H2.column {
+    text-align: left;
+    font-weight: bold;
+    font-size: 12pt;
+}
+
 H2.subtitle {
     text-align: left;
     font-weight: bold;
@@ -109,6 +115,15 @@ H2.textboxtitle {
     font-size: 10pt;
     margin-top: 0px;
     margin-bottom: 0px;
+}
+
+DIV.column {
+    float: left;
+    margin-right: 20px;
+}
+
+DIV.column_container {
+
 }
 
 DIV.textboxshrunken {
@@ -238,4 +253,7 @@ table.conventions {
 table.conventions td {
     padding-left: 10px;
     padding-right: 10px;
+}
+
+table.links {
 }
