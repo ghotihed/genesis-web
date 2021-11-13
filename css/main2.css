@@ -255,4 +255,5 @@ table.links th {
 
 table.links td {
     text-align: left;
+    vertical-align: top;
 }
