@@ -117,15 +117,6 @@ H2.textboxtitle {
     margin-bottom: 0px;
 }
 
-DIV.column {
-    float: left;
-    margin-right: 20px;
-}
-
-DIV.column_container {
-
-}
-
 DIV.textboxshrunken {
     height: 60px;
     overflow: hidden;
@@ -255,5 +246,13 @@ table.conventions td {
     padding-right: 10px;
 }
 
-table.links {
+table.links th {
+    text-align: left;
+    font-weight: bold;
+    font-size: 12pt;
+    padding-right: 20px;
+}
+
+table.links td {
+    text-align: left;
 }

@@ -113,29 +113,22 @@
 
       <hr/><br/>
 
-      <DIV CLASS="column_container">
-        <DIV CLASS="column">
-          <H2 CLASS="column">Find us on social media!</H2>
-
-          <table class="links">
-            <tr>
-              <td><a href="https://www.facebook.com/groups/genesis.scifi" target="_blank"><img src="images/facebook-logo.svg" alt="Facebook" width="40" height="40"/></a></td>
-              <td><a href="https://twitter.com/Genesis_SciFi" target="_blank"><img src="images/twitter-logo-250x250.png" alt="Twitter" width="40" height="40"/></a></td>
-              <td><a href="https://instagram.com/Genesis_SciFi" target="_blank"><img src="images/instagram-logo-250x250.png" alt="Instagram" width="40" height="40"/></a></td>
-            </tr>
-          </table>
-        </DIV>
-
-        <DIV CLASS="column">
-          <H2 CLASS="column">Donate!</H2>
-
-          <table class="links">
-            <tr>
-              <td><a href="https://www.buymeacoffee.com/genesissf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></td>
-            </tr>
-          </table>
-        </DIV>
-      </DIV>
+	  <table class="links">
+	    <tr>
+	      <th>Find us on social media!</th>
+	      <th>Donate!</th>
+	    </tr>
+	    <tr>
+	      <td>
+                <a href="https://www.facebook.com/groups/genesis.scifi" target="_blank"><img src="images/facebook-logo.svg" alt="Facebook" width="40" height="40"/></a>
+                <a href="https://twitter.com/Genesis_SciFi" target="_blank"><img src="images/twitter-logo-250x250.png" alt="Twitter" width="40" height="40"/></a>
+                <a href="https://instagram.com/Genesis_SciFi" target="_blank"><img src="images/instagram-logo-250x250.png" alt="Instagram" width="40" height="40"/></a>
+              </td>
+	      <td>
+                <a href="https://www.buymeacoffee.com/genesissf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+              </td>
+	    </tr>
+	  </table>
     </DIV>
     <DIV>
 	  <!--#include virtual="/includes/copyright.htm" -->
