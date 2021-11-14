@@ -246,6 +246,10 @@ table.conventions td {
     padding-right: 10px;
 }
 
+table.links {
+    width: 100%;
+}
+
 table.links th {
     text-align: left;
     font-weight: bold;

@@ -120,12 +120,12 @@
 	    </tr>
 	    <tr>
 	      <td>
-                <a href="https://www.facebook.com/groups/genesis.scifi" target="_blank"><img src="images/facebook-logo.svg" alt="Facebook" width="40" height="40"/></a>
-                <a href="https://twitter.com/Genesis_SciFi" target="_blank"><img src="images/twitter-logo-250x250.png" alt="Twitter" width="40" height="40"/></a>
-                <a href="https://instagram.com/Genesis_SciFi" target="_blank"><img src="images/instagram-logo-250x250.png" alt="Instagram" width="40" height="40"/></a>
+                <a href="https://www.facebook.com/groups/genesis.scifi" target="_blank"><img src="images/facebook-logo.svg" alt="Facebook" width="50" height="50"/></a>
+                <a href="https://twitter.com/Genesis_SciFi" target="_blank"><img src="images/twitter-logo-250x250.png" alt="Twitter" width="50" height="50"/></a>
+                <a href="https://instagram.com/Genesis_SciFi" target="_blank"><img src="images/instagram-logo-250x250.png" alt="Instagram" width="50" height="50"/></a>
               </td>
-	      <td>
-                <a href="https://www.buymeacoffee.com/genesissf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+	      <td style="width: 181px;">
+                <a href="https://www.buymeacoffee.com/genesissf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 181px !important;" ></a>
               </td>
 	    </tr>
 	  </table>
