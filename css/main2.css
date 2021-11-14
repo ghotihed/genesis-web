@@ -29,7 +29,7 @@ DIV.mainbody {
     min-height: 600px;
     min-width: 640px;
     overflow: auto;
-    margin: 6px 6px 6px 6px;
+    margin: 6px 6px 10px 6px;
     padding: 0px 8px 0px 8px;
     border: solid black 0px;
 }
@@ -94,6 +94,12 @@ H2.titletagline {
     text-align: center;
     font-weight: bold;
     font-size: 10pt;
+}
+
+H2.column {
+    text-align: left;
+    font-weight: bold;
+    font-size: 12pt;
 }
 
 H2.subtitle {
@@ -238,4 +244,20 @@ table.conventions {
 table.conventions td {
     padding-left: 10px;
     padding-right: 10px;
+}
+
+table.links {
+    width: 100%;
+}
+
+table.links th {
+    text-align: left;
+    font-weight: bold;
+    font-size: 12pt;
+    padding-right: 20px;
+}
+
+table.links td {
+    text-align: left;
+    vertical-align: top;
 }
