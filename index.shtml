@@ -43,6 +43,26 @@
       <p>The next scheduled meetings are as follows:</p>
       <ul>
           <li>
+              <p><b>The Dice Tower Basingstoke Grand Opening</b>: Wednesday, 19<sup>th</sup> January, 2022 at 18:00 GMT (10:00 PST / 13:00 EST)<br/>
+              The Dice Tower is a gaming coffee house that is opening at the old Red Lion Café. We want to show our
+              solidarity and establish links, because this looks like a really good place for us to meet up in person
+              when the plague has departed.</p>
+              <p>Their address is:</p>
+<!--              <table style="margin-left: 35px; margin-bottom: 10px; padding: 0; border: 0; border-collapse: collapse;">-->
+              <table class="address">
+                  <tr><td>The Dice Tower / Red Lion Café</td></tr>
+                  <tr><td>24 London St</td></tr>
+                  <tr><td>Basingstoke</td></tr>
+                  <tr><td>RG21 7NY</td></tr>
+              </table>
+              <p>
+                  Note that the main entrance <i>appears</i> to be in the back of the Red Lion,
+                  directly across from The Lime Leaf restaurant. It is the grand opening, after
+                  all, and we're not 100% certain that'll be the main entrance. It could potentially
+                  be through the Red Lion Hotel, itself. Either way, don't forget your mask!
+              </p>
+          </li>
+          <li>
               <b>Book Club Meeting:</b> Saturday, 29<sup>th</sup> January, 2022 at 14:00 GMT (06:00 PST / 09:00 EST)
               <ul>
                   <li><i>Join meeting:</i> <a href="https://us06web.zoom.us/j/89533632182?pwd=cXRvZms4cjF0eUJkUk9lUVIwYmhFQT09" target="_blank">Click here</a></li>
