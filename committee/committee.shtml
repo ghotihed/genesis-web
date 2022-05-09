@@ -21,7 +21,7 @@
       <h2 class="heading">Committee Members</h2>
       The current committee members are as follows:
       <ul>
-      <table>
+      <table style="width: 50%;">
           <tr>
               <th>Name</th>
               <th>Position</th>
@@ -35,7 +35,7 @@
               <td>Treasurer</td>
           </tr>
           <tr>
-              <td>David Offen-James</td>
+              <td><i>Nobah D. Atoll</i></td>
               <td>Secretary</td>
           </tr>
           <tr>
