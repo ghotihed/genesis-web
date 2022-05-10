@@ -43,7 +43,7 @@
       <p>The next scheduled meetings are as follows:</p>
       <ul>
           <li>
-              <b>In-Person Gaming Night:</b> Thursday, 21<sup>st</sup> April, 2022 at 19:30 BST
+              <b>In-Person Gaming Night:</b> Friday, 20<sup>th</sup> May, 2022 at 19:30 BST
               <ul>
                   <li><i>Meeting location:</i> <a href="https://www.google.com/maps/place/Dice+Tower+Cafe+%26+Gaming/@51.2624339,-1.0871107,17z/data=!4m5!3m4!1s0x0:0x8ee6556c7ed74555!8m2!3d51.2624339!4d-1.084922" target="_blank">Dice Tower Cafe & Gaming, 24 London St, Basingstoke, RG21 7NY</a></li>
                   <li><i>Games to bring:</i> Anything you think they might not already have that you'd like to play</li>
@@ -51,19 +51,19 @@
               </ul>
           </li>
           <li>
-              <b>Book Club Meeting:</b> Saturday, 23<sup>rd</sup> April, 2022 at 14:00 BST (06:00 PDT / 09:00 EDT)
+              <b>Book Club Meeting:</b> Saturday, 21<sup>st</sup> May, 2022 at 14:00 BST (06:00 PDT / 09:00 EDT)
               <ul>
-                  <li><i>Join meeting:</i> <a href="https://us06web.zoom.us/j/87112145141?pwd=UWkvVlJvQ0FVUTlJWldUaGtDN2RQUT09" target="_blank">Click here</a></li>
-                  <li><i>Meeting ID:</i> 871 1214 5141</li>
-                  <li><i>Password:</i> 326305</li>
+                  <li><i>Join meeting:</i> <a href="https://us06web.zoom.us/j/83074057833?pwd=SUdMaUwyNTRjOTJHNVZkV1l5M2k5QT09" target="_blank">Click here</a></li>
+                  <li><i>Meeting ID:</i> 830 7405 7833</li>
+                  <li><i>Password:</i> 084952</li>
               </ul>
           </li>
           <li>
-              <b>General Club Meeting:</b> Sunday, 1<sup>st</sup> May, 2022 at 17:00 BST (09:00 PDT / 12:00 EDT)
+              <b>General Club Meeting:</b> Sunday, 29<sup>th</sup> May, 2022 at 17:00 BST (09:00 PDT / 12:00 EDT)
               <ul>
-                  <li><i>Join meeting:</i> <a href="https://us06web.zoom.us/j/89960365531?pwd=ZnJaOUNVNG1jcFFEY3loUktyUTZLQT09" target="_blank">Click here</a></li>
-                  <li><i>Meeting ID:</i> 899 6036 5531</li>
-                  <li><i>Password:</i> 336706</li>
+                  <li><i>Join meeting:</i> <a href="https://us06web.zoom.us/j/86732775389?pwd=UXNOUzg5YW5ydmx3bVJ6ek01R2xyUT09" target="_blank">Click here</a></li>
+                  <li><i>Meeting ID:</i> 867 3277 5389</li>
+                  <li><i>Password:</i> 697711</li>
               </ul>
           </li>
           <!--
@@ -92,31 +92,42 @@
       visit their respective web sites.
 
      <table class="conventions">
-          <tr>
-              <td><a href="https://reclamation2022.co.uk/">Reclamation, the 72<sup>nd</sup> Eastercon</a></td>
-              <td>London, UK</td>
-              <td>15<sup>th</sup> April, 2022 - 18<sup>th</sup> April, 2022</td>
-          </tr>
-          <tr>
-              <td><a href="https://dwcon.org">Discworld Convention</a></td>
-              <td>Birmingham, UK</td>
-              <td>19<sup>th</sup> August, 2022 - 22<sup>nd</sup> August, 2022</td>
-          </tr>
-          <tr>
-              <td><a href="https://chicon.org/">Chicon 8 (the 80<sup>th</sup> Worldcon)</a></td>
-              <td>Chicago, IL, USA</td>
-              <td>1<sup>st</sup> September, 2022 - 5<sup>th</sup> September, 2022</td>
-          </tr>
-          <tr>
-              <td><a href="https://armadacon.org/">ArmadaCon</a></td>
-              <td>Plymouth, UK</td>
-              <td>4<sup>th</sup> November, 2022 - 6<sup>th</sup> November, 2022</td>
-          </tr>
          <tr>
-              <td><a href="http://www.worldconinchina.com/">Worldcon 81 (the 81<sup>st</sup> Worldcon)</a></td>
-              <td>Chengdu, China</td>
-              <td>16<sup>th</sup> August, 2023 - 20<sup>th</sup> August, 2023</td>
+             <td><a href="https://dwcon.org">Discworld Convention</a></td>
+             <td>Birmingham, UK</td>
+             <td>19<sup>th</sup> August, 2022 - 22<sup>nd</sup> August, 2022</td>
          </tr>
+         <tr>
+             <td><a href="https://chicon.org/">Chicon 8 (the 80<sup>th</sup> Worldcon)</a></td>
+             <td>Chicago, IL, USA</td>
+             <td>1<sup>st</sup> September, 2022 - 5<sup>th</sup> September, 2022</td>
+         </tr>
+         <tr>
+             <td><a href="https://www.bristolcon.org/">BristolCon</a></td>
+             <td>Bristol, UK</td>
+             <td>29<sup>th</sup> October, 2022</td>
+         </tr>
+         <tr>
+             <td><a href="https://armadacon.org/">ArmadaCon</a></td>
+             <td>Plymouth, UK</td>
+             <td>4<sup>th</sup> November, 2022 - 6<sup>th</sup> November, 2022</td>
+         </tr>
+         <tr>
+             <td><a href="https://www.conversation2023.org.uk/">Conversation, the 73<sup>rd</sup> Eastercon</a></td>
+             <td><i>TBD</i></td>
+             <td>7<sup>th</sup> April, 2022 - 10<sup>th</sup> April, 2023</td>
+         </tr>
+         <tr>
+             <td><a href="http://www.worldconinchina.com/">Worldcon 81 (the 81<sup>st</sup> Worldcon)</a></td>
+             <td>Chengdu, China</td>
+             <td>16<sup>th</sup> August, 2023 - 20<sup>th</sup> August, 2023</td>
+         </tr>
+         <tr>
+             <td><a href="https://glasgow2024.org/">Glasgow Worldcon (the 82<sup>nd</sup> Worldcon)</a></td>
+             <td>Glasgow, UK</td>
+             <td>8<sup>th</sup> August, 2024 - 12<sup>th</sup> August, 2024</td>
+         </tr>
+         <tr><td colspan="100%"><ul><li><i>Note that while this is still only a bid, it is running unopposed with registrations for further bids closed.</i></li></ul></td></tr>
       </table>
 
       <hr/><br/>
