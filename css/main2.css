@@ -270,3 +270,13 @@ table.address {
     border: 0;
     border-collapse: collapse;
 }
+
+.showable-blur {
+  color:transparent;
+  text-shadow: 0 0 8px #000;
+}
+
+.showable-blur:active {
+  color:inherit;
+  text-shadow: none;
+}
