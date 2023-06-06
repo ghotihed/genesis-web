@@ -60,15 +60,7 @@
           </li>
           -->
           <li>
-              <b>General Club Meeting:</b> Sunday, 30<sup>th</sup> April, 2023 at 17:00 BST (09:00 PDT / 12:00 EDT)
-              <ul>
-                  <li><i>Join meeting:</i> <a href="https://us06web.zoom.us/j/82531903575?pwd=dHYwZ01kVG9MSTJlbkJvYkt2Q3Zodz09" target="_blank">Click here</a></li>
-                  <li><i>Meeting ID:</i> 825 3190 3575</li>
-                  <li><i>Password:</i> 710914</li>
-              </ul>
-          </li>
-          <li>
-              <b>In-Person Gaming Night:</b> Tuesday, 16<sup>th</sup> May, 2023 at 19:00 BST
+              <b>In-Person Gaming Night:</b> Tuesday, 13<sup>th</sup> June, 2023 at 19:00 BST
               <ul>
                   <li><i>Meeting location:</i> <a href="https://www.google.com/maps/place/Dice+Tower+Cafe+%26+Gaming/@51.2624339,-1.0871107,17z/data=!4m5!3m4!1s0x0:0x8ee6556c7ed74555!8m2!3d51.2624339!4d-1.084922" target="_blank">Dice Tower Cafe & Gaming, 24 London St, Basingstoke, RG21 7NY</a></li>
                   <li><i>Games to bring:</i> Anything you think they might not already have that you'd like to play</li>
@@ -76,19 +68,19 @@
               </ul>
           </li>
           <li>
-              <b>Book Club Meeting:</b> Saturday, 20<sup>th</sup> May, 2023 at 14:00 BST (06:00 PDT / 09:00 EDT)
+              <b>Book Club Meeting:</b> Saturday, 17<sup>th</sup> June, 2023 at 14:00 BST (06:00 PDT / 09:00 EDT)
               <ul>
-                  <li><i>Join meeting:</i> <a href="https://us06web.zoom.us/j/84924611798?pwd=NjJmbzRnbXVrMkNUMkVuNVNsQjhPQT09" target="_blank">Click here</a></li>
-                  <li><i>Meeting ID:</i> 849 2461 1798</li>
-                  <li><i>Password:</i> 514304</li>
+                  <li><i>Join meeting:</i> <a href="https://us06web.zoom.us/j/88903666377?pwd=TWY3bmdtbHM2OW9jWjdFSkJJcU9IQT09" target="_blank">Click here</a></li>
+                  <li><i>Meeting ID:</i> 889 0366 6377</li>
+                  <li><i>Password:</i> 531750</li>
               </ul>
           </li>
           <li>
-              <b>General Club Meeting:</b> Sunday, 28<sup>th</sup> May, 2023 at 17:00 BST (09:00 PDT / 12:00 EDT)
+              <b>General Club Meeting:</b> Sunday, 25<sup>th</sup> June, 2023 at 17:00 BST (09:00 PDT / 12:00 EDT)
               <ul>
-                  <li><i>Join meeting:</i> <a href="https://us06web.zoom.us/j/83365330969?pwd=VUFHYS9qa3QxSDRUbUJ0L2FXVW9iZz09" target="_blank">Click here</a></li>
-                  <li><i>Meeting ID:</i> 833 6533 0969</li>
-                  <li><i>Password:</i> 367324</li>
+                  <li><i>Join meeting:</i> <a href="https://us06web.zoom.us/j/86326486678?pwd=TURJaG9hS2FpR2xOeEc3S09ZdWRxZz09" target="_blank">Click here</a></li>
+                  <li><i>Meeting ID:</i> 863 2648 6678</li>
+                  <li><i>Password:</i> 143965</li>
               </ul>
           </li>
       </ul>
@@ -100,11 +92,6 @@
       visit their respective web sites.</p>
 
      <table class="conventions">
-         <tr>
-             <td><a href="https://www.basingstokecomiccon.com/">Basingstoke Comic Con</a></td>
-             <td>Basingstoke, UK</td>
-             <td>19<sup>th</sup> May, 2023 - 21<sup>st</sup> May, 2023</td>
-         </tr>
          <tr>
              <td><a href="http://www.worldconinchina.com/">Worldcon 81 (the 81<sup>st</sup> Worldcon)</a></td>
              <td>Chengdu, China</td>
@@ -126,6 +113,11 @@
              <td>29<sup>th</sup> March, 2024 - 1<sup>st</sup> April, 2024</td>
          </tr>
          <tr>
+             <td><a href="https://www.basingstokecomiccon.com/">Basingstoke Comic Con</a></td>
+             <td>Basingstoke, UK</td>
+             <td>10<sup>th</sup> May, 2024 - 12<sup>th</sup> May, 2024</td>
+         </tr>
+         <tr>
              <td><a href="https://glasgow2024.org/">Glasgow Worldcon (the 82<sup>nd</sup> Worldcon)</a></td>
              <td>Glasgow, UK</td>
              <td>8<sup>th</sup> August, 2024 - 12<sup>th</sup> August, 2024</td>
@@ -133,7 +125,7 @@
          <tr>
              <td><a href="https://easterconbelfast.org/">Reconnect - Eastercon 2025</a></td>
              <td>Belfast, Northern Ireland</td>
-             <td>18<sup>th</sup> April, 2023 - 21<sup>st</sup> April, 2025</td>
+             <td>18<sup>th</sup> April, 2025 - 21<sup>st</sup> April, 2025</td>
          </tr>
       </table>
 
@@ -159,7 +151,7 @@
     <DIV>
 	  <!--#include virtual="/includes/copyright.htm" -->
       <!--#config timefmt="%A, %d %B %Y %H:%M" -->
-	  <P CLASS="copyright">Page Last Modifed: <!--#echo var="LAST_MODIFIED" --></P>
+	  <P CLASS="copyright">Page Last Modified: <!--#echo var="LAST_MODIFIED" --></P>
 	</DIV>
 </BODY>
 </html>
