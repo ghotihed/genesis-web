@@ -60,8 +60,16 @@
           </li>
           -->
           <li>
-              <b>In-Person Gaming Night:</b> <span style="text-decoration: line-through">Tuesday, 31<sup>st</sup> October, 2023 at 19:00 GMT</span>
-              <div style="margin: 0 10px 10px;">This month's meeting is cancelled due to Hallowe'en.</div>
+              <b>General Club Meeting:</b> Sunday, 10<sup>th</sup> December, 2023 at 17:00 GMT (09:00 PST / 12:00 EST)
+              <ul>
+                  <li><i>Join meeting:</i> <a href="https://us06web.zoom.us/j/81251568025?pwd=QN0KoaZS7nOiwrvysA0mj8O6ChponS.1" target="_blank">Click here</a></li>
+                  <li><i>Meeting ID:</i> 812 5156 8025</li>
+                  <li><i>Password:</i> 355307</li>
+              </ul>
+          </li>
+          <li>
+              <b>In-Person Gaming Night:</b> <span style="text-decoration: line-through">Tuesday, 26<sup>th</sup> December, 2023 at 19:00 GMT</span>
+              <div style="margin: 0 10px 10px;">This month's meeting is cancelled due to Boxing Day.</div>
               <!--<ul>-->
               <!--    <li><i>Meeting location:</i> <a href="https://www.google.com/maps/place/Dice+Tower+Cafe+%26+Gaming/@51.2624339,-1.0871107,17z/data=!4m5!3m4!1s0x0:0x8ee6556c7ed74555!8m2!3d51.2624339!4d-1.084922" target="_blank">Dice Tower Cafe & Gaming, 24 London St, Basingstoke, RG21 7NY</a></li>-->
               <!--    <li><i>Games to bring:</i> Anything you think they might not already have that you'd like to play</li>-->
@@ -69,20 +77,13 @@
               <!--</ul>-->
           </li>
           <li>
-              <b>Book Club Meeting:</b> Saturday, 4<sup>th</sup> November, 2023 at 14:00 GMT (07:00 PDT / 10:00 EDT)
-              <ul>
-                  <li><i>Join meeting:</i> <a href="https://us06web.zoom.us/j/85784885080?pwd=jLKCgRp3kQi2htxUQynZgQ9ubRD9zb.1" target="_blank">Click here</a></li>
-                  <li><i>Meeting ID:</i> 857 8488 5080</li>
-                  <li><i>Password:</i> 729851</li>
-              </ul>
-          </li>
-          <li>
-              <b>General Club Meeting:</b> Sunday, 12<sup>th</sup> November, 2023 at 17:00 GMT (09:00 PST / 12:00 EST)
-              <ul>
-                  <li><i>Join meeting:</i> <a href="https://us06web.zoom.us/j/83109574025?pwd=kCZw2Gqvtz72uhrjV1AZqZIwYQ4NYB.1" target="_blank">Click here</a></li>
-                  <li><i>Meeting ID:</i> 831 0957 4025</li>
-                  <li><i>Password:</i> 883543</li>
-              </ul>
+              <b>Book Club Meeting:</b> <span style="text-decoration: line-through">Saturday, 30<sup>th</sup> December, 2023 at 14:00 GMT (07:00 PDT / 10:00 EDT)</span>
+              <div style="margin: 0 10px 10px;">This month's meeting is cancelled due to New Year's preparations.</div>
+              <!--<ul>-->
+              <!--    <li><i>Join meeting:</i> <a href="https://us06web.zoom.us/j/85784885080?pwd=jLKCgRp3kQi2htxUQynZgQ9ubRD9zb.1" target="_blank">Click here</a></li>-->
+              <!--    <li><i>Meeting ID:</i> 857 8488 5080</li>-->
+              <!--    <li><i>Password:</i> 729851</li>-->
+              <!--</ul>-->
           </li>
       </ul>
       
@@ -93,11 +94,6 @@
       visit their respective web sites.</p>
 
      <table class="conventions">
-         <tr>
-             <td><a href="https://armadacon.org/">ArmadaCon</a></td>
-             <td>Plymouth, UK</td>
-             <td>3<sup>rd</sup> November, 2023 - 5<sup>th</sup> November, 2023</td>
-         </tr>
          <tr>
              <td><a href="https://eastercon2024.co.uk/">Levitation, the 74<sup>th</sup> Eastercon</a></td>
              <td>Telford, UK</td>
@@ -112,6 +108,11 @@
              <td><a href="https://glasgow2024.org/">Glasgow Worldcon (the 82<sup>nd</sup> Worldcon)</a></td>
              <td>Glasgow, UK</td>
              <td>8<sup>th</sup> August, 2024 - 12<sup>th</sup> August, 2024</td>
+         </tr>
+         <tr>
+             <td><a href="https://armadacon.org/">ArmadaCon</a></td>
+             <td>Plymouth, UK</td>
+             <td>1<sup>st</sup> November, 2024 - 3<sup>rd</sup> November, 2024</td>
          </tr>
          <tr>
              <td><a href="https://easterconbelfast.org/">Reconnect - Eastercon 2025</a></td>
