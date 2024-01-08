@@ -1,0 +1,186 @@
+@charset "utf-8";
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.page-title {
+    text-align: center;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: linear-gradient(180deg, rgba(0,133,226,1) 25%, rgba(167,193,233,0) 100%);
+}
+
+.page-title h1 {
+    font-size: 20pt;
+    margin-bottom: 0;
+}
+
+.page-title h2 {
+    font-size: 16pt;
+    margin-top: 0;
+}
+
+.content {
+    margin: 6px 6px 10px 6px;
+    padding: 0 8px 0 8px;
+    font-size: 12pt;
+}
+
+.meetings-list-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20pt;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /*border-top: black solid 1px;*/
+    background: linear-gradient(180deg, rgba(0,133,226,1) 25%, rgba(167,193,233,0) 100%);
+}
+
+.meetings-list {
+}
+
+.meetings-list ol, .meetings-list ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.meeting-name {
+    font-weight: bold;
+}
+
+.meeting-date {
+}
+
+.meeting-date-international {
+    font-style: italic;
+}
+
+.conventions-list-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20pt;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /*border-top: black solid 1px;*/
+    background: linear-gradient(180deg, rgba(0,133,226,1) 25%, rgba(167,193,233,0) 100%);
+}
+
+.conventions-list {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-collapse: collapse;
+}
+
+.conventions-list td {
+    padding: 2px 8px 2px;
+}
+
+.conventions-list tr:nth-child(odd) {
+    background-color: #e0e0e0;
+}
+
+.conventions-list-name {
+    font-weight: bold;
+}
+
+.conventions-list-location {
+}
+
+.conventions-list-dates {
+}
+
+/*----------------------------------*/
+
+.footer {
+    padding: 10px 8px 10px;
+    background-color: rgb(255, 243, 215);
+}
+
+.social-media-links {
+    width: 100%;
+}
+
+.social-media-links th {
+    text-align: left;
+    font-weight: bold;
+    font-size: 12pt;
+    padding-right: 20px;
+}
+
+.social-media-links td {
+    text-align: left;
+    vertical-align: top;
+}
+
+.copyright {
+    font-size: small;
+    text-align: center;
+}
+
+.last-modified {
+    padding-top: 5px;
+    font-size: x-small;
+    text-align: center;
+}
+
+
+/*.enhanced {*/
+/*    margin-left: 20px;*/
+/*    margin-right: 20px;*/
+/*    margin-bottom: 8px;*/
+/*    padding-left: 10px;*/
+/*    padding-right: 10px;*/
+/*    padding-top:8px;*/
+/*    background-color: #e3e3e3;*/
+/*    color: black;*/
+/*    border: solid black 1px;*/
+/*}*/
+
+/*table.conventions {*/
+/*    font-size: 10pt;*/
+/*    margin-left: 20px;*/
+/*    margin-top: 10px;*/
+/*}*/
+
+/*table.conventions td {*/
+/*    padding-left: 10px;*/
+/*    padding-right: 10px;*/
+/*}*/
+
+/*table.links {*/
+/*    width: 100%;*/
+/*}*/
+
+/*table.links th {*/
+/*    text-align: left;*/
+/*    font-weight: bold;*/
+/*    font-size: 12pt;*/
+/*    padding-right: 20px;*/
+/*}*/
+
+/*table.links td {*/
+/*    text-align: left;*/
+/*    vertical-align: top;*/
+/*}*/
+
+/*table.address {*/
+/*    margin-left: 35px;*/
+/*    margin-bottom: 10px;*/
+/*    padding: 0;*/
+/*    border: 0;*/
+/*    border-collapse: collapse;*/
+/*}*/
+
+/*.showable-blur {*/
+/*  color:transparent;*/
+/*  text-shadow: 0 0 8px #000;*/
+/*}*/
+
+/*.showable-blur:active {*/
+/*  color:inherit;*/
+/*  text-shadow: none;*/
+/*}*/

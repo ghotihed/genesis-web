@@ -1,0 +1,45 @@
+{
+  "meetings": [
+    {
+      "name": "In-Person Gaming Night",
+      "date": "January 23, 2024 19:00 GMT",
+      "duration": 3,
+      "international": false,
+      "info": [
+        [ "Meeting location", "<a href=\"https://www.google.com/maps/place/Dice+Tower+Cafe+%26+Gaming/@51.2624339,-1.0871107,17z/data=!4m5!3m4!1s0x0:0x8ee6556c7ed74555!8m2!3d51.2624339!4d-1.084922\" target=\"_blank\">Dice Tower Cafe & Gaming, 24 London St, Basingstoke, RG21 7NY</a>" ],
+        [ "Games to bring", "Anything you think they might not already have that you'd like to play" ],
+        [ "Gaming duration", "They close at 10pm, and they start to kick us out then, if we haven't already left of our own accord." ]
+      ]
+    },
+    {
+      "name": "General Club Meeting",
+      "date": "January 7, 2024 17:00",
+      "duration": 2,
+      "credentials": {
+        "url": "https://us06web.zoom.us/j/85958202939?pwd=LXWb2zbGnGKjOp7E8eGLgbqvUpq5YH.1",
+        "id": "859 5820 2939",
+        "pw": "890339"
+      }
+    },
+    {
+      "name": "General Club Meeting",
+      "date": "February 4, 2024 17:00",
+      "duration": 2,
+      "credentials": {
+        "url": "https://us06web.zoom.us/j/86325302269?pwd=XDL8JwtbiQq0Y1DUgvfHWLeaa8hjqM.1",
+        "id": "863 2530 2269",
+        "pw": "396447"
+      }
+    },
+    {
+      "name": "Book Club Meeting",
+      "date": "January 27, 2024 14:00",
+      "duration": 2,
+      "credentials": {
+        "url": "https://us06web.zoom.us/j/87144247080?pwd=mTf3n2RCYGqJfa0oz1mUp4DzwQCOa3.1",
+        "id": "871 4424 7080",
+        "pw": "945510"
+      }
+    }
+  ]
+}
