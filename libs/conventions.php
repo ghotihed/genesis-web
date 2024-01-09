@@ -27,14 +27,19 @@ class Conventions
             $end = null;
         }
         if (!is_null($start) && !is_null($end)) {
-            echo "<td class='conventions-list-dates'>" . $start->format("j\<\s\u\p\>S\<\/\s\u\p\> F Y") . " - " . $end->format("j\<\s\u\p\>S\<\/\s\u\p\> F Y") . "</td>";
+            echo "<td class='conventions-list-dates-long'><i>" . $start->format("j\<\s\u\p\>S\<\/\s\u\p\> F Y") . "</i> <b>to</b> <i>" . $end->format("j\<\s\u\p\>S\<\/\s\u\p\> F Y") . "</i></td>";
+            echo "<td class='conventions-list-dates-short'><i>" . $start->format("j-M-y") . "</i> <b>to</b> <i>" . $end->format("j-M-y") . "</i></td>";
+        } else {
+            // Add empty <td/> elements here.
+            echo "<td class='conventions-list-dates-long'/><td class='conventions-list-dates-short'/>";
         }
+        echo "</tr>";
     }
 
     function createTable(): void {
         if (array_key_exists("conventions", $this->data)) {
             $conventions = $this->data["conventions"];
-            echo "<table class='conventions-list'>";
+            echo "<table class='conventions-list-table'>";
             foreach ($conventions as $convention) {
                 $this->addRow($convention);
             }

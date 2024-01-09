@@ -70,16 +70,19 @@ body {
 }
 
 .conventions-list {
-    margin-left: 10px;
-    margin-right: 10px;
-    border-collapse: collapse;
 }
 
-.conventions-list td {
+.conventions-list-table {
+    border-collapse: collapse;
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+}
+
+.conventions-list-table td {
     padding: 2px 8px 2px;
 }
 
-.conventions-list tr:nth-child(odd) {
+.conventions-list-table tr:nth-child(odd) {
     background-color: #e0e0e0;
 }
 
@@ -90,7 +93,31 @@ body {
 .conventions-list-location {
 }
 
-.conventions-list-dates {
+.conventions-list-dates-long {
+}
+
+.conventions-list-dates-short {
+    display: none;
+}
+
+@media (max-width: 600px) {
+    .conventions-list-table {
+        width: 100%;
+        table-layout: fixed;
+    }
+    .conventions-list-name {
+    }
+    .conventions-list-location {
+        display: none;
+    }
+    .conventions-list-dates-long {
+        display: none;
+    }
+    .conventions-list-dates-short {
+        display: table-cell;
+        vertical-align: middle;
+        white-space: nowrap;
+    }
 }
 
 /*----------------------------------*/
