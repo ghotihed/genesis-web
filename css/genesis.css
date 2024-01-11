@@ -6,6 +6,17 @@ body {
     font-size: 16px;
 }
 
+.page-logo {
+    position: absolute;
+    width: 150px;
+    margin: 10px;
+}
+@media (max-width: 600px) {
+    .page-logo {
+        display: none;
+    }
+}
+
 .page-title {
     text-align: center;
     font-weight: bold;
@@ -14,8 +25,19 @@ body {
     background: linear-gradient(180deg, rgba(0,133,226,1) 25%, rgba(167,193,233,0) 100%);
 }
 
+.page-title img {
+    width: 600px;
+    margin-bottom: 6px;
+}
+@media (max-width: 600px) {
+    .page-title img {
+        width: 300px;
+    }
+}
+
 .page-title h1 {
     font-size: 20pt;
+    margin-top: 0;
     margin-bottom: 0;
 }
 
@@ -88,12 +110,35 @@ body {
 
 .conventions-list-name {
     font-weight: bold;
+    /*padding: 2px 8px 2px;*/
 }
 
 .conventions-list-location {
+    /*padding: 2px 8px 2px;*/
 }
 
 .conventions-list-dates-long {
+}
+
+.conventions-list-dates-start {
+    /*font-style: italic;*/
+    font-weight: bold;
+    /*color: #196000;*/
+    /*padding: 2px 2px 2px 8px;*/
+}
+
+.conventions-list-dates-to {
+    /*font-style: italic;*/
+    /*font-weight: bold;*/
+    /*color: #b9860d;*/
+    /*padding: 2px 2px 8px;*/
+}
+
+.conventions-list-dates-end {
+    /*font-style: italic;*/
+    font-weight: bold;
+    /*color: #196000;*/
+    /*padding: 2px 8px 2px 2px;*/
 }
 
 .conventions-list-dates-short {
@@ -124,7 +169,7 @@ body {
 
 .footer {
     padding: 10px 8px 10px;
-    background-color: rgb(255, 243, 215);
+    background-color: #FFF9F1;
 }
 
 .social-media-links {
@@ -153,54 +198,6 @@ body {
     font-size: x-small;
     text-align: center;
 }
-
-
-/*.enhanced {*/
-/*    margin-left: 20px;*/
-/*    margin-right: 20px;*/
-/*    margin-bottom: 8px;*/
-/*    padding-left: 10px;*/
-/*    padding-right: 10px;*/
-/*    padding-top:8px;*/
-/*    background-color: #e3e3e3;*/
-/*    color: black;*/
-/*    border: solid black 1px;*/
-/*}*/
-
-/*table.conventions {*/
-/*    font-size: 10pt;*/
-/*    margin-left: 20px;*/
-/*    margin-top: 10px;*/
-/*}*/
-
-/*table.conventions td {*/
-/*    padding-left: 10px;*/
-/*    padding-right: 10px;*/
-/*}*/
-
-/*table.links {*/
-/*    width: 100%;*/
-/*}*/
-
-/*table.links th {*/
-/*    text-align: left;*/
-/*    font-weight: bold;*/
-/*    font-size: 12pt;*/
-/*    padding-right: 20px;*/
-/*}*/
-
-/*table.links td {*/
-/*    text-align: left;*/
-/*    vertical-align: top;*/
-/*}*/
-
-/*table.address {*/
-/*    margin-left: 35px;*/
-/*    margin-bottom: 10px;*/
-/*    padding: 0;*/
-/*    border: 0;*/
-/*    border-collapse: collapse;*/
-/*}*/
 
 /*.showable-blur {*/
 /*  color:transparent;*/

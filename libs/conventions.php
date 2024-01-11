@@ -27,11 +27,26 @@ class Conventions
             $end = null;
         }
         if (!is_null($start) && !is_null($end)) {
-            echo "<td class='conventions-list-dates-long'><i>" . $start->format("j\<\s\u\p\>S\<\/\s\u\p\> F Y") . "</i> <b>to</b> <i>" . $end->format("j\<\s\u\p\>S\<\/\s\u\p\> F Y") . "</i></td>";
-            echo "<td class='conventions-list-dates-short'><i>" . $start->format("j-M-y") . "</i> <b>to</b> <i>" . $end->format("j-M-y") . "</i></td>";
+//            echo "<td class='conventions-list-dates-long'><span class='conventions-list-dates-start'>" . $start->format("j\<\s\u\p\>S\<\/\s\u\p\> F Y") . "</span> <span class='conventions-list-dates-to'>to</span> <span class='conventions-list-dates-end'>" . $end->format("j\<\s\u\p\>S\<\/\s\u\p\> F Y") . "</span></td>";
+            echo "<td class='conventions-list-dates-long conventions-list-dates-start'>" . $start->format("j\<\s\u\p\>S\<\/\s\u\p\> F Y") . "</td>";
+            echo "<td class='conventions-list-dates-long conventions-list-dates-to'>-</td>";
+            echo "<td class='conventions-list-dates-long conventions-list-dates-end'>" . $end->format("j\<\s\u\p\>S\<\/\s\u\p\> F Y") . "</td>";
+
+            echo "<td class='conventions-list-dates-short'><span class='conventions-list-dates-start'>" . $start->format("j-M-y") . "</span> <span class='conventions-list-dates-to'>-</span> <span class='conventions-list-dates-end'>" . $end->format("j-M-y") . "</span></td>";
+//            echo "<td class='conventions-list-dates-short conventions-list-dates-start'>" . $start->format("j-M-y") . "</td>";
+//            echo "<td class='conventions-list-dates-short conventions-list-dates-to'>-</td>";
+//            echo "<td class='conventions-list-dates-short conventions-list-dates-end'>" . $end->format("j-M-y") . "</td>";
         } else {
             // Add empty <td/> elements here.
-            echo "<td class='conventions-list-dates-long'/><td class='conventions-list-dates-short'/>";
+//            echo "<td class='conventions-list-dates-long'/>";
+            echo "<td class='conventions-list-dates-long conventions-list-dates-start'/>";
+            echo "<td class='conventions-list-dates-long conventions-list-dates-to'/>";
+            echo "<td class='conventions-list-dates-long conventions-list-dates-end'/>";
+
+            echo "<td class='conventions-list-dates-short'/>";
+//            echo "<td class='conventions-list-dates-short conventions-list-dates-start'/>";
+//            echo "<td class='conventions-list-dates-short conventions-list-dates-to'/>";
+//            echo "<td class='conventions-list-dates-short conventions-list-dates-end'/>";
         }
         echo "</tr>";
     }
