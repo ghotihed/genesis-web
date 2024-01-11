@@ -17,7 +17,7 @@
     <img class="page-logo" src="/images/genesis-logo-white.png" alt="Genesis logo"/>
 
     <div class="page-title">
-        <img src="/images/genesis-banner-name.png" width="800px" alt="Genesis banner name"/>
+        <img src="/images/genesis-banner-name.png" alt="Genesis banner name"/>
         <h1>Welcome to Genesis Sci-fi Club</h1>
         <h2>The Basingstoke science fiction club</h2>
     </div>
