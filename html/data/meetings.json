@@ -12,6 +12,28 @@
       ]
     },
     {
+      "name": "In-Person Gaming Night",
+      "date": "February 20, 2024 19:00 GMT",
+      "duration": 3,
+      "international": false,
+      "info": [
+        [ "Meeting location", "<a href=\"https://www.google.com/maps/place/Dice+Tower+Cafe+%26+Gaming/@51.2624339,-1.0871107,17z/data=!4m5!3m4!1s0x0:0x8ee6556c7ed74555!8m2!3d51.2624339!4d-1.084922\" target=\"_blank\">Dice Tower Cafe & Gaming, 24 London St, Basingstoke, RG21 7NY</a>" ],
+        [ "Games to bring", "Anything you think they might not already have that you'd like to play" ],
+        [ "Gaming duration", "They close at 10pm, and they start to kick us out then, if we haven't already left of our own accord." ]
+      ]
+    },
+    {
+      "name": "In-Person Gaming Night",
+      "date": "March 19, 2024 19:00 GMT",
+      "duration": 3,
+      "international": false,
+      "info": [
+        [ "Meeting location", "<a href=\"https://www.google.com/maps/place/Dice+Tower+Cafe+%26+Gaming/@51.2624339,-1.0871107,17z/data=!4m5!3m4!1s0x0:0x8ee6556c7ed74555!8m2!3d51.2624339!4d-1.084922\" target=\"_blank\">Dice Tower Cafe & Gaming, 24 London St, Basingstoke, RG21 7NY</a>" ],
+        [ "Games to bring", "Anything you think they might not already have that you'd like to play" ],
+        [ "Gaming duration", "They close at 10pm, and they start to kick us out then, if we haven't already left of our own accord." ]
+      ]
+    },
+    {
       "name": "General Club Meeting",
       "date": "January 7, 2024 17:00",
       "duration": 2,
@@ -32,6 +54,16 @@
       }
     },
     {
+      "name": "General Club Meeting",
+      "date": "March 3, 2024 17:00",
+      "duration": 2,
+      "credentials": {
+        "url": "https://us06web.zoom.us/j/88159978676?pwd=58GkSQgphTiVyU5d5Kcw05yzXwgyDo.1",
+        "id": "881 5997 8676",
+        "pw": "038699"
+      }
+    },
+    {
       "name": "Book Club Meeting",
       "date": "January 27, 2024 14:00",
       "duration": 2,
@@ -39,6 +71,16 @@
         "url": "https://us06web.zoom.us/j/87144247080?pwd=mTf3n2RCYGqJfa0oz1mUp4DzwQCOa3.1",
         "id": "871 4424 7080",
         "pw": "945510"
+      }
+    },
+    {
+      "name": "Book Club Meeting",
+      "date": "February 24, 2024 14:00",
+      "duration": 2,
+      "credentials": {
+        "url": "https://us06web.zoom.us/j/86770920499?pwd=bCWAwbaU1wsQgPHVpKg1tL6fsqZK1T.1",
+        "id": "867 7092 0499",
+        "pw": "087421"
       }
     }
   ]
