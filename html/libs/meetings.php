@@ -23,6 +23,7 @@ class Meeting {
     public DateTime $date;
     public int $duration;
     public bool $international;
+    public bool $cancelled;
     public array $info;
     public ?Credentials $credentials;
 
@@ -38,6 +39,11 @@ class Meeting {
             $this->international = $meeting["international"];
         } else {
             $this->international = true;
+        }
+        if (array_key_exists("cancelled", $meeting)) {
+            $this->cancelled = $meeting["cancelled"];
+        } else {
+            $this->cancelled = false;
         }
         if (array_key_exists("info", $meeting)) {
             $this->info = $meeting["info"];
@@ -60,8 +66,9 @@ class Meeting {
 
     function print(): void {
         echo "<li>";
-        echo "<span class='meeting-name'>$this->name:</span> ";
-        echo "<span class='meeting-date'>";
+        $cancelled = $this->cancelled ? " cancelled" : "";
+        echo "<span class='meeting-name$cancelled'>$this->name:</span> ";
+        echo "<span class='meeting-date$cancelled'>";
         echo $this->date->format("l, j\<\s\u\p\>S\<\/\s\u\p\> F Y H:i T");
         echo "</span>";
         if ($this->international) {

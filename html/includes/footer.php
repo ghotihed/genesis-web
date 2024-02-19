@@ -1,5 +1,5 @@
 <?php
-    global $top_file;
+    global $change_file_list;
 ?>
 
 <div class="footer">
@@ -26,7 +26,12 @@
 
     <div class="last-modified">
     <?php
-        echo "Page Last Modified: " . date("l, j\<\s\u\p\>S\<\/\s\u\p\> F Y H:i.", filemtime($top_file));
+        $modified_times = [];
+        foreach ($change_file_list as $file) {
+            $modified_times[] = filemtime($file);
+        }
+        rsort($modified_times);
+        echo "Page Last Modified: " . date("l, j\<\s\u\p\>S\<\/\s\u\p\> F Y H:i.", $modified_times[0]);
     ?>
     </div>
 </div>

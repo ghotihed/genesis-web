@@ -69,6 +69,13 @@
         <?php $conventions->createTable(); ?>
     </div>
 
-    <?php $top_file = __FILE__; include("includes/footer.php"); ?>
+    <?php
+        $change_file_list = [
+            __FILE__,
+            __DIR__ . "/data/conventions.json",
+            __DIR__ . "/data/meetings.json"
+        ];
+        include("includes/footer.php");
+    ?>
 </body>
 </html>

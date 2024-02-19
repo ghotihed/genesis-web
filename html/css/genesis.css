@@ -81,6 +81,10 @@ body {
     font-style: italic;
 }
 
+.cancelled {
+    text-decoration: line-through;
+}
+
 .conventions-list-title {
     text-align: center;
     font-weight: bold;
