@@ -66,7 +66,7 @@
             For more information, visit their respective websites.
         </p>
 
-        <?php $conventions->createTable(); ?>
+        <?php $conventions->print(); ?>
     </div>
 
     <?php
