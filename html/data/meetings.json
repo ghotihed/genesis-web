@@ -2,7 +2,7 @@
   "meetings": [
     {
       "name": "In-Person Gaming Night",
-      "date": "February 20, 2024 19:00 GMT",
+      "date": "May 14, 2024 19:00",
       "duration": 3,
       "international": false,
       "info": [
@@ -13,7 +13,7 @@
     },
     {
       "name": "In-Person Gaming Night",
-      "date": "March 19, 2024 19:00 GMT",
+      "date": "June 11, 2024 19:00",
       "duration": 3,
       "international": false,
       "info": [
@@ -23,18 +23,8 @@
       ]
     },
     {
-      "cancelled": true,
       "name": "In-Person Gaming Night",
-      "date": "April 16, 2024 19:00 GMT",
-      "duration": 3,
-      "international": false,
-      "info": [
-        [ "Cancelled", "Since three of the main regulars will be on a Caribbean cruise at the time of the meeting, this has been cancelled." ]
-      ]
-    },
-    {
-      "name": "In-Person Gaming Night",
-      "date": "May 14, 2024 19:00 GMT",
+      "date": "July 9, 2024 19:00",
       "duration": 3,
       "international": false,
       "info": [
@@ -44,31 +34,67 @@
       ]
     },
     {
-      "name": "General Club Meeting",
-      "date": "March 3, 2024 17:00",
-      "duration": 2,
-      "credentials": {
-        "url": "https://us06web.zoom.us/j/88159978676?pwd=58GkSQgphTiVyU5d5Kcw05yzXwgyDo.1",
-        "id": "881 5997 8676",
-        "pw": "038699"
-      }
-    },
-    {
-      "cancelled": true,
-      "name": "General Club Meeting",
-      "date": "March 31, 2024 17:00",
-      "duration": 2,
+      "name": "In-Person Gaming Night",
+      "date": "August 6, 2024 19:00",
+      "duration": 3,
+      "international": false,
       "info": [
-        [ "Cancelled", "Whether you celebrate it or not, many people would rather do the whole Easter thing."]
+        [ "Meeting location", "<a href=\"https://www.google.com/maps/place/Dice+Tower+Cafe+%26+Gaming/@51.2624339,-1.0871107,17z/data=!4m5!3m4!1s0x0:0x8ee6556c7ed74555!8m2!3d51.2624339!4d-1.084922\" target=\"_blank\">Dice Tower Cafe & Gaming, 24 London St, Basingstoke, RG21 7NY</a>" ],
+        [ "Games to bring", "Anything you think they might not already have that you'd like to play" ],
+        [ "Gaming duration", "They close at 10pm, and they start to kick us out then, if we haven't already left of our own accord." ]
       ]
     },
     {
-      "cancelled": true,
-      "name": "General Club Meeting",
-      "date": "April 28, 2024 17:00",
-      "duration": 2,
+      "name": "In-Person Gaming Night",
+      "date": "September 3, 2024 19:00",
+      "duration": 3,
+      "international": false,
       "info": [
-        [ "Cancelled", "The principal Zoom host will be on a Transatlantic cruise at the time, and will be unable to host the meeting."]
+        [ "Meeting location", "<a href=\"https://www.google.com/maps/place/Dice+Tower+Cafe+%26+Gaming/@51.2624339,-1.0871107,17z/data=!4m5!3m4!1s0x0:0x8ee6556c7ed74555!8m2!3d51.2624339!4d-1.084922\" target=\"_blank\">Dice Tower Cafe & Gaming, 24 London St, Basingstoke, RG21 7NY</a>" ],
+        [ "Games to bring", "Anything you think they might not already have that you'd like to play" ],
+        [ "Gaming duration", "They close at 10pm, and they start to kick us out then, if we haven't already left of our own accord." ]
+      ]
+    },
+    {
+      "name": "In-Person Gaming Night",
+      "date": "October 1, 2024 19:00",
+      "duration": 3,
+      "international": false,
+      "info": [
+        [ "Meeting location", "<a href=\"https://www.google.com/maps/place/Dice+Tower+Cafe+%26+Gaming/@51.2624339,-1.0871107,17z/data=!4m5!3m4!1s0x0:0x8ee6556c7ed74555!8m2!3d51.2624339!4d-1.084922\" target=\"_blank\">Dice Tower Cafe & Gaming, 24 London St, Basingstoke, RG21 7NY</a>" ],
+        [ "Games to bring", "Anything you think they might not already have that you'd like to play" ],
+        [ "Gaming duration", "They close at 10pm, and they start to kick us out then, if we haven't already left of our own accord." ]
+      ]
+    },
+    {
+      "name": "In-Person Gaming Night",
+      "date": "October 29, 2024 19:00",
+      "duration": 3,
+      "international": false,
+      "info": [
+        [ "Meeting location", "<a href=\"https://www.google.com/maps/place/Dice+Tower+Cafe+%26+Gaming/@51.2624339,-1.0871107,17z/data=!4m5!3m4!1s0x0:0x8ee6556c7ed74555!8m2!3d51.2624339!4d-1.084922\" target=\"_blank\">Dice Tower Cafe & Gaming, 24 London St, Basingstoke, RG21 7NY</a>" ],
+        [ "Games to bring", "Anything you think they might not already have that you'd like to play" ],
+        [ "Gaming duration", "They close at 10pm, and they start to kick us out then, if we haven't already left of our own accord." ]
+      ]
+    },
+    {
+      "name": "In-Person Gaming Night",
+      "date": "November 26, 2024 19:00",
+      "duration": 3,
+      "international": false,
+      "info": [
+        [ "Meeting location", "<a href=\"https://www.google.com/maps/place/Dice+Tower+Cafe+%26+Gaming/@51.2624339,-1.0871107,17z/data=!4m5!3m4!1s0x0:0x8ee6556c7ed74555!8m2!3d51.2624339!4d-1.084922\" target=\"_blank\">Dice Tower Cafe & Gaming, 24 London St, Basingstoke, RG21 7NY</a>" ],
+        [ "Games to bring", "Anything you think they might not already have that you'd like to play" ],
+        [ "Gaming duration", "They close at 10pm, and they start to kick us out then, if we haven't already left of our own accord." ]
+      ]
+    },
+    {
+      "name": "In-Person Gaming Night",
+      "date": "December 24, 2024 19:00",
+      "duration": 3,
+      "international": false,
+      "info": [
+        [ "Cancelled", "It's Christmas Eve! The venue's not open!" ]
       ]
     },
     {
@@ -82,33 +108,74 @@
       }
     },
     {
-      "name": "Book Club Meeting",
-      "date": "February 24, 2024 14:00",
+      "name": "General Club Meeting",
+      "date": "June 23, 2024 17:00",
       "duration": 2,
       "credentials": {
-        "url": "https://us06web.zoom.us/j/86770920499?pwd=bCWAwbaU1wsQgPHVpKg1tL6fsqZK1T.1",
-        "id": "867 7092 0499",
-        "pw": "087421"
+        "url": "https://us06web.zoom.us/j/87642453564?pwd=HN2hnTcj2ObDhFTOaazgngdTPcKS6A.1",
+        "id": "876 4245 3564",
+        "pw": "810561"
       }
     },
     {
-      "name": "Book Club Meeting",
-      "date": "March 23, 2024 14:00",
+      "name": "General Club Meeting",
+      "date": "July 21, 2024 17:00",
       "duration": 2,
       "credentials": {
-        "url": "https://us06web.zoom.us/j/81670650398?pwd=UEvGLZFzaouxMiWkCWwPK6D3mApvrv.1",
-        "id": "816 7065 0398",
-        "pw": "646559"
+        "url": "https://us06web.zoom.us/j/86476293341?pwd=uRrsgxatiVfauacjoWIGw9IE6ewFee.1",
+        "id": "864 7629 3341",
+        "pw": "601623"
       }
     },
     {
-      "cancelled": true,
-      "name": "Book Club Meeting",
-      "date": "April 20, 2024 14:00",
+      "name": "General Club Meeting",
+      "date": "August 18, 2024 17:00",
       "duration": 2,
-      "info": [
-        [ "Cancelled", "The Zoom host will be in Washington, D.C. and unable to host the meeting this day."]
-      ]
+      "credentials": {
+        "url": "https://us06web.zoom.us/j/89656937750?pwd=DzPLrRYDAfVmdzr1O4alAeQf5DkoUY.1",
+        "id": "896 5693 7750",
+        "pw": "807171"
+      }
+    },
+    {
+      "name": "General Club Meeting",
+      "date": "September 15, 2024 17:00",
+      "duration": 2,
+      "credentials": {
+        "url": "https://us06web.zoom.us/j/82727047807?pwd=ib40LHF4fKdd99n4bLlwLQgZlVzNAN.1",
+        "id": "827 2704 7807",
+        "pw": "430748"
+      }
+    },
+    {
+      "name": "General Club Meeting",
+      "date": "October 13, 2024 17:00",
+      "duration": 2,
+      "credentials": {
+        "url": "https://us06web.zoom.us/j/89245939675?pwd=kl7WYtOK2Xj3YgWByRpP9CAY1UXxu3.1",
+        "id": "892 4593 9675",
+        "pw": "266009"
+      }
+    },
+    {
+      "name": "General Club Meeting",
+      "date": "November 10, 2024 17:00",
+      "duration": 2,
+      "credentials": {
+        "url": "https://us06web.zoom.us/j/82645898635?pwd=UsQnOjfowzV7Mm3VQPl9vlb5IMibhX.1",
+        "id": "826 4589 8635",
+        "pw": "900541"
+      }
+    },
+    {
+      "name": "General Club Meeting",
+      "date": "December 8, 2024 17:00",
+      "duration": 2,
+      "credentials": {
+        "url": "https://us06web.zoom.us/j/84118206553?pwd=CAbZhQcz3zaF9VIPKkZBTYN1oqAELK.1",
+        "id": "841 1820 6553",
+        "pw": "699353"
+      }
     },
     {
        "name": "Book Club Meeting",
@@ -118,6 +185,92 @@
          "url": "https://us06web.zoom.us/j/86501061681?pwd=ldhW3tfSOamVnt2BjQnZNooEVjLyke.1",
          "id": "865 0106 1681",
          "pw": "345169"
+       }
+     },
+    {
+       "name": "Book Club Meeting",
+       "date": "June 15, 2024 14:00",
+       "duration": 2,
+       "credentials": {
+         "url": "https://us06web.zoom.us/j/88469114821?pwd=F8bTqsuWp7jpWkS6XB5ifzDpS6ZedI.1",
+         "id": "884 6911 4821",
+         "pw": "017743"
+       }
+     },
+    {
+       "name": "Book Club Meeting",
+       "date": "July 13, 2024 14:00",
+       "duration": 2,
+       "credentials": {
+         "url": "https://us06web.zoom.us/j/81786683791?pwd=l1FWIDDUp1FqKGuiVrZobDDgKn9pBA.1",
+         "id": "817 8668 3791",
+         "pw": "939337"
+       }
+     },
+    {
+       "name": "Book Club Meeting",
+       "date": "August 10, 2024 14:00",
+       "duration": 2,
+       "info": [
+         [ "WorldCon", "This date is tentative, depending upon how busy people will be at WorldCon in Glasgow."]
+       ],
+       "credentials": {
+         "url": "https://us06web.zoom.us/j/88281657391?pwd=pieK6NuFiQOAaCTGYQCmwjl8sOEsHN.1",
+         "id": "882 8165 7391",
+         "pw": "737083"
+       }
+     },
+    {
+       "name": "Book Club Meeting",
+       "date": "September 7, 2024 14:00",
+       "duration": 2,
+       "credentials": {
+         "url": "https://us06web.zoom.us/j/81737870372?pwd=Vr0o7INbLVvcBeT3HdMygSzG5PtsUu.1",
+         "id": "817 3787 0372",
+         "pw": "084063"
+       }
+     },
+    {
+       "name": "Book Club Meeting",
+       "date": "October 5, 2024 14:00",
+       "duration": 2,
+       "credentials": {
+         "url": "https://us06web.zoom.us/j/82456928252?pwd=EOzcap6FoAxYV8PzOPj7sp1bxTOOv4.1",
+         "id": "824 5692 8252",
+         "pw": "262916"
+       }
+     },
+    {
+       "name": "Book Club Meeting",
+       "date": "November 2, 2024 14:00",
+       "duration": 2,
+       "info": [
+         [ "WorldCon", "This date is tentative, depending upon how busy people will be at ArmadaCon in Plymouth."]
+       ],
+       "credentials": {
+         "url": "https://us06web.zoom.us/j/84647312991?pwd=f6rTQY9o0aiNUIeBXuV6Jku9LllGEU.1",
+         "id": "846 4731 2991",
+         "pw": "420177"
+       }
+     },
+    {
+       "name": "Book Club Meeting",
+       "date": "November 30, 2024 14:00",
+       "duration": 2,
+       "credentials": {
+         "url": "https://us06web.zoom.us/j/84435854961?pwd=27bBv2LlQYzAome9IwzsmRMjzbQR8b.1",
+         "id": "844 3585 4961",
+         "pw": "881081"
+       }
+     },
+    {
+       "name": "Book Club Meeting",
+       "date": "December 28, 2024 14:00",
+       "duration": 2,
+       "credentials": {
+         "url": "https://us06web.zoom.us/j/84717609901?pwd=KEHiSzha8BXhcUllcPEKhCQMlDJzFv.1",
+         "id": "847 1760 9901",
+         "pw": "363530"
        }
      }
    ]
