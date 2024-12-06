@@ -1,39 +1,25 @@
 {
   "conventions": [
     {
-      "name": "Levitation, the 74<sup>th</sup> Eastercon",
-      "url": "https://eastercon2024.co.uk/",
-      "location": "Telford, UK",
-      "start": "March 29, 2024",
-      "end": "April 1, 2024"
-    },
-    {
-      "name": "Basingstoke Comic Con",
-      "url": "https://www.basingstokecomiccon.com/",
+      "name": "Comic Con Connections",
+      "url": "https://www.comicconconnections.com/",
       "location": "Basingstoke, UK",
-      "start": "May 10, 2024",
-      "end": "May 12, 2024"
+      "start": "September 13, 2025",
+      "end": "September 14, 2025"
     },
     {
-      "name": "Glasgow Worldcon (the 82<sup>nd</sup> Worldcon)",
-      "url": "https://glasgow2024.org/",
-      "location": "Glasgow, UK",
-      "start": "August 8, 2024",
-      "end": "August 12, 2024"
-    },
-    {
-      "name": "World Fantasy Convention 2024",
-      "url": "https://wfc2024.org/",
-      "location": "Niagara Falls, NY, USA",
-      "start": "October 17, 2024",
-      "end": "October 20, 2024"
+      "name": "World Fantasy Convention 2025",
+      "url": "https://worldfantasy2025.co.uk/",
+      "location": "Brighton, UK",
+      "start": "October 30, 2025",
+      "end": "November 2, 2025"
     },
     {
       "name": "ArmadaCon",
       "url": "https://armadacon.org/",
       "location": "Plymouth, UK",
-      "start": "November 1, 2024",
-      "end": "November 3, 2024"
+      "start": "October 31, 2025",
+      "end": "November 2, 2025"
     },
     {
       "name": "Reconnect - Eastercon 2025",
@@ -48,6 +34,13 @@
       "location": "Seattle, WA, USA",
       "start": "August 13, 2025",
       "end": "August 17, 2025"
+    },
+    {
+      "name": "LAcon V (the 84<sup>th</sup> Worldcon)",
+      "url": "https://lacon.org/",
+      "location": "Anaheim, CA, USA",
+      "start": "August 27, 2026",
+      "end": "August 31, 2026"
     }
   ]
 }
