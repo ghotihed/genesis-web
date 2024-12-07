@@ -27,33 +27,47 @@ class Meeting {
     public array $info;
     public ?Credentials $credentials;
 
-    function __construct($meeting) {
-        $this->name = $meeting["name"];
-        try {
-            $this->date = new DateTime($meeting["date"], new DateTimeZone("Europe/London"));
-        } catch (Exception) {
+    function __construct($meeting, $prototype) {
+        if ($prototype != null) {
+            $this->name = $prototype->name;
+            $this->duration = $prototype->duration;
+            $this->international = $prototype->international;
+            $this->cancelled = false;
+            $this->info = $prototype->info;
+            $this->credentials = $prototype->credentials;
+        } else {
+            $this->duration = 1;
+            $this->international = true;
+            $this->cancelled = false;
+            $this->info = [];
+            $this->credentials = null;
+        }
+        if (array_key_exists("name", $meeting)) {
+            $this->name = $meeting["name"];
+        }
+        if (array_key_exists("date", $meeting)) {
+            try {
+                $this->date = new DateTime($meeting["date"], new DateTimeZone("Europe/London"));
+            } catch (Exception) {
+                $this->date = new DateTime("July 20, 1969 20:17 Europe/London");
+            }
+        } else {
             $this->date = new DateTime("July 20, 1969 20:17 Europe/London");
         }
-        $this->duration = $meeting["duration"];
+        if (array_key_exists("duration", $meeting)) {
+            $this->duration = $meeting["duration"];
+        }
         if (array_key_exists("international", $meeting)) {
             $this->international = $meeting["international"];
-        } else {
-            $this->international = true;
         }
         if (array_key_exists("cancelled", $meeting)) {
             $this->cancelled = $meeting["cancelled"];
-        } else {
-            $this->cancelled = false;
         }
         if (array_key_exists("info", $meeting)) {
             $this->info = $meeting["info"];
-        } else {
-            $this->info = [];
         }
         if (array_key_exists("credentials", $meeting)) {
             $this->credentials = new Credentials($meeting["credentials"]);
-        } else {
-            $this->credentials = null;
         }
     }
 
@@ -88,9 +102,7 @@ class Meeting {
                 echo "<li><i>$info_line[0]:</i> $info_line[1]</li>";
             }
 
-            if ($this->credentials != null) {
-                $this->credentials->show();
-            }
+            $this->credentials?->show();
 
             echo "</ul>";
         }
@@ -109,27 +121,30 @@ class Meetings
         $json = file_get_contents($filename);
         $this->data = json_decode($json, true);
 
+        $now = new DateTime();
+        $this->meetings = [];
         if (array_key_exists("meetings", $this->data)) {
-            $this->meetings = [];
-            foreach ($this->data["meetings"] as $meeting_data) {
-                $meeting = new Meeting($meeting_data);
-                $this->meetings[] = $meeting;
+            foreach ($this->data["meetings"] as $meeting_entry) {
+                $prototype = new Meeting($meeting_entry, null);
+                foreach ($meeting_entry["dates"] as $entry) {
+                    $meeting = new Meeting($entry, $prototype);
+                    $end = clone $meeting->date;
+                    $end->add(new DateInterval("PT{$meeting->duration}H"));
+                    if ($end > $now) {
+                        $this->meetings[] = $meeting;
+                    }
+                }
             }
-            usort($this->meetings, "Meeting::cmp");
         }
+        usort($this->meetings, "Meeting::cmp");
     }
 
     function print(): void {
-        $now = new DateTime();
         $displayed = [];
         foreach ($this->meetings as $meeting) {
             if (!in_array($meeting->name, $displayed)) {
-                $end = clone $meeting->date;
-                $end->add(new DateInterval("PT{$meeting->duration}H"));
-                if ($end > $now) {
-                    $displayed[] = $meeting->name;
-                    $meeting->print();
-                }
+                $displayed[] = $meeting->name;
+                $meeting->print();
             }
         }
     }
