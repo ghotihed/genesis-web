@@ -33,15 +33,15 @@
             engage in a quiz, etc. But over the course of the pandemic, the Genesis club accumulated
             a number of members who cannot attend in-person (usually because they're too far away,
             some by multiple thousands of miles). As a result, the regular Genesis meetings are
-            currently being held online using the Zoom platform. The same goes for the book club
-            meetings. Connection information will be posted here, and on social media (hopefully)
-            no later than an hour before the meeting starts.
+            currently being held online using the Zoom platform. Connection information will be
+            posted here, and on social media (hopefully) no later than an hour before the meeting starts.
         </p>
         <p>
-            As for in-person meetings, we try to get together once per month at a venue for
-            table-top gaming. At the moment, that venue is the
+            As for in-person meetings, we tried to get together once per month at a venue for
+            table-top gaming called the
             <a href="https://www.dicetowercafe.co.uk/" target="_blank">Dice Tower gaming cafe</a>
-            located in Basingstoke. The scheduled meetups are posted here, as well.
+            located in Basingstoke. It was not very well attended, and while we can wholeheartedly
+            recommend people visit, we don't regularly meet there anymore.
         </p>
 
         <p>

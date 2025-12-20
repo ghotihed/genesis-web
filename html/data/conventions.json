@@ -8,11 +8,25 @@
       "end": "September 14, 2025"
     },
     {
+      "name": "Comic Con Connections",
+      "url": "https://www.comicconconnections.com/",
+      "location": "Basingstoke, UK",
+      "start": "September 12, 2026",
+      "end": "September 13, 2026"
+    },
+    {
       "name": "World Fantasy Convention 2025",
       "url": "https://worldfantasy2025.co.uk/",
       "location": "Brighton, UK",
       "start": "October 30, 2025",
       "end": "November 2, 2025"
+    },
+    {
+      "name": "The 52<sup>nd</sup> World Fantasy Convention",
+      "url": "https://wfc2026.org/",
+      "location": "Oakland, CA, USA",
+      "start": "October 22, 2026",
+      "end": "November 25, 2026"
     },
     {
       "name": "ArmadaCon",
@@ -22,11 +36,25 @@
       "end": "November 2, 2025"
     },
     {
+      "name": "ArmadaCon",
+      "url": "https://armadacon.org/",
+      "location": "Plymouth, UK",
+      "start": "November 6, 2026",
+      "end": "November 8, 2026"
+    },
+    {
       "name": "Reconnect - Eastercon 2025",
       "url": "https://easterconbelfast.org/",
       "location": "Belfast, Northern Ireland",
       "start": "April 18, 2025",
       "end": "April 21, 2025"
+    },
+    {
+      "name": "Iridescence - Eastercon 2026",
+      "url": "https://eastercon2026.org/",
+      "location": "Birmingham, UK",
+      "start": "April 3, 2026",
+      "end": "April 6, 2026"
     },
     {
       "name": "Seattle Worldcon (the 83<sup>rd</sup> Worldcon)",
@@ -41,6 +69,13 @@
       "location": "Anaheim, CA, USA",
       "start": "August 27, 2026",
       "end": "August 31, 2026"
+    },
+    {
+      "name": "Montréal Worldcon 2027 (the 85<sup>th</sup> Worldcon)",
+      "url": "https://site.montreal2027.ca/",
+      "location": "Montréal, Quebec, Canada",
+      "start": "September 2, 2027",
+      "end": "September 6, 2027"
     }
   ]
 }
